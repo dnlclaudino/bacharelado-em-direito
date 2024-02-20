@@ -38,7 +38,9 @@
 
 ## 4. Conceito de Ciência Política e de Teoria Geral do Estado
 
-- Formas de Poder
+### Ciência Política
+
+- **Formas de Poder**
   - Para Max Weber:
     - Poder Carismático
     - Poder Legal;
@@ -47,6 +49,37 @@
           - Hitler, na Alemanda;
           - Getúlio Vargas, na década de 30;
     - Poder Tradicional
-  - 
+- **Regimes Totalitários**
+  - Será ministrada uma aula no INSTITUTO PARAIBANO DE HISTÓRIA (previsão final de março/2024, antes da semana santa)
+  - Serão Abordados os seguintes regimes totalitários (até o final de abril/2024)
+    - Comunismo (1923)
+      - Local: URSS
+      - Personagem: Stalin
+    - Facismo (1922)
+      - Local: Itália
+      - Personagem: Mussolini
+    - Nazismo (1933)
+      - Local: Alemanha
+      - Personagem: Hitler
+    - Estado Novo (1937)
+      - Local: Brasil
+      - Personagem: Getúlio Vargas
+- **Formas e Sistemas de Governo**
+  - Formas de Governo
+    - República
+    - Monarquia
+  - Sistema de Governo
+    - Parlamentarismo
+    - Presidencialismo
+    - Semi-presidencialismo (não será abordado)
+      - Exemplos:
+        - Portugal (Exemplo mais concreto)
+        - França
 
+### Teoria Geral do Estado
 
+- Conceito de constituição
+- Poderes
+  - Legislativo
+  - Executivo
+  - Judiciário
