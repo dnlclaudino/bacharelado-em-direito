@@ -1,6 +1,20 @@
+
+<div align="center">
+
+<p align="center"><img height="120" src="../../../figuras/LOGO_UNIESP.png"> </p>
+
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+<b>Disciplina</b>: CIÊNCIA POLÍTICA E TEORIA DO ESTADO<br>
+<b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
+
+</div>
+
 # Notas de Aula da Disciplina Ciência Política e TGE em 20/02/2024 (Terça-feira)
 
-## Tópicos Abordados em aula
+## Tópicos Abordados em Aula
+
 1. Apresentação do professor e expectativas professor-aluno;
 2. Referências bibliográficas / Bibliografia Recomendada;
 3. Apresentação do plano de ensino;
@@ -12,9 +26,9 @@
 
 - **Nome do Professor:** Jean
 - **Intervalo:** 09:15 a 09:30
-- Será ministrada 01 disciplina por dia alternadamente durante a semana;
+- Será ministrada 01 disciplina por dia, alternadamente durante a semana;
 - A disciplina será ministrada de forma objetiva e direcionada estritamente ao conteúdo de sua ementa;
-  -  Não serão topicos de discussão políticos específicos;
+  -  Não serão tópicos de discussão políticos específicos;
 
 ## 2. Referências bibliográficas / Bibliografia Recomendada
 
@@ -40,7 +54,7 @@
 - Observação:
   - Serão abordados REGIMES TOTALITÁRIOS na disciplina;
 
-## Conceitos em Ciência Política
+### Conceitos em Ciência Política
 
 - **Formas de Poder**
   - Para Max Weber:
@@ -105,7 +119,7 @@
     - Dinâmica
   - Observação do professor, às 10:08:
     - Em relação ao EXERCÍCIO DA POLÍTCA
-      - Cuidado: (não consegui captar a ideia aqui 😢)
+      - Cuidado: (<span style="background-color:yellow">não consegui captar a ideia aqui 😢</span>)
   - Conceito de Teoria Geral do Estado
     - Conceito de Teoria Geral
     - Absolutismo (Características)
