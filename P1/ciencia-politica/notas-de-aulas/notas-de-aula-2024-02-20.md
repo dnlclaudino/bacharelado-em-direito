@@ -2,9 +2,11 @@
 
 ## Tópicos Abordados em aula
 1. Apresentação do professor e expectativas professor-aluno;
-2. Apresentação do plano de ensino
-3. Referências bibliográficas / Bibliografia Recomendada
-4. Conceito de Ciência Política e de Teoria GEral do Estado
+2. Referências bibliográficas / Bibliografia Recomendada;
+3. Apresentação do plano de ensino;
+   - Conceitos de Ciência Política;
+   - Conceitos de Teoria Geral do Estado;
+4. Apresentação de Slides da Disciplina;
 
 ## 1. Apresentação do professor e expectativas professor-aluno
 
@@ -14,16 +16,7 @@
 - A disciplina será ministrada de forma objetiva e direcionada estritamente ao conteúdo de sua ementa;
   -  Não serão topicos de discussão políticos específicos;
 
-## 2. Apresentação do plano de ensino 
-
-- Formas de Avaliação:
-  - Prova Subjetiva;
-  - Prova Objetiva e Subjetiva;
-  - Atividades para nota (são possíveis);
-- Observação:
-  - Serão abordados REGIMES TOTALITÁRIOS na disciplina;
-
-## 3. Referências bibliográficas / Bibliografia Recomendada
+## 2. Referências bibliográficas / Bibliografia Recomendada
 
 - **Autor:** Maquiavel
   - **Livro:** O príncipe
@@ -33,12 +26,21 @@
       - Limitação dos poderes / Separação dos Poderes
 - **Autor:** Karl Marx
   - **Livro:** O Capital
-- **Autor:** 
-  - **Livro:** 
+- **Autor:** Francisco C. Weffort 
+  - **Livro:** Os Clássicos da Política Vol. 1
+- **Autor:** Paulo Bonavides
+  - **Livro:** Ciência Política
 
-## 4. Conceito de Ciência Política e de Teoria Geral do Estado
+## 3. Apresentação do plano de ensino 
 
-### Ciência Política
+- Formas de Avaliação:
+  - Prova Subjetiva;
+  - Prova Objetiva e Subjetiva;
+  - Atividades para nota (são possíveis);
+- Observação:
+  - Serão abordados REGIMES TOTALITÁRIOS na disciplina;
+
+## Conceitos em Ciência Política
 
 - **Formas de Poder**
   - Para Max Weber:
@@ -76,10 +78,35 @@
         - Portugal (Exemplo mais concreto)
         - França
 
-### Teoria Geral do Estado
+### Conceitos em Teoria Geral do Estado
 
 - Conceito de constituição
 - Poderes
   - Legislativo
   - Executivo
   - Judiciário
+- Poder Constituinte
+- Partidos políticos;
+- Eleição e o voto no Brasil
+- Democracia
+
+## 4. Apresentação de Slides da Disciplina
+
+- As 09:43, após o retorno do intervalo, iniciou-se a utilização da apostila da aula 01 da disciplina;
+- Foram apresentados slides que versaram como conteúdo:
+  - Conceito de Ciência Política
+    - Conceito de ciência;
+    - O exercício do poder;
+    - A distribuição do poder;
+    - A organização do poder;
+  - Temas abordados pela Ciência Política
+    - Processos Eleitorais
+    - Resposta da população às decisões políticas
+    - Dinâmica
+  - Observação do professor, às 10:08:
+    - Em relação ao EXERCÍCIO DA POLÍTCA
+      - Cuidado: (não consegui captar a ideia aqui 😢)
+  - Conceito de Teoria Geral do Estado
+    - Conceito de Teoria Geral
+    - Absolutismo (Características)
+      - Tem como característica o poder (político e econômico) centralizado nas mãos de uma única pessoa (monarca);
