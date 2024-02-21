@@ -17,17 +17,17 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-### COINF/SEINF
+### FACULDADE DE DIREITO
 
-## Apresentação do Plano de Ação: Contribuição para Melhoria nas Condições de Telefonia VOIP
+## Apresentação do Plano de Ação: <span style="background-color:yellow">NOME-DO-PLANO-DE-ACAO</span>
 
-![width:2.5cm](./figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png)
 
-Responsável pelo Plano de Ação
+![width:2.5cm](../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png)
 
-08 de Novembro de 2023
+
+<span style="background-color:yellow">dd de nome-do-mes de 202x</span>
 
 ---
 
@@ -98,7 +98,7 @@ Para atendimento das [necessidades identificadas](#2-necessidades-identificadas)
 ## 4. Entregas 🚚
 
 - O que são Entregas?
-  - Qualquer produto, resultado ou capacidade de realizar um serviço, que seja único e verificável, produzido para concluir um processo, fase ou projeto.
+  - Qualquer **produto**, **resultado** ou **capacidade de realizar um serviço**, que seja <u>**único**</u> e <u>**verificável**</u>, produzido para concluir um processo, fase ou projeto.
 
 
 ---
@@ -132,7 +132,7 @@ section {
 ### 1. Acesse: [https://trello.com](https://trello.com)
 ### 2. Clique em "Área de trabalho" > "TRE-PB (SEINF)", em área de trabalho do convidado
 
-![height:8cm](./figuras/trello-area-de-trabalho-quadro-do-plano-de-acao.png)
+![height:8cm](../figuras/exemplos-de-figuras/trello-area-de-trabalho-quadro-do-plano-de-acao.png)
 
 ### 3. Procure o QUADRO "2.1. Plano de Ação: Contribuição para Melhoria nas Condições de Telefonia VOIP no TRE-PB pela SEINF 2023"
 
@@ -150,7 +150,7 @@ section {
 
 ## Caso não tenha acesso, solicite ao responsável pela SEINF
 
-![](./figuras/trello-quadro-compartilhado.png)
+![](../figuras/exemplos-de-figuras/trello-quadro-compartilhado.png)
 
 ---
 ## [5. O Plano de Ação no TRELO](https://trello.com/b/zx6cej84/21-plano-de-a%C3%A7%C3%A3o-contribui%C3%A7%C3%A3o-para-melhoria-nas-condi%C3%A7%C3%B5es-de-telefonia-voip-no-tre-pb-pela-seinf-2023)
@@ -164,7 +164,7 @@ section {
 }
 </style>
 
-![](./figuras/trello-plano-de-acao-entregas-atividades-datas-responsavel.png)
+![](../figuras/exemplos-de-figuras/trello-plano-de-acao-entregas-atividades-datas-responsavel.png)
 
 ---
 
@@ -172,7 +172,7 @@ section {
 
 - A equipe do projeto deve atuar na área do quadro que possui **entregas** e **atividades** do plano de ação, conforme indicado ao lado.
 
-![bg right width:16cm](./figuras/trello-entregas-e-atividades.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-entregas-e-atividades.png)
 
 ---
 ## 5.2 Plano de Ação: O que é uma atividade ?
@@ -183,7 +183,7 @@ section {
   - Uma data ou período de execução;
   - Um responsável.
 
-![bg right width:16cm](./figuras/trello-card-atividade.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-card-atividade.png)
 
 ---
 ## 5.2.1 O que é uma atividade: DETALHES
@@ -194,15 +194,15 @@ section {
   - Uma data ou período de execução;
   - Um responsável.
 
-![bg right width:13cm](./figuras/trello-card-atividade-em-execucao-registrar-assentamento.png)
+![bg right width:13cm](../figuras/exemplos-de-figuras/trello-card-atividade-em-execucao-registrar-assentamento.png)
 
 ---
 ## 5.2.2 O que é uma atividade: ETIQUETAS
 
 - As seguintes **etiquetas** podem estar associados a um CARD.
 
-![bg right width:8cm](./figuras/trello-etiquetas-de-atividades.png)
-![bg right width:8cm](./figuras/trello-etiquetas-de-reuniao.png)
+![bg right width:8cm](../figuras/exemplos-de-figuras/trello-etiquetas-de-atividades.png)
+![bg right width:8cm](../figuras/exemplos-de-figuras/trello-etiquetas-de-reuniao.png)
 
 ---
 ## 5.2.3 O que é uma atividade: EM EXECUÇÃO
@@ -210,14 +210,14 @@ section {
 - Quando uma atividade estiver em execução, coloque a etiqueta "Atividade EM EXECUÇÃO"
 - O CARD da atividade ficará aparecendo conforme indicado ao lado:
 
-![bg right width:16cm](./figuras/trello-card-atividade-em-execucao.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-card-atividade-em-execucao.png)
 
 ---
 ## 5.2.4 O que é uma atividade: REGISTRAR ASSENTAMENTO
 
 - Qualquer ocorrência deve ser registrada como um assentamento na atividade no local indicado ao lado, **ESTANDO OU NÃO** a atividade **EM EXECUÇÃO**;
 
-![bg right width:13cm](./figuras/trello-card-atividade-em-execucao-registrar-assentamento.png)
+![bg right width:13cm](../figuras/exemplos-de-figuras/trello-card-atividade-em-execucao-registrar-assentamento.png)
 
 - Lembre-se de clicar no botão **SALVAR**, ao final dos assentamentos
 - **Observação**: pode-se **mencionar** um **membro da equipe** com uma **arroba "@"**
@@ -229,14 +229,14 @@ section {
 - Retire a **ETIQUETA** "**Atividade EM EXECUÇÃO**"
 - Atribua a **ETIQUETA** "**Atividade CONCLUÍDA**"
 
-![bg right width:13cm](./figuras/trello-card-atividade-desmarcar-em-execucao-marcar-concluida.png)
+![bg right width:13cm](../figuras/exemplos-de-figuras/trello-card-atividade-desmarcar-em-execucao-marcar-concluida.png)
 
 ---
 ## 5.2.6 O que é uma atividade: CONCLUIR UMA ATIVIDADE (2/3)
 
 - Ao final o CARD da atividade ficará conforme indicado ao lado.
 
-![bg right width:16cm](./figuras/trello-card-atividade-concluida-registrar-assentamento.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-card-atividade-concluida-registrar-assentamento.png)
 
 - **Observação**: Sempre que registrar um assentamento, você poderá **mencionar** um **membro da equipe** com uma **arroba "@"**
 
@@ -245,7 +245,7 @@ section {
 
 - Ao final o CARD da atividade ficará conforme indicado ao lado.
 
-![bg right width:18cm](./figuras/trello-card-atividade-concluida.png)
+![bg right width:18cm](../figuras/exemplos-de-figuras/trello-card-atividade-concluida.png)
 
 - **Observação**: Sempre que registrar um assentamento, você poderá **mencionar** um **membro da equipe** com uma **arroba "@"**
 
@@ -254,14 +254,14 @@ section {
 
 - Clique no logo **SEU USUÁRIO**, no **canto superior direito**, conforme indicado ao lado.
 
-![bg right width:7cm](./figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer.png)
+![bg right width:7cm](../figuras/exemplos-de-figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer.png)
 
 ---
 ## 6. Como ver todas as atividades atribuidas a você? (2/3)
 
 - Verifique que os **critérios de exibição** estejam conforme mostrado ao lado.
 
-![bg right width:17cm](./figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer2.png)
+![bg right width:17cm](../figuras/exemplos-de-figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer2.png)
 
 ---
 ## 6. Como ver todas as atividades atribuidas a você? (3/3)
@@ -271,7 +271,7 @@ section {
 - **ATENÇÃO**: Atender atividades foram do prazo, provavelmente, atrasará a conclusão do plano de ação.
 
 
-![bg right width:16cm](./figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer3.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer3.png)
 
 ---
 ## 6. Como ver todas as atividades atribuidas a você? (3/3)
@@ -279,7 +279,7 @@ section {
 - Para alterar qualquer informação da atividade (CARD), como data de entrega, responsável, etiquetas, etc e/ou para realizar assentamentos, basta clicar na atividades (CARD).
 - Antes de alterar o **responsável** e a **data/período de entrega**, comunique ao responsável pelo plano de ação;
 
-![bg right width:16cm](./figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer3.png)
+![bg right width:16cm](../figuras/exemplos-de-figuras/trello-usuario-cartoes-o-que-eu-tenho-para-fazer3.png)
 
 ---
 <style scoped>
@@ -291,11 +291,11 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
 ### COINF/SEINF
 
-## Plano de Ação: Contribuição para Melhoria nas Condições de Telefonia VOIP
+## Plano de Ação: <span style="background-color:yellow">NOME-DO-PLANO-DE-ACAO</span>
 
 <span style="color: green; font-size: 90px">🤔<br>Dúvidas ???</span>
 
@@ -310,7 +310,7 @@ section {
 }
 </style>
 
-![bg](./figuras/obrigado.png)
+![bg](../figuras/obrigado.png)
 
 <br><br><br><br><br><br><br><br>
 <span style="color: white; font-size: 120px">Muito Obrigado !!!</span>
