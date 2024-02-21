@@ -20,7 +20,8 @@
 2. Formas de Avaliação;
 3. Bibliografia Utilizada na Disciplina;
 4. Como serão Abordados os Itens da Ementa da Disciplina ?
-5. Avisos / Observações / Anotações Diversas;
+5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)
+6. Avisos / Observações / Anotações Diversas;
 
 ## Apresentação da Ementa da Disciplina;
 
@@ -100,6 +101,42 @@
   - O que o governo precisa fazer para saber como contribuir para que se desenvolve e não apenas cresca
   - Mensuarção concentraçao do grau de (não peguei a ideia aqui🤔)...
 
+## Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)
+
+### Capítulo 01 - Introdução à Economia
+
+- **Aspectos Conceituais e Definições**
+  - Conceito de Economia
+    - Economia é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e serviços; 
+  - Conceito de recursos ou fatores de reprodução
+    - (falado no contexto de um escritório de advocacia)
+  - Conceito de adicionais ou fatores que **agregam valor** ao produto ou serviço;
+    - **Reflexão:** Deve-se entender os PONTOS FUNDAMENTAIS que serão fatores de produção e quais adicionais ou fatores que agregam valor adicional no escritório de advocacia;
+      - Conhecer e gerenciar as necessidades do cliente;
+      - Considerando a importância de gerenciar a escassez dos recursos (fatores de produção), deve-se buscar a eficiência;
+      - **CONCEITO DE EFICIÊNCIA**
+        - Relacionado ao modo de fazer;
+        - É entregar o máximo de resultado com o mínimo necesário de utilização de recursos;
+      - **CONCEITO DE EFICÁCIA**
+        - Relacionados com o resultado final
+        - É atingir objetivos almejados;
+- **Os problemas econômicos fundamentais (ESCASSEZ);**
+  - O **QUE** produzir ?
+    - Implica em analisar o mercado;
+    - Implica em descobrir as necessidades desse mercado;
+    - Implica em avaliar as próprias capacidades face ãs necessidades encontradas;
+  - **QUANTO** produzir ?
+  - **COMO** produzir ?
+  - Para **QUEM** produzir ?
+- **Sistemas Econômicos**
+  - Elementos Básicos
+    - Estoque de recursos ou fatores de produção
+    - Complexo de unidades de produção
+    - Conjunto de Instituições Políticas
+    - Conjunto de Instituições Econômicas
+    - Conjunto de Instituições Jurídicas
+    - Conjunto de Instituições Sociais
+  - Classificação do Sistemas Econômico
 
 ## Avisos / Observações / Anotações Diversas;
 
