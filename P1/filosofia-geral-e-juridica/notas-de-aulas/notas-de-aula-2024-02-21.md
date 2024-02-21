@@ -6,7 +6,7 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: <span style="background-color:yellow">NOME-DA-DISCIPLINA</span><br>
-<b>Professor</b>: <span style="background-color:yellow">NOME-DO-PROFESSOR</span><br>
+<b>Professor</b>: <span style="background-color:yellow">ODILON</span><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
 
 </div>
@@ -15,22 +15,33 @@
 
 ## Tópicos Abordados em Aula
 
-1. Tópico 1;
-2. Tópico 2;
-3. Tópico 3;
-4. Avisos / Observações / Anotações Diversas;
+1. Apresentação da Ementa da Disciplina;
+2. Formas de Avaliação;
+3. Avisos / Observações / Anotações Diversas;
 
-## Tópico 1;
+## Apresentação da Ementa da Disciplina;
 
-- (...)
+### Filosofia Jurídica
 
-## Tópico 2;
+- Filosofia do Direito
+  - Aspectos conceituais
+  - Importância da Filosofia do Direito
+  - Origem da Filosofia do Direito
+- A Filosofia do Direito e seus Horizontes
+  - O pensamento Jurídico ou Filosófico
+  - A Filosofia do Direito Contemporâneo
+- Aristóteles e a Filosofia do Direito
+  - Justiça;
+  - Justiça Universal;
+  - Justiça Perticular.
+  - Justiça Distributiva;
+  - Justiça Corretiva ou Comutativa
 
-- (...)
+## Formas de Avaliação
 
-## Tópico 3;
-
-- (...)
+- O professor enviará textos para leitura <span style="color:red;font-weight:bold"><u>**antes da aula**</u></span>;
+- Durante a aula, o professor irá sortear ou escolher um aluno para que ele discorra sobre o que foi abordado nos textos;
+- Não haverá prova (🤔pelo que eu entendi.);
 
 ## Avisos / Observações / Anotações Diversas;
 
