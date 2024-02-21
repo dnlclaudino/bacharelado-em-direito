@@ -7,23 +7,29 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Economia</span><br>
-<b>Professor</b>: <span style="background-color:yellow">ODILON</span><br>
+<b>Professor</b>: ODILON<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
 
 </div>
 
-# Notas de Aula da Disciplina de Economia em 21/02/2024 (Quarta-feira</span>)
+# Notas de Aula da Disciplina de Economia em 21/02/2024 (Quarta-feira)
 
 ## Tópicos Abordados em Aula
 
-1. Apresentação da Ementa da Disciplina;
-2. Formas de Avaliação;
-3. Bibliografia Utilizada na Disciplina;
-4. Como serão Abordados os Itens da Ementa da Disciplina ?
-5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)
-6. Avisos / Observações / Anotações Diversas;
+<!-- TOC updateonsave:false-->
 
-## Apresentação da Ementa da Disciplina;
+- [1. Apresentação da Ementa da Disciplina;](#1-apresentação-da-ementa-da-disciplina)
+- [2. Formas de Avaliação](#2-formas-de-avaliação)
+- [3. Bibliografia Utilizada na Disciplina](#3-bibliografia-utilizada-na-disciplina)
+- [4. Como serão Abordados os Itens da Ementa da Disciplina ?](#4-como-serão-abordados-os-itens-da-ementa-da-disciplina-)
+- [5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)](#5-início-do-conteúdo-da-disciplina-capítulo-01-do-livro-recomendado) 
+- [6. Tópicos a serem abordados na próxima aula](#6-tópicos-a-serem-abordados-na-próxima-aula)
+- [7. Avisos / Observações / Anotações Diversas](#7-avisos--observações--anotações-diversas)
+- [8. Referências Bibliográficas Utilizadas Na Aula](#8-referências-bibliográficas-utilizadas-na-aula)
+
+<!-- /TOC -->
+
+## 1. Apresentação da Ementa da Disciplina;
 
 - Introdução à Economia (capítulo 01);
   - O que é Economia enquanto ciência;
@@ -37,7 +43,7 @@
 - Inflação
 - Crescimento e Desenvolvimento Econômico
 
-## Formas de Avaliação
+## 2. Formas de Avaliação
 
 - Realização de EXERCÍCIOS valendo nota (pequenas avaliações) <span style="color:red;font-weight:bold">a serem respondidos <u>DURANTE A **AULA**</u></span>;
 - Os pontos dos exercício <u>**ajudarão**</u> na nota da prova;
@@ -45,14 +51,13 @@
 - A parte de cáculo envolvida nos capítulos não será objeto de avaliação;
 - Por último, será realizada uma prova;
 
-## Bibliografia Utilizada na Disciplina
+## 3. Bibliografia Utilizada na Disciplina
 
 - Bibliografia que será utilizada na disciplina:
-  - Livro:
-    - Fundamentos de Economia, Marco Antônio Vasconcelos e Manual E. Garcia;
+  - Livro: Fundamentos de Economia, Marco Antônio Vasconcelos e Manual E. Garcia;
     - Observação: A edição do livro a que o aluno tiver acesso NÃO será relevante NEM INTERFERIRÁ no conteúdo de forma que atrapalhe a avaliação; 
 
-# Como serão Abordados os Itens da Ementa da Disciplina ?
+# 4. Como serão Abordados os Itens da Ementa da Disciplina ?
 
 - **Capítulo 01 - Introdução à Economia**
   - O que é Economia enquanto ciência;
@@ -95,31 +100,111 @@
       - Custo Fixo
       - Custo Variável
       - Markup (M)
+  - Receita (R)
+  - Equação R = P X Quantidade
+  - Despesa (D)
+  - Lucro (L)
+  - Equação L = R - D
 - **Capítulo 15 - Crescimento e Desenvolvimento Econômico**
-  - O que é crescimento economico
+  - O que é crescimento econômico ?
   - Desenvolvimento economico (variáveis qualitativas)
   - O que o governo precisa fazer para saber como contribuir para que se desenvolve e não apenas cresca
-  - Mensuarção concentraçao do grau de (não peguei a ideia aqui🤔)...
+  - Mensuração da concentraçao do grau de (não peguei a ideia aqui🤔)...
 
-## Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)
+## 5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)
 
 ### Capítulo 01 - Introdução à Economia
 
 - **Aspectos Conceituais e Definições**
   - Conceito de Economia
-    - Economia é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e serviços; 
+  
+  
+    - **CONCEITO FORNECIDO PELO PROFESSOR ODILON**:
+      - Economia é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e/ou serviços, distribuindo-os de forma igualitária para a sociedade; 
+
+      <table border="1" id="quadro-definicao-o-que-e-economia-prof-odilon">
+        <tr>
+          <td align="center" width="140px" style="border-right-style:hidden">
+            <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+            <b>Definição</b>
+          </td>
+          <td valign="top">
+           <p style="text-align:center"><b>O QUE É ECONOMIA ?</b></p>
+           <p style="text-align:justify"><b>ECONOMIA</b> é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e/ou serviços, distribuindo-os de forma igualitária para a sociedade.</p>
+          </td>
+        </tr>
+      </table>
+
+
+    - **CONCEITO de Vasconcelos e Garcia (2014, p.2) contido no livro FUNDAMENTOS DE ECONOMIA**[^VASCONCELOS-GARCIA-2014]:
+
+      <table border="1" id="quadro-definicao-o-que-e-economia-livro-vasconcelo-e-garcia">
+        <tr>
+          <td align="center" width="140px" style="border-right-style:hidden">
+            <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+            <b>Definição</b>
+          </td>
+          <td valign="top">
+           <p style="text-align:center"><b>O QUE É ECONOMIA ?</b></p>
+           <p style="text-align:justify"><b>ECONOMIA</b> é a ciência social que estuda <b>COMO</b> o <u><b>indivíduo</b></u> e a <u><b>sociedade</b></u> decidem (<span style="background-color:yellow"><b>Escolhem</b></span>) empregar <span style="background-color:yellow"><b>recursos produtivos</b></span> <span style="background-color:yellow"><b>escassos</b></span> de <span style="background-color:yellow"><b>produção</b></span> de bens e serviços, de modo a <span style="background-color:yellow"><b>distribuí-los</b></span> entre as várias <u><b>pessoas</b></u> e <u><b>distribuí-los</b></u> da sociedade, a fim de satisfazer as necessidades humanas;</p>
+          </td>
+        </tr>
+      </table>
+
+  - **ELEMENTOS** a serem ressaltados no **CONCEITO DE ECONOMIA** apresentado por **Vasconcelos e Garcia (2014, p.2)**[^VASCONCELOS-GARCIA-2014]:
+    - Escolha
+    - Escassez
+    - Necessidades
+    - Recursos
+    - Produção
+    - Distribuição
   - Conceito de recursos ou fatores de reprodução
     - (falado no contexto de um escritório de advocacia)
   - Conceito de adicionais ou fatores que **agregam valor** ao produto ou serviço;
-    - **Reflexão:** Deve-se entender os PONTOS FUNDAMENTAIS que serão fatores de produção e quais adicionais ou fatores que agregam valor adicional no escritório de advocacia;
-      - Conhecer e gerenciar as necessidades do cliente;
-      - Considerando a importância de gerenciar a escassez dos recursos (fatores de produção), deve-se buscar a eficiência;
-      - **CONCEITO DE EFICIÊNCIA**
-        - Relacionado ao modo de fazer;
-        - É entregar o máximo de resultado com o mínimo necesário de utilização de recursos;
-      - **CONCEITO DE EFICÁCIA**
-        - Relacionados com o resultado final
-        - É atingir objetivos almejados;
+
+<table border="1" id="quadro-reflexao-1">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+      <b>Reflexao</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>QUAIS SERÃO OS FATORES DE PRODUÇÃO E OS FATORES ADICIONAIS QUE AGREGARIAM VALOR NUM ESCRITÓRIO DE ADVOCACIA ?</b></p>
+     <p style="text-align:justify">Deve-se entender os <b>PONTOS FUNDAMENTAIS</b> que serão fatores de produção e quais adicionais ou fatores que agregam valor adicional no escritório de advocacia:</p>
+     <ul>
+       <li>Conhecer e gerenciar as necessidades do cliente;</li>
+       <li>Considerando a importância de gerenciar a escassez dos recursos (fatores de produção), deve-se buscar a eficiência;</li>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table border="1" id="quadro-definicao-o-que-e-eficiencia">
+        <tr>
+          <td align="center" width="140px" style="border-right-style:hidden">
+            <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+            <b>Definição</b>
+          </td>
+          <td valign="top">
+           <p style="text-align:center"><b>O QUE É EFICIÊNCIA ?</b></p>
+           <p style="text-align:justify">Eficiência é um conceito relacionado ao modo de fazer. Eficiência é entregar o máximo de resultado com o mínimo necesário de utilização de recursos.</p>
+          </td>
+        </tr>
+</table>
+
+<table border="1" id="quadro-definicao-o-que-e-eficacia">
+        <tr>
+          <td align="center" width="140px" style="border-right-style:hidden">
+            <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+            <b>Definição</b>
+          </td>
+          <td valign="top">
+           <p style="text-align:center"><b>O QUE É EFICÁCIA ?</b></p>
+           <p style="text-align:justify">Eficiência é um conceito relacionado com o <b>resultado final<b/>. Eficácia é atingir os objetivos almejados;</p>
+          </td>
+        </tr>
+</table>
+
 - **Os problemas econômicos fundamentais (ESCASSEZ);**
   - O **QUE** produzir ?
     - Implica em analisar o mercado;
@@ -128,9 +213,12 @@
   - **QUANTO** produzir ?
   - **COMO** produzir ?
   - Para **QUEM** produzir ?
+
+## 6. Tópicos a serem abordados na próxima aula
+
 - **Sistemas Econômicos**
   - Elementos Básicos
-    - Estoque de recursos ou fatores de produção
+    - Estoque de recursos de producao ou fatores de produção
     - Complexo de unidades de produção
     - Conjunto de Instituições Políticas
     - Conjunto de Instituições Econômicas
@@ -138,7 +226,11 @@
     - Conjunto de Instituições Sociais
   - Classificação do Sistemas Econômico
 
-## Avisos / Observações / Anotações Diversas;
+## 7. Avisos / Observações / Anotações Diversas
 
-- (...)
+- Nada a registrar aqui nesta data ✅.
+
+# 8. Referências Bibliográficas Utilizadas Na Aula
+
+[^VASCONCELOS-GARCIA-2014]: VASCONCELOS, Marco Antônio Sandoval de; GARCIA, Manoel Enriquez. 5. ed. São Paulo: Saraiva, 2014
 
