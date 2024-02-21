@@ -17,17 +17,17 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-### COINF/SEINF
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
 
-## Plano de Ação: Contribuição para Melhoria nas Condições de Telefonia VOIP
+</div>
 
-![width:2.5cm](./figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png)
+<!-- ![width:5cm](../figuras/LOGO-TRE-PB.jpg) -->
 
-PLACAS DE IDENTIFICAÇÃO USADAS NO PLANO DE AÇÃO
-
-Novembro de 2023
+# MODELO DE PLACAS DE IDENTIFICAÇÃO
 
 ---
 <style scoped>
@@ -39,9 +39,15 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-<span style="color: black; font-size: 120px">TELEFONES VOIP PARA TESTES</span>
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
+
+<span style="color: black; font-size: 85px">TELEFONES VOIP PARA TESTES</span>
 
 #### Período de 13/11/2023 a 08/12/2023
 
@@ -55,24 +61,15 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-<span style="color: black; font-size: 100px">ÁREA DE CONFIGURAÇÃO DE EQUIPAMENTOS #1</span>
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
 
+</div>
 
----
-<style scoped>
-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-}
-</style>
-
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
-
-<span style="color: black; font-size: 100px">ÁREA DE CONFIGURAÇÃO DE EQUIPAMENTOS #2</span>
+<span style="color: black; font-size: 85px">ÁREA DE CONFIGURAÇÃO DE EQUIPAMENTOS #1</span>
 
 
 ---
@@ -85,9 +82,36 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-<span style="color: black; font-size: 120px">ÁREA DE TESTES</span>
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
+
+<span style="color: black; font-size: 85px">ÁREA DE CONFIGURAÇÃO DE EQUIPAMENTOS #2</span>
+
+
+---
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
+![width:5cm](../figuras/LOGO_UNIESP.png)
+
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
+
+<span style="color: black; font-size: 85px">ÁREA DE TESTES</span>
 
 # TELEFONES VOIP
 #### Período de 13/11/2023 a 08/12/2023
@@ -102,25 +126,15 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-<span style="color: black; font-size: 120px">EM CONDIÇÕES DE USO</span>
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
 
-# TELEFONES VOIP
+</div>
 
----
-<style scoped>
-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-}
-</style>
-
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
-
-<span style="color: black; font-size: 120px">COM DEFEITO / DANIFICADO</span>
+<span style="color: black; font-size: 85px">EM CONDIÇÕES DE USO</span>
 
 # TELEFONES VOIP
 
@@ -134,9 +148,37 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
 
-<span style="color: black; font-size: 120px">Peças Avulsas</span>
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
+
+<span style="color: black; font-size: 85px">COM DEFEITO / DANIFICADO</span>
+
+# TELEFONES VOIP
+
+---
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
+![width:5cm](../figuras/LOGO_UNIESP.png)
+
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
+
+<span style="color: black; font-size: 85px">Peças Avulsas</span>
 <span style="color: black; font-size: 40px">(Não testadas)</span>
 
 # TELEFONES VOIP
@@ -151,7 +193,13 @@ section {
 }
 </style>
 
-![width:5cm](./figuras/LOGO-TRE-PB.jpg)
+![width:5cm](../figuras/LOGO_UNIESP.png)
+
+<div align="center">
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+
+</div>
 
 #### Plano de Ação: Contribuição para Melhoria nas Condições de Telefonia VOIP
 
