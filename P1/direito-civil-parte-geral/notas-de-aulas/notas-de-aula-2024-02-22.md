@@ -45,7 +45,7 @@
 
 ### 2.2. Principais Matrizes
 
-- PRINCÍPIOS são matrizes norteadoras do Direito;
+- **PRINCÍPIOS** são matrizes norteadoras do Direito;
   - Exemplo:
     - Princípio da Dignidade da Pessoa Humana;
 - O livro "O leviatã" de Thomas Hobbes foi citado:
@@ -104,7 +104,7 @@
 
 - ✳️ Pablo Stolze Gangliano e Pamplona Filho
 - 🔴 Guilherme Calmon
-- ✳️ Sebastião José Roque
+- ✳️ Sebastião José Roque (Usado pela 👩‍🏫prof. na sala de aula)
 - ✳️ Maria Helena Diniz
 - ✳️ Carlos Roberto Gonçalves
 - ✳️ Silvio Rodrigues
