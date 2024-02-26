@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <p align="center"><img height="120" src="../../../figuras/LOGO_UNIESP.png"> </p>
@@ -23,16 +22,16 @@
 
 ## 2. Questionário do Material
 
-- Após leitura do texto [Filosofia do Direito](https://1drv.ms/w/s!Au-CrfNP6c0bhsU6JBIZn1-L7LQwvQ?e=aS8yey), comente com suas palavras os seguintes pontos: 
+- Após leitura do texto [Filosofia do Direito](https://1drv.ms/w/s!Au-CrfNP6c0bhsU6JBIZn1-L7LQwvQ?e=aS8yey), comente com suas palavras os seguintes pontos:
 
-1. **Com suas palavras, digo como diferenciar Filosofia de Filosofia do Direito?** 
+1. **Com suas palavras, digo como diferenciar Filosofia de Filosofia do Direito?**
     - **Resposta**:
 
-2. **A Filosofia e o Direito são duas ciências importantes para a humanidade. Nesse sentido, como podemos destacar a similaridade sobre a importância das mesmas para a humanidade?** 
+2. **A Filosofia e o Direito são duas ciências importantes para a humanidade. Nesse sentido, como podemos destacar a similaridade sobre a importância das mesmas para a humanidade?**
     - **Resposta**:
   
-3. **Confronte a Origem da Filosofia e a Origem do Direito.** 
+3. **Confronte a Origem da Filosofia e a Origem do Direito.**
     - **Resposta**:
 
-4. **Qual o seu entendimento sobre o Papel da Filosofia do Direiro?** 
+4. **Qual o seu entendimento sobre o Papel da Filosofia do Direiro?**
     - **Resposta**:
