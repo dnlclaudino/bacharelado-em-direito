@@ -7,11 +7,12 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
 <b>Professora</b>: Mariana Tavares<br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
-
+<b>Aluno</b>: Daniel Lima Claudino / 1º período <br>
+<b>Data</b>: 22 de Fevereiro de 2024, Quinta-Feira<br><br>
+ </p>
 </div>
 
-# Notas de Aula da Disciplina DIREITO CIVIL em (Quinta-feira)
+# Notas de Aula da Disciplina DIREITO CIVIL (PARTE GERAL)
 
 ## Tópicos Abordados em Aula
 
@@ -78,22 +79,25 @@
 </table>
 
 ### 2.5. Natureza de Direito Privado (Jusprivatística)
-    - ( Não peguei a ideia aqui... 🤔)
-### 2.6. Derivações do Direito Civil
-  - Direito do Trabalho
-    - Deriva do sub-ramo do Direito Civil: Contratos
-    - Contrato do Trabalho
-  - Direito Empresarial (antigamente chamado de Direito Comercial)
-    - Deriva do sub-ramo do Direito Civil: Contratos
-    - Contrato Social
-  - Direito do Consumidor
-    - Deriva do sub-ramo do Direito Civil: Contratos
-    - Contrato de Consumo
-      - O **contrato de consumo** é aquele firmado entre o fornecedor e o consumidor, destinatário final do produto ou serviço oferecido, em regra.
-  - Direito Autoral (propriedade intelectual, marcas e patentes)
-  - Direito Eletrônico
 
-## 3. Assuntos para Próxima Aula ...
+    - ( Não peguei a ideia aqui... 🤔)
+
+### 2.6. Derivações do Direito Civil
+
+- Direito do Trabalho
+  - Deriva do sub-ramo do Direito Civil: Contratos
+  - Contrato do Trabalho
+- Direito Empresarial (antigamente chamado de Direito Comercial)
+  - Deriva do sub-ramo do Direito Civil: Contratos
+  - Contrato Social
+- Direito do Consumidor
+  - Deriva do sub-ramo do Direito Civil: Contratos
+  - Contrato de Consumo
+    - O **contrato de consumo** é aquele firmado entre o fornecedor e o consumidor, destinatário final do produto ou serviço oferecido, em regra.
+- Direito Autoral (propriedade intelectual, marcas e patentes)
+- Direito Eletrônico
+
+## 3. Assuntos para Próxima Aula
 
 - O que é
   - Ato juridico
@@ -111,7 +115,6 @@
 - ✳️ Silvio de Salvo Venosa
 - ✳️ Orlando Gomes
 
-
-## 5. Avisos / Observações / Anotações Diversas;
+## 5. Avisos / Observações / Anotações Diversas
 
 - (...)

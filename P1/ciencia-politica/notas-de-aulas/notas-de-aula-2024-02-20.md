@@ -7,11 +7,12 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: CIÊNCIA POLÍTICA E TEORIA DO ESTADO<br>
 <b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
-
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<b>Data</b>: 20 de Fevereiro de 2024, Terça-Feira<br><br>
+ </p>
 </div>
 
-# Notas de Aula da Disciplina Ciência Política e TGE em 20/02/2024 (Terça-feira)
+# Notas de Aula da Disciplina Ciência Política e TGE
 
 ## Tópicos Abordados em Aula
 

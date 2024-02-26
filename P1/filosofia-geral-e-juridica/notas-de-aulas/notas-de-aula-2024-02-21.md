@@ -5,13 +5,14 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: <span style="background-color:yellow">NOME-DA-DISCIPLINA</span><br>
-<b>Professor</b>: <span style="background-color:yellow">ODILON</span><br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
-
+<b>Disciplina</b>:Filosofia Geral e Jurídica<br>
+<b>Professor</b>: ODILON<br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período <br>
+<b>Data</b>: 21 de Fevereiro de 2024, Quarta-Feira<br><br>
+ </p>
 </div>
 
-# Notas de Aula da Disciplina <span style="background-color:yellow">NOME-DA-DISCIPLINA</span> em <span style="background-color:yellow">DD/MM/AAAA</span> (<span style="background-color:yellow">XXXXX-feira</span>)
+# Notas de Aula da Disciplina Filosofia Geral e Jurídica
 
 ## Tópicos Abordados em Aula
 
@@ -19,7 +20,7 @@
 2. Formas de Avaliação;
 3. Avisos / Observações / Anotações Diversas;
 
-## Apresentação da Ementa da Disciplina;
+## Apresentação da Ementa da Disciplina
 
 ### Filosofia Jurídica
 
@@ -43,6 +44,6 @@
 - Durante a aula, o professor irá sortear ou escolher um aluno para que ele discorra sobre o que foi abordado nos textos;
 - Não haverá prova (🤔pelo que eu entendi.);
 
-## Avisos / Observações / Anotações Diversas;
+## Avisos / Observações / Anotações Diversas
 
 - (...)
