@@ -5,11 +5,13 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: FILOSOFIA GERAL E JURÍDICA<br>
-<b>Professor</b>: XXXX<br>
+<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
 <b>Data</b>: 28 de Fevereiro de 2024, Quarta-Feira<br><br>
  </p>
 </div>
+
+# Texto para Atividade: Filosofia do Direito: o que é, qual sua importância e origem!
 
 ## O que é a Filosofia do Direito ?
 
@@ -92,4 +94,35 @@
 </tr>
 </table>
 
-### Qual a ORIGEM do Direito ? (na página 03)
+### Qual a ORIGEM do Direito ?
+
+- O Direito surgiu da necessidade de **regular a vida em sociedade**;
+  - Antes da escrita, o Direito já se fazia presente na sociedade;
+  - Após o surgimento da escrita, **o formato do Direito** mudou mas sua finalidade permaneceu a mesma: **regular a vida em sociedade**
+
+### Qual a IMPORTÂNCIA do Direito para Humanidade ?
+
+- Desde muito tempo, a partir do momento em que o ser humano passou a viver em grupos maiores, formando as sociedades, algumas regras, que regulamentavam e garantiam um convívio harmônico foram criadas e impostas, sendo um dos pilares essenciais de qualquer civilização;
+- Seria inviável e impossível que um mundo sem o Direito existisse;
+
+## Filosofia do Direito
+
+### Qual a ORIGEM da Filosofia do Direito
+
+- A “Filosofia do Direito”, como conhecemos hoje, passou a ser utilizado apenas a partir do ano de 1820;
+- O responsável pelo emprego do termo, foi o filósofo <u>**Friedrich Hegel**</u>:
+  - Obra “Princípios da Filosofia do Direito”
+  - Ela surgiu, devido ao sentimento que busca entender os fatos jurídicos de maneira mais abrangente e complexa, desviando o olhar da norma estática
+
+### Qual o PAPEL da Filosofia do Direito ?
+
+- **INCENTIVAR** e **IMPULSIONAR**  o profissional da área do Direito:
+  - A procurar uma visão mais ampla e complexa do **fato jurídico**;
+  - A transcender a visão técnica e engessada da **norma**
+
+### Qual a IMPORTÂNCIA da Filosofia do Direito ?
+
+- Através de uma visão mais ampla e complexa do **fato jurídico**, transcender a visão técnica e engessada da **norma**, tornando a ciência do Direito mais completa e justa, contribuindo para uma melhor aplicação da norma e um melhor funcionamento da sociedade.
+
+
+## Questionário
