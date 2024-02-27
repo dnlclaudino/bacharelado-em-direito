@@ -12,37 +12,186 @@
  </p>
 </div>
 
-# Notas de Aula
+# Notas da Aula 01
 
-<!-- TOC -->
+<!-- TOC updateonsave:false -->
 
-- [Notas de Aula](#notas-de-aula)
-  - [Tópicos Abordados em Aula](#t%C3%B3picos-abordados-em-aula)
-  - [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
-  - [Tópicos a serem abordados na próxima aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
-  - [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
-  - [Avisos / Observações](#avisos--observa%C3%A7%C3%B5es)
-  - [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
-    - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
-    - [Autores Recomendados para Disciplina](#autores-recomendados-para-disciplina)
-  - [Material Disponibilizado no Site IESP.Edu.br](#material-disponibilizado-no-site-iespedubr)
+- [Ementa a ser Trabalhada nesta Disciplina](#ementa-a-ser-trabalhada-nesta-disciplina)
+  - [1º Parte](#%C2%BA-parte)
+  - [2º Parte](#%C2%BA-parte)
+- [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
+  - [Cidadania no Brasil: Um Longo Caminho](#cidadania-no-brasil-um-longo-caminho)
+  - [O **CONCEITO DE CIDADÃO** entre 1822 à 1889](#o-conceito-de-cidad%C3%A3o-entre-1822-%C3%A0-1889)
+  - [O **CONCEITO DE CIDADÃO** entre 1889 à 1930](#o-conceito-de-cidad%C3%A3o-entre-1889-%C3%A0-1930)
+  - [Os anos 30 no Brasil](#os-anos-30-no-brasil)
+- [Tópicos A Serem Abordados Na Próxima Aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
+- [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
+- [Avisos / Observações](#avisos--observa%C3%A7%C3%B5es)
+  - [AVISO 1: Data em que NÃO HAVERÁ AULA](#aviso-1-data-em-que-n%C3%A3o-haver%C3%A1-aula)
+  - [AVISO 2:Atividade Relacionada com o ITEM "Conceito de Cidadão"](#aviso-2atividade-relacionada-com-o-item-conceito-de-cidad%C3%A3o)
+  - [AVISO 3: Formas de Avaliação nesta Disciplina](#aviso-3-formas-de-avalia%C3%A7%C3%A3o-nesta-disciplina)
+  - [AVISO 4: Visita Institucional](#aviso-4-visita-institucional)
+- [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
+  - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
+- [Material Disponibilizado pelo Professor](#material-disponibilizado-pelo-professor)
 
 <!-- /TOC -->
 
-## 1. Conteúdo da Aula
+## 1.Ementa a ser Trabalhada nesta Disciplina
 
-- Começe aqui...
+### 1º Parte
 
-## 2. Tópicos a serem abordados na próxima aula
+- Conceito de Cidadão
+- Conceito de Sociologia
+- Conceito de Sociedade
+- A cidadania no Brasil: Um Longo Caminho
 
-## 3. Anotações Relevantes Feitas Durante a Aula
+### 2º Parte
 
-## 4. Avisos / Observações
+- O Positivismo em Augusto Comte (séc. XIX)
+- Durkheim (séc. XIX)
+  - Fato Social
+  - Anomia
+  - Suicídio
+- Karl Marx (séc. XIX)
+  - Luta de Classes
+  - Materialismo Histórico
+- Max Weber (séc. -)
+  - Coesão social
+    - Instituições sociais
+  - Ação Social
 
-## 5. Referências Bibliográficas
+## 2.Conteúdo da Aula
+
+### Cidadania no Brasil: Um Longo Caminho
+
+- O autor **José Murílo de Carvalho** realizou um trabalho, no livro "[CIDADANIA NO BRASIL: UM LONGO CAMINHO](https://www.amazon.com.br/Cidadania-no-Brasil-longo-caminho/dp/6558020424)  ", em que analisou a existência do conceito de cidadania através de cada momento da história do Brasil[^CARVALHO-2021] ;
+
+<table border="1" id="quadro-definicao-conceito-de-cidadacia">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-conceito.png?raw=true" heigh="80" width="80"><br>
+   <b>Conceito</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>CONCEITO DE CIDADANIA <br>Segundo o autor <u>José Murílo de Carvalho</u></b></p>
+  <p style="text-align:justify">
+   De acordo com <b>José Murílo de Carvalho</b>, cidadão é o detendor de três <b>direitos básicos</b>:
+  </p>
+     <ul>
+     <li>Direitos Sociais: Saúde, Lazer etc;</li>
+     <li>Direitos Políticos: Votar e ser votado;</li>
+     <li>Direitos Civis: Liberdades (pensamento, expressão, religiosa etc);</li>
+     </ul>
+   </td>
+</tr>
+</table>
+
+- A lição sobre o conceito de cidadania trazida pelo autor nunca foi aplicada no Brasil até a Constituição de 1988;
+
+### O **CONCEITO DE CIDADÃO** entre 1822 à 1889
+
+- O **CONCEITO DE CIDADÃO** entre 1822 à 1889:
+  - A **sociedade brasileira** no período compreendido entre 1822 à 1889, era uma sociedade:
+    - Que não tinha igualdade;
+    - Que não tinha liberdade
+      - Era escravagista;
+    - Que não tinha democracia;
+    - Que não tinha liberdade religiosa;
+    - Que não tinha movimentos sociais;
+    - Que não tinha direitos sociais;
+    - Em que a IGREJA dava a **educação** e **saúde**;
+    - Que, em relação à terra, era formada por latifúndios (grandes propriedades rurais)
+
+### O **CONCEITO DE CIDADÃO** entre 1889 à 1930
+
+- O **CONCEITO DE CIDADÃO** entre 1889 à 1930:
+  - A **sociedade brasileira** no período compreendido entre 1889 à 1930, era uma sociedade:
+    - Em que não haviam direitos sociais:
+      - à saúde;
+      - à educação
+      - à moradia;
+    - Em que não havia garantia de liberdade;
+    - Em que não tinha havia garantia trabalhista;
+    - Em que havia uma DEMOCRACIA RELATIVA
+      - No período compreendido entre 1889 à 1930, em média, 2% da população
+      - Em 1945: 12% da população podiam votar
+
+### Os anos 30 no Brasil
+
+- A era Vargas no Brasil
+  - Medo do Comunismo; e
+  - Direitos Sociais <span style="background-color:yellow">**EMERGEM no Brasil**</span>
+    - Saúde
+    - Educação
+    - Moradia
+  - Ocorreu uma "**REVOLUÇÃO SOCIAL**" no Brasil;
+  - Do ponto de vista dos **DIREITOS SOCIAIS**
+    - Getúlio <span style="background-color:lightgreen">**amplia**</span> os <span style="background-color:yellow">**direitos sociais**</span>;
+  - Do ponto de vista da **DEMOCRACIA**
+    - Getúlio <span style="background-color:lightgreen">**promoveu**</span> <span style="background-color:yellow">**grande repressão**</span>;
+      - Censura;
+      - Força policial;
+      - Controle dos sindicatos;
+  - **MOVIMENTOS SOCIAIS** no BRasil:
+    - **LIGAS CAMPONESAS**
+      - Surge a luta e reinvidicações por:
+        - **DIREITOS SOCIAIS NO CAMPO** (antes, os direitos sociais eram só reinvidicados para os moradores das cidades)
+      - **REFORMA AGRÁRIA**
+
+## 3.Tópicos A Serem Abordados Na Próxima Aula
+
+- Será finalizado o assunto de cidadania;
+- Serão abordados os itens da ementa:
+  - Sociedade;
+  - Sociologia; e
+  - Positivismo.
+
+## 4.Anotações Relevantes Feitas Durante a Aula
+
+- Não tem como...rsss😆
+
+## 5.Avisos / Observações
+
+### AVISO 1: Data em que NÃO HAVERÁ AULA
+
+- Nesta data, o professor JEAN avisou que:
+  - Em **09 de Abril de 2024** não haverá aula, em decorrência de uma viagem que ele fará à Brasilia-DF.
+
+### AVISO 2:Atividade Relacionada com o ITEM "Conceito de Cidadão"
+
+- Em relação ao ITEM "Conceito de Cidadão" será trabalhado um TEXTO BASE que será disponibilizado tempestivamentena área da disciplina SOCIOLOGIA na ÁREA DO ALUNO DE GRADUAÇÃO.
+
+### AVISO 3: Formas de Avaliação nesta Disciplina
+
+- Os alunos serão avaliados por meio de GRUPOS DE TRABALHO (de até 06 alunos) sobre os temas relacionados à EMENTA da disciplina:
+  - Serão realizadas atividades valendo até 5,0 pontos sobre os AUTORES
+    - Comte
+    - Durkheim
+    - Mark
+    - Weber
+  - Os alunos deve entregar uma folha com os tópicos a serem trabalhados
+    - Os alunos devem introduzir o assunto que será desenvolvido pelo professor;
+    - O professor irá desenvolver os tópicos apresentados pelos alunos;
+
+### AVISO 4: Visita Institucional
+
+- Em **26 de março de 2024**, terça-feira, será realizada uma visita institucional [IHGP](https://www.ihgp.net/ihgp/inicial.php);
+  - O IHGP comporta, no máximo, até 40 pessoas;
+  - Em tese, serão divididos dois grupos, um para fazer a visita na terça e outro para fazer a visita na sexta-feira;
+  - A visita será realizada uma semana antes da prova;
+  - Será **<span style="background-color:yellow">TRABALHADA UMA REVISÃO PARA A PROVA !!!</span>**
+    - <span style="background-color:yellow">Movimentos **TOTALITÁRIOS**</span>:
+      - Nazismo
+      - Facismo
+      - Comunismo
+
+## 6.Referências Bibliográficas
 
 ### Utilizadas Durante a Aula
 
-### Autores Recomendados para Disciplina
+CARVALHO, José Murilo de. [Cidadania no Brasil: O longo caminho](https://www.amazon.com.br/Cidadania-no-Brasil-longo-caminho/dp/6558020424). 27. ed. Rio de Janeiro: Civilização Brasileira, 2021
 
-## 6. Material Disponibilizado no Site IESP.Edu.br
+## 7.Material Disponibilizado pelo Professor
+
+- Não houve material disponibilizado nesta data.
