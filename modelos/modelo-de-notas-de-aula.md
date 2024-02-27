@@ -12,13 +12,11 @@
  </p>
 </div>
 
-# Notas de Aula da Disciplina Ciência Política e TGE
-
-## Tópicos Abordados em Aula
+# Notas de Aula
 
 <!-- TOC -->
 
-- [Notas de Aula da Disciplina Ciência Política e TGE](#notas-de-aula-da-disciplina-ci%C3%AAncia-pol%C3%ADtica-e-tge)
+- [Notas de Aula](#notas-de-aula)
   - [Tópicos Abordados em Aula](#t%C3%B3picos-abordados-em-aula)
   - [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
   - [Tópicos a serem abordados na próxima aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
@@ -30,6 +28,10 @@
   - [Material Disponibilizado no Site IESP.Edu.br](#material-disponibilizado-no-site-iespedubr)
 
 <!-- /TOC -->
+
+## Tópicos Abordados em Aula
+
+- Começe aqui...
 
 ## 1. Conteúdo da Aula
 
