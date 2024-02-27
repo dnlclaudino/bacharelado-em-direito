@@ -17,7 +17,6 @@
 <!-- TOC -->
 
 - [Notas de Aula](#notas-de-aula)
-  - [Tópicos Abordados em Aula](#t%C3%B3picos-abordados-em-aula)
   - [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
   - [Tópicos a serem abordados na próxima aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
   - [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
@@ -29,11 +28,9 @@
 
 <!-- /TOC -->
 
-## Tópicos Abordados em Aula
+## 1. Conteúdo da Aula
 
 - Começe aqui...
-
-## 1. Conteúdo da Aula
 
 ## 2. Tópicos a serem abordados na próxima aula
 
