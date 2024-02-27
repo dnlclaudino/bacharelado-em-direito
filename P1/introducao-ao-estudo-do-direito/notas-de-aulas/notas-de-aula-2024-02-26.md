@@ -120,11 +120,15 @@
 
 ## 4. Avisos / Observações
 
-## 5. Referências Bibliográficas Utilizadas Durante a Aula
+- Nada a registrar aqui na presente data.
+
+## 5. Referências Bibliográficas
+
+### Utilizadas Durante a Aula
 
 - A **obra de Sófocles**: Antígona
 
-## 5. Referências Bibliográficas RECOMENDADAS para Disciplina
+### Autores Recomendados para Disciplina
 
 - DIMITRI DIMOULIS
 - PAULO NADER
@@ -133,14 +137,8 @@
 
 ## 6. Material Disponibilizado pelo Professo no Site IESP.edu.br
 
-Plano de Aula - Introdução e Teoria do Direito
-Publicação:21/02/2024
-
-Trilogia Tebana
-Publicação:17/08/2023
-
-Comentários de Dimoulis a respeito da conceituação do Direito
-Publicação:17/08/2023
-
-Conceituações acerca do Direito
-Publicação:17/08/2023
+- Disponibilizados no site do curso em [IESP.edu.br](https://portaltotvs.iesp.edu.br:60443/FrameHTML/web/app/edu/PortalEducacional/#/disciplina/66542/2338876)
+  - Plano de Aula - Introdução e Teoria do Direito
+  - Trilogia Tebana
+  - Comentários de Dimoulis a respeito da conceituação do Direito
+  - Conceituações acerca do Direito
