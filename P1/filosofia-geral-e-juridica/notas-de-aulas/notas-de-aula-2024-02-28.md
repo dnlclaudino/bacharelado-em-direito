@@ -5,7 +5,7 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>:Filosofia Geral e Jurídica<br>
-<b>Professor</b>: ODILON<br>
+<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período <br>
 <b>Data</b>: 21 de Fevereiro de 2024, Quarta-Feira<br><br>
  </p>
