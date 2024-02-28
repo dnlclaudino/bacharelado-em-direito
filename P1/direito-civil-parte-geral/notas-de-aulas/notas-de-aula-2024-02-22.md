@@ -6,7 +6,7 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
-<b>Professora</b>: Mariana Tavares<br>
+<b>Professora</b>: MARIANA TAVARES<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período <br>
 <b>Data</b>: 22 de Fevereiro de 2024, Quinta-Feira<br><br>
  </p>

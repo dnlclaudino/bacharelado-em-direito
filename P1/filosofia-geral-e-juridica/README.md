@@ -1,3 +1,15 @@
+<div align="center">
+
+<p align="center"><img height="120" src="../../figuras/LOGO_UNIESP.png"> </p>
+
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<b>Data</b>: 28 de Fevereiro de 2024, Quarta-Feira<br><br>
+ </p>
+</div>
+
 # Filosofia Geral e Jurídica
 
 - **Prof.:** NOME-DO-PROFESSOR
@@ -5,5 +17,6 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|[Notas de Aula](./notas-de-aulas/README.md)|-|
+|2|[Atividades](./atividades/README.md)|- Algumas atividades possuem questionário com respostas|
 
 ## Avisos / Observações / Anotações
