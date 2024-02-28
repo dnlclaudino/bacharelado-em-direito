@@ -4,7 +4,7 @@
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Economia</span><br>
-<b>Professor</b>: ODILON<br>
+<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período </p>
 <b>Data</b>: 21 de Fevereiro de 2024, Quarta-Feira<br><br>
 </p>
@@ -21,14 +21,14 @@
 - [2. Formas de Avaliação](#2-formas-de-avaliação)
 - [3. Bibliografia Utilizada na Disciplina](#3-bibliografia-utilizada-na-disciplina)
 - [4. Como serão Abordados os Itens da Ementa da Disciplina ?](#4-como-serão-abordados-os-itens-da-ementa-da-disciplina-)
-- [5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)](#5-início-do-conteúdo-da-disciplina-capítulo-01-do-livro-recomendado) 
+- [5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)](#5-início-do-conteúdo-da-disciplina-capítulo-01-do-livro-recomendado)
 - [6. Tópicos a serem abordados na próxima aula](#6-tópicos-a-serem-abordados-na-próxima-aula)
 - [7. Avisos / Observações / Anotações Diversas](#7-avisos--observações--anotações-diversas)
 - [8. Referências Bibliográficas Utilizadas Na Aula](#8-referências-bibliográficas-utilizadas-na-aula)
 
 <!-- /TOC -->
 
-## 1. Apresentação da Ementa da Disciplina;
+## 1. Apresentação da Ementa da Disciplina
 
 - Introdução à Economia (capítulo 01);
   - O que é Economia enquanto ciência;
@@ -36,8 +36,8 @@
   - Atuacao dos agentes de mercado (empresas, familia e XXXX)
   - Curva de possibilidade de produção
   - Qual a melhor combinação a ser feita para atender o mercado;
-- Introdução à Microeconomia (capítulo 
-- Demanda, Oferta e Equilíbrio de Mercado  (capítulo 
+- Introdução à Microeconomia (capítulo
+- Demanda, Oferta e Equilíbrio de Mercado  (capítulo
 - Estruturas de Mercado
 - Inflação
 - Crescimento e Desenvolvimento Econômico
@@ -54,7 +54,7 @@
 
 - Bibliografia que será utilizada na disciplina:
   - Livro: Fundamentos de Economia, Marco Antônio Vasconcelos e Manual E. Garcia;
-    - Observação: A edição do livro a que o aluno tiver acesso NÃO será relevante NEM INTERFERIRÁ no conteúdo de forma que atrapalhe a avaliação; 
+    - Observação: A edição do livro a que o aluno tiver acesso NÃO será relevante NEM INTERFERIRÁ no conteúdo de forma que atrapalhe a avaliação;
 
 # 4. Como serão Abordados os Itens da Ementa da Disciplina ?
 
@@ -67,7 +67,7 @@
 
 - **Capítulo 04 - Introdução à Macroeconomia**
   - Como se divide a Economia (Macroeconomia/Microeconomia) ?
-    - Microeconomia 
+    - Microeconomia
     - Estuda o comportamento individual;
     - Como definir a melhor estratégia para atuar no mercado ?
     - Pressupostos básicos ...
@@ -117,9 +117,8 @@
 - **Aspectos Conceituais e Definições**
   - Conceito de Economia
   
-  
     - **CONCEITO FORNECIDO PELO PROFESSOR ODILON**:
-      - Economia é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e/ou serviços, distribuindo-os de forma igualitária para a sociedade; 
+      - Economia é uma ciência social que tem como principal preocupação gerenciar o uso recursos naturais de produção, transformando os recursos, de forma racional, em bens e/ou serviços, distribuindo-os de forma igualitária para a sociedade;
 
       <table border="1" id="quadro-definicao-o-que-e-economia-prof-odilon">
         <tr>
@@ -133,7 +132,6 @@
           </td>
         </tr>
       </table>
-
 
     - **CONCEITO de Vasconcelos e Garcia (2014, p.2) contido no livro FUNDAMENTOS DE ECONOMIA**[^VASCONCELOS-GARCIA-2014]:
 
@@ -232,4 +230,3 @@
 # 8. Referências Bibliográficas Utilizadas Na Aula
 
 [^VASCONCELOS-GARCIA-2014]: VASCONCELOS, Marco Antônio Sandoval de; GARCIA, Manoel Enriquez. 5. ed. São Paulo: Saraiva, 2014
-
