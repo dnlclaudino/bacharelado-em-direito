@@ -1,9 +1,19 @@
+<div align="center">
+
+<p align="center"><img height="120" src="./figuras/LOGO_UNIESP.png"> </p>
+
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+ </p>
+</div>
+
 # Bacharelado em Direito
 
 Repositório para Gestão do Conhecimento do Bacharelado em Direito.
 
 ## Fontes
- 
+
 | Período | Disciplinas | Anotações / Observações |
 |:---:|:---|:---|
 |[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
@@ -12,7 +22,7 @@ Repositório para Gestão do Conhecimento do Bacharelado em Direito.
 
 Durante o curso foram desenvolvidas as seguintes competências acadêmicas:
 
-### Competência Acadêmicas | Categoria | Descrição breve da competência
+### Competência Acadêmicas Desenvolvidas no 1º Período
 
 - **Código**: CPT-A-**SIGLA-NOME-DO-REPOSITORIO**-XXX-A001
 
