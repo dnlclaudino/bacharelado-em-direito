@@ -16,19 +16,19 @@
 <!-- TOC updateonsave:false -->
 
 - [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
-    - [Sistemas Econômicos e os Problemas Econômicos Fundamentais](#sistemas-econ%C3%B4micos-e-os-problemas-econ%C3%B4micos-fundamentais)
-    - [Curva de Possibilidades de Produção](#curva-de-possibilidades-de-produ%C3%A7%C3%A3o)
-    - [Funcionamento de uma Economia de Mercado](#funcionamento-de-uma-economia-de-mercado)
-    - [Principais Tipos de Bens Econômicos](#principais-tipos-de-bens-econ%C3%B4micos)
+  - [Sistemas Econômicos e os Problemas Econômicos Fundamentais](#sistemas-econ%C3%B4micos-e-os-problemas-econ%C3%B4micos-fundamentais)
+  - [Curva de Possibilidades de Produção](#curva-de-possibilidades-de-produ%C3%A7%C3%A3o)
+  - [Funcionamento de uma Economia de Mercado](#funcionamento-de-uma-economia-de-mercado)
+  - [Principais Tipos de Bens Econômicos](#principais-tipos-de-bens-econ%C3%B4micos)
 - [Avisos / Observações Importantes](#avisos--observa%C3%A7%C3%B5es-importantes)
-    - [Aviso 01](#aviso-01)
+  - [Aviso 01](#aviso-01)
 - [Anotações Relevantes](#anota%C3%A7%C3%B5es-relevantes)
-    - [Os Elementos dos Fatores de Produção Recursos de Produção da Economia](#os-elementos-dos-fatores-de-produ%C3%A7%C3%A3o-recursos-de-produ%C3%A7%C3%A3o-da-economia)
-    - [Classificação dos Sistemas Econômicos](#classifica%C3%A7%C3%A3o-dos-sistemas-econ%C3%B4micos)
-    - [Problemas Econômicos Fundamentais](#problemas-econ%C3%B4micos-fundamentais)
+  - [Os Elementos dos Fatores de Produção Recursos de Produção da Economia](#os-elementos-dos-fatores-de-produ%C3%A7%C3%A3o-recursos-de-produ%C3%A7%C3%A3o-da-economia)
+  - [Classificação dos Sistemas Econômicos](#classifica%C3%A7%C3%A3o-dos-sistemas-econ%C3%B4micos)
+  - [Problemas Econômicos Fundamentais](#problemas-econ%C3%B4micos-fundamentais)
 - [Tópicos A Serem Abordados Na Próxima Aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
 - [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
-    - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
+  - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
 - [Material Disponibilizado pelo Professor](#material-disponibilizado-pelo-professor)
 
 <!-- /TOC -->
@@ -109,7 +109,6 @@
 - São anotações relevantes feitas durante a aula;
 - As anotações feitas aqui, <span style="background-color:yellow">**são anotações adicionais / complementares à aula**</span> relacionadas:
   - Ao capítulo 01 do livro recomendado pelo professor cujo conteúdo foi abordado na aula de hoje;
-  -
 
 ### Os Elementos dos Fatores de Produção (Recursos de Produção da Economia)
 
