@@ -6,7 +6,7 @@ Repositório para Gestão do Conhecimento do Bacharelado em Direito.
  
 | Período | Disciplinas | Anotações / Observações |
 |:---:|:---|:---|
-|[1 período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
+|[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
 
 ## Relação das Competências Desenvolvidas
 
