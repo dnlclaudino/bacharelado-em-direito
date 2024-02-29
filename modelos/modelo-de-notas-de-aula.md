@@ -14,21 +14,16 @@
 
 # Notas de Aula
 
-<!-- TOC -->
+<!-- TOC updateOnSave:false -->
 
-- [Notas de Aula](#notas-de-aula)
-  - [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
-  - [Tópicos a serem abordados na próxima aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
-  - [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
-  - [Avisos / Observações](#avisos--observa%C3%A7%C3%B5es)
-  - [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
-    - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
-    - [Autores Recomendados para Disciplina](#autores-recomendados-para-disciplina)
-  - [Material Disponibilizado no Site IESP.Edu.br](#material-disponibilizado-no-site-iespedubr)
+- [Tópicos Abordados em aula](#t%C3%B3picos-abordados-em-aula)
+- [Tópicos a serem abordados na próxima aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
+- [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
+- [Avisos / Observações](#avisos--observa%C3%A7%C3%B5es)
+- [Material Disponibilizado no Site IESP.Edu.br](#material-disponibilizado-no-site-iespedubr)
+- [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
 
 <!-- /TOC -->
-
-## 1. Conteúdo da Aula
 
 - Começe aqui...
 
@@ -38,10 +33,6 @@
 
 ## 4. Avisos / Observações
 
-## 5. Referências Bibliográficas
+## 5. Material Disponibilizado no Site IESP.Edu.br
 
-### Utilizadas Durante a Aula
-
-### Autores Recomendados para Disciplina
-
-## 6. Material Disponibilizado no Site IESP.Edu.br
+## 6. Referências Bibliográficas
