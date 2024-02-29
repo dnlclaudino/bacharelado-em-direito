@@ -15,21 +15,6 @@
 
 ## Tópicos Abordados em Aula
 
-<!-- TOC updateonsave:false -->
-
-- [1. Apresentação da Professora](#1-apresentação-da-professora)
-- [2. Conteúdo da Aula](#2-conteúdo-da-aula)
-  - [2.1. Função Social do Direito](#21-função-social-do-direito)
-  - [2.2. Principais Matrizes](#22-principais-matrizes)
-  - [2.4. Conceito de Direito Civil](#24-conceito-de-direito-civil)
-  - [2.5. Natureza de Direito Privado (Jusprivatística)](#25-natureza-de-direito-privado-jusprivatística)
-  - [2.6. Derivações do Direito Civil](#26-derivações-do-direito-civil)
-- [3. Assuntos para Próxima Aula ...](#3-assuntos-para-próxima-aula-)
-- [4. Bibliografia Recomendada](#4-bibliografia-recomendada)
-- [5. Avisos / Observações / Anotações Diversas;](#5-avisos--observações--anotações-diversas)
-
-<!-- /TOC -->
-
 ## 1. Apresentação da Professora
 
 - **Professora**: Mariana Tavares
