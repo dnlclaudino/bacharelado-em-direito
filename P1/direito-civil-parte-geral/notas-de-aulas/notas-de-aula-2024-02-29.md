@@ -77,7 +77,7 @@
 ## 5. Atividade para Próxima Aula
 
 - Assistir ao filme [Holocausto brasileiro](<https://www.netflix.com/title/81745085>) na Netflix
-  - Redigir redação relacionando os acontecimentos do filme aos direitos de primeira geração;
+  - Redigir redação relacionando os acontecimentos do filme com os direitos humanos relacionados com a **declaracao universal dos direitos humanos**;
   - Modo de apresentação: manuscrito
   - Vale: 1,0 ponto.
 
