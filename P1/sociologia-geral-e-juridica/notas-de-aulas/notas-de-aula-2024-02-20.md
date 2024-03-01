@@ -1,4 +1,18 @@
-# Notas de Aula da Disciplina Sociologia Geral e Jurídica em xx/02/2024 (XXXXXX-feira)
+
+<div align="center">
+
+<p align="center"><img height="120" src="../../../figuras/LOGO_UNIESP.png"> </p>
+
+<p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
+<b>Bacharelado em Direito</b><br>
+<b>Disciplina</b>: SOCIOLOGIA GERAL E JURÍDICA<br>
+<b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<b>Data</b>: 20 de Fevereiro de 2024, Terça-Feira<br><br>
+ </p>
+</div>
+
+# Notas da Aula 01
 
 ## Tópicos Abordados em aula
 - Apresentação do professor e expectativas professor-aluno;
