@@ -10,7 +10,14 @@
 
 # Bacharelado em Direito
 
-Repositório para Gestão do Conhecimento do Bacharelado em Direito.
+Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
+
+## Normas e Documentos Relevantes
+
+- [Resolução CNE/CES nº 2, DE 19 DE ABRIL DE 2021](http://abmes.org.br/arquivos/legislacoes/RESOLUCAO%20CNE%20N%202%20DE%2019%20DE%20ABRIL%20DE%202021.pdf)
+  - Institui as Diretrizes Curriculares Nacionais do Curso de Graduação em Direito e dá outras providências.
+- [RESOLUÇÃO CNE/CES nº 5, DE 17 DE DEZEMBRO DE 2018](https://abmes.org.br/arquivos/legislacoes/Resol_%20CNEn5.pdf)
+  - Institui as Diretrizes Curriculares Nacionais do Curso de Graduação em Direito e dá outras providências
 
 ## Fontes
 
