@@ -31,26 +31,59 @@
 
 ## Slide 01
 
-- Observações:
+<p align="center">
+
+<img src="../slides/aula-2024-03-05-slide-01.jpeg" width="550">
+
+</p>
+
+- **Anotações**:
   - Absolutismo (poder absoluto do governante, do rei, poder divino);
   - A atualidade de Maquiavel consiste em pensar a **política** não de uma forma ideal (cristã), mas de uma forma racional, onde "os fins justificam os meios".
 
 ## Slide 02
 
+<p align="center">
+
+<img src="../slides/aula-2024-03-05-slide-02.jpeg" width="550">
+
+</p>
+
+- **Anotações**:
+  - Não consegui captar aqui se houve comentário ou não, além do que está no slide. 😰
+
 ## Slide 03 - Como o governante deve ser julgado
 
-- Observações:
+<p align="center">
+
+<img src="../slides/aula-2024-03-05-slide-03.jpeg" width="550">
+
+</p>
+
+- **Anotações**:
   - Maquiavel distinguia o **homem comum** e o **homem governante**;
   - Maquiavel defendia que o **homem governante** deve ser superior ao homem comum (pessoa privada) por causa das **razões de Estado**;
 
 ## Slide 04 - Uma ética própria
 
-- Observações:
+<p align="center">
+
+<img src="../slides/aula-2024-03-05-slide-04.jpeg" width="550">
+
+</p>
+
+- **Anotações**:
   - Para Maquiavel, o político possui uma ética própria, onde é permitido de tudo para manter o Estado e o seu governo, inclusive matar;
 
 ## Slide 05 - Ser amano ou temido ?
 
-- Observações:
+<p align="center">
+
+<img src="../slides/aula-2024-03-05-slide-05.jpeg" width="550">
+
+</p>
+
+- **Anotações**:
   - Segundo maquiavel:
     - O ideal é ser amano e temido ao mesmo tempo;
     - Os atos perversos e ruins:
@@ -61,17 +94,25 @@
 ## 2. Tópicos a serem abordados na próxima aula
 
 - A próxima aula será a **continuação do assunto abordado nesta aula** e ocorrerá em 12/03/2024.
+  - Obs: O professor havia combinado de alternar uma semana a disciplina de "Ciência Política" e outras semana "Sociologia Geral e Jurídica".
+  - Ele deixou esse aviso em sala hoje.
 
 ## 3. Anotações Relevantes Feitas Durante a Aula
 
-- Provas
+- Provas:
   - Duração da prova: 1 hora e meia
   - Serão duas provas no mesmo dia
 - Recomendação de Filme
-  - Stalin ("Homem de Aço")
+  - [Stalin ("Homem de Aço")](https://filmow.com/stalin-o-homem-de-aco-t60212/)
 
 ## 4. Avisos / Observações
 
+- Hoje, foi realizado o **EVENTO DE RECEPÇÃO DOS ALUNOS DO 1º PERÍODO**;
+
 ## 5. Material Disponibilizado no Site IESP.Edu.br
 
+- Nenhuma material disponibilizado.
+
 ## 6. Referências Bibliográficas
+
+- Não houve referência a material bibliográfico nesta data.
