@@ -5,7 +5,7 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Economia</span><br>
 <b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
-<b>Data</b>: 06 de março de 2024, Quarta-Feira<br>
+<b>Data</b>: 21 de fevereiro de 2024<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
@@ -17,13 +17,16 @@
 
 <!-- TOC updateonsave:false-->
 
-- [1. Apresentação da Ementa da Disciplina;](#1-apresentação-da-ementa-da-disciplina)
-- [2. Formas de Avaliação](#2-formas-de-avaliação)
-- [3. Bibliografia Utilizada na Disciplina](#3-bibliografia-utilizada-na-disciplina)
+- [Notas de Aula da Disciplina de Economia em 21/02/2024 (Quarta-feira)](#notas-de-aula-da-disciplina-de-economia-em-21022024-quarta-feira)
+  - [Tópicos Abordados em Aula](#tópicos-abordados-em-aula)
+  - [1. Apresentação da Ementa da Disciplina](#1-apresentação-da-ementa-da-disciplina)
+  - [2. Formas de Avaliação](#2-formas-de-avaliação)
+  - [3. Bibliografia Utilizada na Disciplina](#3-bibliografia-utilizada-na-disciplina)
 - [4. Como serão Abordados os Itens da Ementa da Disciplina ?](#4-como-serão-abordados-os-itens-da-ementa-da-disciplina-)
-- [5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)](#5-início-do-conteúdo-da-disciplina-capítulo-01-do-livro-recomendado)
-- [6. Tópicos a serem abordados na próxima aula](#6-tópicos-a-serem-abordados-na-próxima-aula)
-- [7. Avisos / Observações / Anotações Diversas](#7-avisos--observações--anotações-diversas)
+  - [5. Início do Conteúdo da Disciplina (Capítulo 01 do Livro Recomendado)](#5-início-do-conteúdo-da-disciplina-capítulo-01-do-livro-recomendado)
+    - [Capítulo 01 - Introdução à Economia](#capítulo-01---introdução-à-economia)
+  - [6. Tópicos a serem abordados na próxima aula](#6-tópicos-a-serem-abordados-na-próxima-aula)
+  - [7. Avisos / Observações / Anotações Diversas](#7-avisos--observações--anotações-diversas)
 - [8. Referências Bibliográficas Utilizadas Na Aula](#8-referências-bibliográficas-utilizadas-na-aula)
 
 <!-- /TOC -->

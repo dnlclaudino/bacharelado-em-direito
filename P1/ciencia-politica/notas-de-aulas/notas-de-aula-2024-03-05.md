@@ -6,26 +6,11 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: CIÊNCIA POLÍTICA<br>
 <b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
+<b>Data</b>: 05 de março de 2024, Quarta-Feira<br>
+<img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
-<b>Data</b>: 05 de março de 2024, terça-Feira<br><br>
  </p>
 </div>
-
-<!-- TOC updateonsave:false -->
-
-- [Notas de Aula 02](#notas-de-aula-02)
-  - [Slide 01](#slide-01)
-  - [Slide 02](#slide-02)
-  - [Slide 03 - Como o governante deve ser julgado](#slide-03---como-o-governante-deve-ser-julgado)
-  - [Slide 04 - Uma ética própria](#slide-04---uma-ética-própria)
-  - [Slide 05 - Ser amano ou temido ?](#slide-05---ser-amano-ou-temido-)
-  - [2. Tópicos a serem abordados na próxima aula](#2-tópicos-a-serem-abordados-na-próxima-aula)
-  - [3. Anotações Relevantes Feitas Durante a Aula](#3-anotações-relevantes-feitas-durante-a-aula)
-  - [4. Avisos / Observações](#4-avisos--observações)
-  - [5. Material Disponibilizado no Site IESP.Edu.br](#5-material-disponibilizado-no-site-iespedubr)
-  - [6. Referências Bibliográficas](#6-referências-bibliográficas)
-
-<!-- /TOC -->
 
 # Notas de Aula 02
 
