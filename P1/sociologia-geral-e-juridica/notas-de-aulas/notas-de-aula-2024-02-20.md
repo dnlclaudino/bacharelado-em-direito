@@ -7,8 +7,9 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: SOCIOLOGIA GERAL E JURÍDICA<br>
 <b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
+<b>Data</b>: 06 de março de 2024, Quarta-Feira<br>
+<img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
-<b>Data</b>: 20 de Fevereiro de 2024, Terça-Feira<br><br>
  </p>
 </div>
 

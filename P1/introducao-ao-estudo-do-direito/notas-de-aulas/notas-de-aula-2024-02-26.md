@@ -6,9 +6,10 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Introdução ao Estudo do Direito<br>
 <b>Professor</b>: MARCEL<br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período <br>
-<b>Data</b>: 26 de Fevereiro de 2024, Segunda-Feira<br><br>
-</p>
+<b>Data</b>: 06 de março de 2024, Quarta-Feira<br>
+<img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+ </p>
 </div>
 
 # Notas de Aula da Disciplina Introdução ao Estudo do Direito
