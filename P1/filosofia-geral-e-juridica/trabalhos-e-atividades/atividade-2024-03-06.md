@@ -1,7 +1,5 @@
-<div align="center"><br><br><br>
-
-<p align="center"><img height="120" src="../../../figuras/LOGO_UNIESP.png"> </p>
-
+<div align="center">
+<center><img height="120" src="../../../figuras/LOGO_UNIESP.png"><br></center>
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: FILOSOFIA GERAL E JURÍDICA<br>
@@ -14,9 +12,9 @@
 
 # Atividade 02 da Disciplina Filosofia Geral e Jurídica
 
-<b>Com base no texto para atividade: [A filosofia do direito e seus horizontes](https://1drv.ms/w/s!Au-CrfNP6c0bhs1hE_xMbMyX1i_XAg?e=ZPYgAR), responder conforme se pede:</b>
+<b>Com base no texto para atividade "[A filosofia do direito e seus horizontes](https://1drv.ms/w/s!Au-CrfNP6c0bhs1hE_xMbMyX1i_XAg?e=ZPYgAR)", responder conforme se pede:</b>
 
-## 1. Após uma leitura do texto, (1) destaque as informações que mais lhe chamaram a atenção (aproximadamente cinco), (2) enumere-as e (3) estabeleça um comentário explicativo sobre o seu entendimento das mesmas.
+## Após uma leitura do texto, (1) destaque as informações que mais lhe chamaram a atenção (aproximadamente cinco), (2) enumere-as e (3) estabeleça um comentário explicativo sobre o seu entendimento das mesmas.
 
 #### Seção: Um pensamento de juristas ou de filósofos?
 
