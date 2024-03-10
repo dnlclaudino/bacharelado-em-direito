@@ -31,19 +31,6 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 |:---:|:---|
 |<a href="https://calendar.google.com/calendar/embed?src=ja65ogvchm8boj0jbb6prv0t20%40group.calendar.google.com&ctz=America%2FFortaleza"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-calendario2.png?raw=true" height="90" width="90"></a><br><b>Agenda<br>do Curso</b>|- Clique ao lado para acessar minha agenda onde estarão todos os eventos relacionados ao curso:<br>&nbsp;&nbsp;- Atividades;<br>&nbsp;&nbsp;- Trabalhos;<br>&nbsp;&nbsp;- Seminários;<br>&nbsp;&nbsp;- Provas;<br>&nbsp;&nbsp;- Todos os demais eventos da Faculdade;|
 
-## Diretrizes
-
-- As diretrizes guiam a definição do trabalho que deverá ser realizado por unidade de tempo (sprint) escolhida.
-
-|  #  | Diretriz                                    |
-| :-: | :-------------------------------------------- |
-|  1  | Estudar **LINGUÍSTICA** (Português) <b><u>toda semana</u></b> |
-|  2  | Estudar **MATERIAL DA FACULDADE** (notas de aula) <b><u>toda semana</u></b> |
-|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE** d<b><u>01 (uma) semana antes de serem entregues</u></b> |
-|  4  | Ler **03 (três) CAPÍTULOS DE LIVROS** por semana. |
-|  5  | Estudar **04 (quatro) horas por semana** com o **MATERIAL DO GRANCONCURSOS**|
-|  6  | Assistir **01 hora de aula por dia** do **GRANCONCURSOS**.|
-
 ## Dimensionamento do Tempo de Trabalho
 
 ### De Segunda a Sexta
@@ -61,6 +48,18 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 |Manhã|06:00 às 10:00|4h|2h|-|
 |Tarde|16:00 às 17:30|-|1h30m| <center><b>PLANEJAMENTO</b></center><br>1. Verificar o trabalho que não pode ser realizado na SPRINT atual e porquê;<br>2. Priorizar o trabalho que não pode ser concluído na SPRINT atual para incluí-los na PRÓXIMA SPRINT;<br>3. Realizar o Planejamento da próxima SPRINT (semana)|
 
+## Diretrizes
+
+- As diretrizes guiam a definição do trabalho que deverá ser realizado por unidade de tempo (sprint) escolhida.
+
+|  #  | Diretriz                                    |
+| :-: | :-------------------------------------------- |
+|  1  | Estudar **LINGUÍSTICA** (Português) <b><u>toda semana</u></b> |
+|  2  | Estudar **MATERIAL DA FACULDADE** (notas de aula) <b><u>toda semana</u></b> |
+|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE** d<b><u>01 (uma) semana antes de serem entregues</u></b> |
+|  4  | Ler **03 (três) CAPÍTULOS DE LIVROS** por semana. |
+|  5  | Estudar **04 (quatro) horas por semana** com o **MATERIAL DO GRANCONCURSOS**|
+|  6  | Assistir **01 hora de aula por dia** do **GRANCONCURSOS**.|
 
 ## Relação das Competências Desenvolvidas
 
