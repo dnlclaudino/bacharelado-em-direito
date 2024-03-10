@@ -43,6 +43,12 @@ Durante o curso foram desenvolvidas as seguintes competências acadêmicas:
 
 Para mais informações, acesse minha [Gestão de Competências](https://github.com/dnlclaudino/gestao-de-competencias/tree/master)
 
+## Navegação nos arquivos deste repositório
+
+Este repositório segue as regras estabelecidas na **Gestão do conhecimento** na seção [Regras para cada Repositório ou Subrepositório](https://github.com/dnlclaudino/gestao-do-conhecimento?tab=readme-ov-file#regras-para-cada-reposit%C3%B3rio-ou-subreposit%C3%B3rio)
+
+Os arquivos PDFs do atual repositório ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[BACHARELADO EM DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
+
 ## Versão da Política de Gestão do Conhecimento
 
 A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é **v0.0.1**. As regras para realização de **commits** estão disponíveis em [Regras para commits no Github](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github)
