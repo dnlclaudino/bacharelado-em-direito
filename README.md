@@ -31,7 +31,7 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 |:---:|:---|
 |<a href="https://calendar.google.com/calendar/embed?src=ja65ogvchm8boj0jbb6prv0t20%40group.calendar.google.com&ctz=America%2FFortaleza"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-calendario2.png?raw=true" height="90" width="90"></a><br><b>Agenda<br>do Curso</b>|- Clique ao lado para acessar minha agenda onde estarão todos os eventos relacionados ao curso:<br>&nbsp;&nbsp;- Atividades;<br>&nbsp;&nbsp;- Trabalhos;<br>&nbsp;&nbsp;- Seminários;<br>&nbsp;&nbsp;- Provas;<br>&nbsp;&nbsp;- Todos os demais eventos da Faculdade;|
 
-## Dimensionamento do Tempo de Trabalho
+## Dimensionamento do Tempo para Estudo
 
 ### De Segunda a Sexta
 
