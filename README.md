@@ -39,7 +39,7 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 | :-: | :-------------------------------------------- |
 |  1  | Estudar **LINGUÍSTICA** (Português) <b><u>toda semana</u></b> |
 |  2  | Estudar **MATERIAL DA FACULDADE** (notas de aula) <b><u>toda semana</u></b> |
-|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE** <b><u>01 (uma) semana antes de serem entregues</u></b> |
+|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE** d<b><u>01 (uma) semana antes de serem entregues</u></b> |
 |  4  | Ler **03 (três) CAPÍTULOS DE LIVROS** por semana. |
 |  5  | Estudar **04 (quatro) horas por semana** com o **MATERIAL DO GRANCONCURSOS**|
 |  6  | Assistir **01 hora de aula por dia** do **GRANCONCURSOS**.|
