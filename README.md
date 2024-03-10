@@ -25,6 +25,10 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 |:---:|:---|:---|
 |[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
 
+## Agenda do Curso
+
+<iframe src="https://calendar.google.com/calendar/embed?src=ja65ogvchm8boj0jbb6prv0t20%40group.calendar.google.com&ctz=America%2FFortaleza" style="border: 0" width="550" height="550" frameborder="0" scrolling="no"></iframe>
+
 ## Relação das Competências Desenvolvidas
 
 Durante o curso foram desenvolvidas as seguintes competências acadêmicas:
