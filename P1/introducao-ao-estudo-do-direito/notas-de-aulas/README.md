@@ -12,6 +12,9 @@
 
 # Notas de Aulas
 
-|#|Data|Tópicos Abordados na Aula|Observação/Anotação|
-|:---:|:---:|-|
+|#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
+|:---:|:---:|:---|:---|
 |1|[Notas de aula de 19/02/2024](./notas-de-aula-2024-02-19.md)|-|-|
+|2|[Notas de aula de 26/02/2024](./notas-de-aula-2024-02-26.md)|-|-|
+|3|[Notas de aula de 04/03/2024](./notas-de-aula-2024-03-04.md)|-|-|
+|4|[Notas de aula de 11/03/2024](./notas-de-aula-2024-03-11.md)|-|-|
