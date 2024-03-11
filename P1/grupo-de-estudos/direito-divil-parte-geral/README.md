@@ -42,7 +42,7 @@
 ## Objetivos
 
 1. Contribuir para a aprendigem do conteúdo da <b><u>ementa da disciplina</u></b> e/ou da <b><u>Parte Geral do Código de Direito Civil</u></b>;
-2. Desenvolver habilidades de comunicação necessárias e relacionadas com a realização de provas orais em concursos;
+2. <span style="background-color:yellow">Desenvolver habilidades de comunicação necessárias e relacionadas com a realização de provas orais em concursos;</span>
 3. Compartilhar material básico e complementar da disciplina;
 4. Contribuir para comunicação acadêmica;
 5. Engajar alunos para um desempenho de excelência
@@ -62,7 +62,7 @@
   - O conteúdo programático a ser trabalhado em cada encontro, correspondente a um ou mais itens da ementa da disciplina;
   - O material a ser trabalhado, correspondente a um ou mais itens da ementa da disciplina;
   
-## Durante cada encontro
+### Durante cada encontro
 
 A cada encontro, serão desenvolvidas as seguintes atividades, juntamente com os participantes:
 
@@ -72,7 +72,7 @@ A cada encontro, serão desenvolvidas as seguintes atividades, juntamente com os
 2. Durante a apresentação do item do conteúdo programático, será disponibilizado recurso de informática para registrar as dúvidas dos participantes;
    - As Dúvidas poderão ser tiradas no momento de exposição do item ou posteriormente, caso não seja de pronto atendimento;
 
-## Após cada encontro
+### Após cada encontro
 
 3. Ao final dos trabalhos, será disponibilizada aos participantes as dúvidas encaminhadas:
    - Os próprios participantes poderão responder as dúvidas encaminhadas e a melhor resposta poderá ser escolhida por todos;
