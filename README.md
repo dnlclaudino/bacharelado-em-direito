@@ -35,19 +35,19 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 
 ### De Segunda a Sexta
 
-|Período|Horário|Segunda|Terça|Quarta|Quinta|Sexta|Observações / Anotações|
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
-|Manhã|06:15 às 06:55|0:40h|0:40h|0:40h|0:40h|0:40h|- Horário que eu vou deixar a esposa no trabalho e meu filho na faculdade<br> - Posso ouvir as aulas do granconcursos no carro no percurso de ida e volta;|
-|Manhã|07:00 às 08:00|1h|1h|1h|1h|1h|-|
-|Manhã|10:40 às 11:40|1h|1h|1h|1h|1h|-|
-|Tarde|12:30 às 13:30|1h|1h|1h|1h|1h|-|
+|Período #|Turno|Horário|Segunda|Terça|Quarta|Quinta|Sexta|Observações / Anotações|
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
+|1|Manhã|06:15 às 06:55|0:40h|0:40h|0:40h|0:40h|0:40h|- Horário que eu vou deixar a esposa no trabalho e meu filho na faculdade<br> - Posso ouvir as aulas do granconcursos no carro no percurso de ida e volta;|
+|2|Manhã|07:00 às 08:00|1h|1h|1h|1h|1h|-|
+|3|Manhã|10:40 às 11:40|1h|1h|1h|1h|1h|-|
+|4|Tarde|12:30 às 13:30|1h|1h|1h|1h|1h|-|
 
 ### Sábado e Domingo
 
-|Período|Horário|Sábado|Domingo|Observações / Anotações|
-|:---:|:---|:---:|:---:|:---|
-|Manhã|06:00 às 10:00|4h|2h|-|
-|Tarde|16:00 às 17:30|-|1:30h| <center><b>PLANEJAMENTO</b></center><br>1. Verificar o trabalho que não pode ser realizado na SPRINT atual e porquê;<br>2. Priorizar o trabalho que não pode ser concluído na SPRINT atual para incluí-los na PRÓXIMA SPRINT;<br>3. Realizar o Planejamento da próxima SPRINT (semana)|
+|Período #|Turno|Horário|Sábado|Domingo|Observações / Anotações|
+|:---:|:---:|:---|:---:|:---:|:---|
+|1|Manhã|06:00 às 10:00|4h|2h|-|
+|2|Tarde|16:00 às 17:30|-|1:30h| <center><b>PLANEJAMENTO</b></center><br>1. Verificar o trabalho que não pode ser realizado na SPRINT atual e porquê;<br>2. Priorizar o trabalho que não pode ser concluído na SPRINT atual para incluí-los na PRÓXIMA SPRINT;<br>3. Realizar o Planejamento da próxima SPRINT (semana)|
 
 ## Diretrizes
 
