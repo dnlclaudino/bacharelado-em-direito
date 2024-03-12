@@ -6,7 +6,7 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>:Filosofia Geral e Jurídica<br>
 <b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
-<b>Data</b>: 06 de março de 2024, Quarta-Feira<br>
+<b>Data</b>: 12 de março de 2024, Quarta-Feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>

@@ -4,15 +4,15 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>:Filosofia Geral e Jurídica<br>
-<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
-<b>Data</b>: 06 de março de 2024, Quarta-Feira<br>
+<b>Disciplina</b>: SOCIOLOGIA GERAL E JURÍDICA<br>
+<b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
+<b>Data</b>: 12 de março de 2024, terça-Feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
 </div>
 
-# Notas de Aula da Disciplina Filosofia Geral e Jurídica
+# Notas de Aula da Disciplina Sociologia Geral e Jurídica
 
 ## 1. Conteúdo da Aula
 

@@ -6,7 +6,7 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
 <b>Professora</b>: MARIANA TAVARES<br>
-<b>Data</b>: 22 de fevereirode 2024, Quarta-Feira<br>
+<b>Data</b>: 22 de fevereiro de 2024, Quinta-Feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>

@@ -17,6 +17,6 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|[Notas de Aula](./notas-de-aulas/README.md)|-|
-|2|[Atividades](./atividades/README.md)|- Algumas atividades possuem questionário com respostas|
+|2|[Trabalhos e Atividades](./trabalhos-e-atividades/README.md)|- Trabalhos e atividades solicitados pelos professores.|
 
 ## Avisos / Observações / Anotações
