@@ -7,6 +7,7 @@
 <b>Disciplina</b>: FILOSOFIA GERAL E JURÍDICA<br>
 <b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Data</b>: 28 de Fevereiro de 2024, Quarta-Feira<br><br>
  </p>
 </div>
