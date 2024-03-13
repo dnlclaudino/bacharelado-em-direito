@@ -35,6 +35,10 @@
 
 - Nenhum, nesta data 🗓.
 
-## 6. Referências Bibliográficas
+## 6. Atividades / Trabalhos em Sala (Valendo Nota)
+
+- Nenhuma, nesta data 🗓.
+
+## 7. Referências Bibliográficas
 
 - Nenhuma, nesta data 🗓.
