@@ -27,12 +27,6 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 |:---:|:---|:---|
 |[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
 
-### Grupo de Estudos
-
-| Período | Disciplinas do Grupo de Estudos | Anotações / Observações |
-|:---:|:---|:---|
-|[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Direito Civil (Parte Geral)|-|
-
 ## Agenda do Curso
 
 |||
