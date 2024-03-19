@@ -36,10 +36,20 @@
       - EXTERIORES ao indivíduo;
       - Se IMPÕE ao indivíduo
     - Que fazem o INDIVÍDUO se sentir:
-      - IMPELIDO/IMPULCIONADO a agir de determinada maneira (FATOR COERCITIVO DO FATO SOCIAL);
+      - IMPELIDO/<u>**IMPULSIONADO**</u> a agir de determinada maneira (FATOR COERCITIVO DO FATO SOCIAL);
 
 ## COMPLEMENTO: O MÉTODO SOCIOLÓGICO DE DURKHEIM
 
 - De forma complementar ao que foi solicitado, trazemos outro elemento caracterizador da disciplina científica inaugurada por Durkheim O MÉTODO CIENTÍFICO DA SOCIOLOGIA;
 - Em curta síntese, o MÉTODO SOCIOLÓGICO DE DURKHEIM:
   - É caracterizado pelo uso do **MÉTODO COMPARATIVO** (uma vez que experimentos isolados em laboratório não são possíveis nas ciências sociais, a comparação dos fenômenos sociais, metodicamente conduzida, seria a forma de atingir resultados equivalentes aos de um experimento clássico)
+
+## COMENTÁRIOS SOBRE OUTROS TEMAS DEBATIDOS EM SALA
+
+### CONCEITO DE CIDADANIA
+
+Quando se fala em CIDADANIA, fala-se:
+
+- Na possibilidade de exercício de direitos politicos (votar e ser votado);
+- Na possibilidade de reinvidicar direitos;
+- Na possibilidade de exercício de direitos individuais;
