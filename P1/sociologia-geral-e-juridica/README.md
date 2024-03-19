@@ -17,3 +17,9 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|[Notas de Aula](./notas-de-aulas/README.md)|-|
+
+## Trabalhos e Atividades
+
+|#|Item|Observações / Anotações|
+|:---:|:---|:---|
+|1|[Atividade em Sala de 19/03/2024](./trabalhos-e-atividades/atividade-de-sala-2024-03-19.md)|-|
