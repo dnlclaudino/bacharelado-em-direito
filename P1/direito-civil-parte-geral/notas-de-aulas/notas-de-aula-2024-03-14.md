@@ -4,19 +4,20 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>:Filosofia Geral e Jurídica<br>
-<b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
-<b>Data</b>: 12 de março de 2024, Quarta-Feira<br>
+<b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
+<b>Professora</b>: MARIANA TAVARES<br>
+<b>Data</b>: 14 de março de 2024, Quinta-Feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
 </div>
 
-# Notas de Aula da Disciplina Filosofia Geral e Jurídica
+# Notas de Aula da Disciplina Direito Civil - Parte Geral
 
 ## 1. Conteúdo da Aula
 
-- Nenhum, nesta data 🗓.
+- VOU VERIFICAR SE HOUVE CONTEÚDO DESTA DISCIPLINA, nesta data 🗓;
+- TAREFA cadastrada na minha agenda do google em 22/03/2024, 10:00;
 
 ## 2. Tópicos a serem abordados na próxima aula
 
@@ -34,6 +35,10 @@
 
 - Nenhum, nesta data 🗓.
 
-## 6. Referências Bibliográficas
+## 6. Atividades / Trabalhos em Sala (Valendo Nota)
+
+- Nenhuma, nesta data 🗓.
+
+## 7. Referências Bibliográficas
 
 - Nenhuma, nesta data 🗓.
