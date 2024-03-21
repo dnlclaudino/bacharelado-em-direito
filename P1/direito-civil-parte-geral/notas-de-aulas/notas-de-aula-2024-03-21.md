@@ -16,8 +16,52 @@
 
 ## 1. Conteúdo da Aula
 
-- <span style="background-color:yellow">**AGUARDANDO DATA DA AULA !!!**</span>
-- Nenhuma, nesta data 🗓.
+### Complemento da Aula Anterior (14/03/2024)
+
+- Pessoa Jurídica
+  - **Fundação**
+    - São instituições com proposituras nobres em prol de benefícios sociais;
+    - São fiscalizadas pelo Ministério Público;
+    - A única fundação que possui regime jurídico diferenciado é a OAB;
+    - Exemplos:
+      - Fundação de Cultura da Cidade de João Pessoa (FUNJOPE)
+        - Ligada a Secretaria da Cultura de João Pessoa-PB
+  - **Associações**
+    - Podem ter vários propósitos que não são necessariamente assitencialistas.
+    - Exemplos:
+      - Propósitos recreativos;
+    - Exemplos de Associações
+      - Associação das Moradoras de Jaguaribe;
+  - **Organizações Não-Governamentais**
+  - **Terceiro Setor**
+    - Instituições do sistema "S"
+    - Ele pode estabelecer parcerias púplico-privadas;
+    - Objetivos
+      - Cursos a preços simbólicos;
+      - Cultura;
+      - Serviços a preços simbólicos;
+      - Promover o esporte;
+    - Exemplos:
+      - SEBRAE
+      - SENAI
+      - SESC
+  - **Órgãos e empresas Públicas**
+    - A criação dessas instituições se dá mediante lei;
+    - Sua atividade é fundamentada em ESTATUTO (documento legal);
+  - **Partidos Políticos**
+    - É um grupo organizado, legalmente formado, com base em formas voluntárias de participação numa associação orientada para ocupar o poder político.
+  - Sindicatos
+    - São constituídos para representar as categorias profissionais, sendo constituídos para dar representatividade aos trabalhadores no Direito Coletivo do Trabalho;
+
+### Fato Jurídico
+
+#### Conceitos
+
+(...)
+
+### Ato Jurídico
+
+### Negócio Jurídico
 
 ## 2. Tópicos a serem abordados na próxima aula
 
