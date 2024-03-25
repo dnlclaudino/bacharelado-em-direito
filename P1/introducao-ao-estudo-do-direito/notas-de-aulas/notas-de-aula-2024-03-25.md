@@ -97,7 +97,7 @@
 ## 5. Material Disponibilizado na Área do Aluno
 
 - Nenhum, nesta data 🗓.
-- Para acessar a Seção de Arquivos da Área do Aluno: https://portaltotvs.iesp.edu.br:60443/FrameHTML/web/app/edu/PortalEducacional/#/arquivos
+- Para acessar a Seção de Arquivos da Área do Aluno: (https://portaltotvs.iesp.edu.br:60443/FrameHTML/web/app/edu/PortalEducacional/#/arquivos)
 
 ## 6. Atividades / Trabalhos em Sala (Valendo Nota)
 
