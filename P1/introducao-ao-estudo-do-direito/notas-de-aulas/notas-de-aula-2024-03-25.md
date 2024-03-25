@@ -6,7 +6,7 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Teoria do Direito (Introdução ao Estudo do Direito)<br>
 <b>Professor</b>: MARCEL<br>
-<b>Data</b>: 18 de março de 2024, segunda-feira<br>
+<b>Data</b>: 25 de março de 2024, segunda-feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
@@ -53,14 +53,42 @@
         - Regras de Calibração (normas semelhantes a termostatos)
           - Torna o Direito, um sistema autonomo responsável pela sua própria produção;
 
+### TEORIAS SOBRE O DIREITO E A MORAL
 
-## 2. Tópicos a serem abordados na próxima aula
+#### Teoria dos Círculos Concêntricos
 
-- Nenhuma, nesta data 🗓.
+<img src="../figuras/capitulo-05-teoria-dos-circulos-concentricos.png" height="450" align="center">
+
+#### Teoria dos Círculos Independentes (Visão Kelseniana)
+
+<img src="../figuras/capitulo-05-teoria-dos-circulos-independentes-visao-kelseniana.png" height="450" align="center">
+
+#### Teoria dos Círculos Secantes
+
+<img src="../figuras/capitulo-05-teoria-dos-circulos-secantes.png" height="450" align="center">
+
+- Inaugura o **NEOCONSTITUCIONALISMO**;
+- Marcada pelo surgimento dos **DIREITOS FUNDAMENTAIS**;
+
+#### Teoria do Mínimo Ético
+
+- Acrescento esta última teoria para complementar as outras três trazidas pelo professor Marcel, nesta data;
+- Para esta teoria, contida no **capítulo 05 (Instrumentos de Controle Social)** do livro de **Introdução ao Estudo do Direito** de **Paulo Nader**, 36.ed.:
+  - **A teoria do “mínimo ético”**
+    - Desenvolvida por Jellinek, a teoria do mínimo ético consiste na ideia de que o Direito representa o mínimo de preceitos morais necessários ao bem-estar da coletividade. Para o jurista alemão toda sociedade converte em Direito os axiomas morais estritamente essenciais à garantia e preservação de suas instituições. A prevalecer essa concepção o Direito estaria implantado, por inteiro, nos domínios da Moral, configurando, assim, a hipótese dos círculos concêntricos.
+    - Empregamos a expressão mínimo ético para indicar que o Direito deve conter apenas o mínimo de conteúdo moral, indispensável ao equilíbrio das forças sociais, em oposição ao pensamento do máximo ético, exposto por Schmoller. Se o Direito não tem por finalidade o aperfeiçoamento do homem, mas a segurança social, não deve ser uma cópia do amplo campo da Moral; não deve preocupar-se em trasladar para os códigos todo o continente ético. Diante da vastidão do território jurídico, não se pode dizer que o mínimo ético não seja expressivo.
+    - Basta que se consulte o Código Penal para certificar-se de que o mencionado bem-estar da coletividade exige uma complexidade normativa.
+    - A não adoção dessa teoria, assim interpretada, implicaria a acolhida do **MÁXIMO ÉTICO**, pelo qual o Direito deveria ampliar a sua missão, para reger, de uma forma direta e mais penetrante, a problemática social;
+
+## 2. Fotos do Quadro
+
+### Quadro 1/1
+
+<img src="../quadro/2024-03-25-quadro-1-de-X-teoria-do-direito.jpeg" height="450" align="center">
 
 ## 3. Anotações Relevantes Feitas Durante a Aula
 
-- Nenhuma, nesta data 🗓.
+- **TEORIA DO MÍNIMO ÉTICO**, acrescentada na seção 1 desta nota de aula;
 
 ## 4. Avisos / Observações
 
