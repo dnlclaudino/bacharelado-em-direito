@@ -27,9 +27,13 @@
 
 - **Prof.:** Jean Patrício
 
-|#|Item|Observações / Anotações|
-|:---:|:---|:---|
-|1|[Notas de Aula](./notas-de-aulas/README.md)|-|
+
+|#|Data|Tópicos Abordados na Aula|Observação/Anotação|
+|:---:|:---:|:---|:---|
+|1|[Notas de aula de 20/02/2024](./notas-de-aula/notas-de-aula-2024-02-20.md)|-|-|
+|2|[Notas de aula de 27/02/2024](./notas-de-aula/notas-de-aula-2024-02-27.md)|-|-|
+|3|[Notas de aula de 05/03/2024](./notas-de-aula/notas-de-aula-2024-03-05.md)|-|-|
+|4|[Notas de aula de 12/03/2024](./notas-de-aula/notas-de-aula-2024-03-12.md)|-|-|
 
 ## Trabalhos e Atividades
 
