@@ -13,28 +13,47 @@
  </p>
 </div>
 
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="../README.md">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="./README.md">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
+      </a>
+    </td>
+    <td align="center" valign="top">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # Notas da Aula 01
 
 <!-- TOC updateonsave:false -->
 
-- [Ementa a ser Trabalhada nesta Disciplina](#ementa-a-ser-trabalhada-nesta-disciplina)
-  - [1º Parte](#%C2%BA-parte)
-  - [2º Parte](#%C2%BA-parte)
-- [Conteúdo da Aula](#conte%C3%BAdo-da-aula)
-  - [Cidadania no Brasil: Um Longo Caminho](#cidadania-no-brasil-um-longo-caminho)
-  - [O **CONCEITO DE CIDADÃO** entre 1822 à 1889](#o-conceito-de-cidad%C3%A3o-entre-1822-%C3%A0-1889)
-  - [O **CONCEITO DE CIDADÃO** entre 1889 à 1930](#o-conceito-de-cidad%C3%A3o-entre-1889-%C3%A0-1930)
-  - [Os anos 30 no Brasil](#os-anos-30-no-brasil)
-- [Tópicos A Serem Abordados Na Próxima Aula](#t%C3%B3picos-a-serem-abordados-na-pr%C3%B3xima-aula)
-- [Anotações Relevantes Feitas Durante a Aula](#anota%C3%A7%C3%B5es-relevantes-feitas-durante-a-aula)
-- [Avisos / Observações](#avisos--observa%C3%A7%C3%B5es)
-  - [AVISO 1: Data em que NÃO HAVERÁ AULA](#aviso-1-data-em-que-n%C3%A3o-haver%C3%A1-aula)
-  - [AVISO 2:Atividade Relacionada com o ITEM "Conceito de Cidadão"](#aviso-2atividade-relacionada-com-o-item-conceito-de-cidad%C3%A3o)
-  - [AVISO 3: Formas de Avaliação nesta Disciplina](#aviso-3-formas-de-avalia%C3%A7%C3%A3o-nesta-disciplina)
-  - [AVISO 4: Visita Institucional](#aviso-4-visita-institucional)
-- [Referências Bibliográficas](#refer%C3%AAncias-bibliogr%C3%A1ficas)
-  - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
-- [Material Disponibilizado pelo Professor](#material-disponibilizado-pelo-professor)
+- [Notas da Aula 01](#notas-da-aula-01)
+  - [1.Ementa a ser Trabalhada nesta Disciplina](#1ementa-a-ser-trabalhada-nesta-disciplina)
+    - [1º Parte](#1º-parte)
+    - [2º Parte](#2º-parte)
+  - [2.Conteúdo da Aula](#2conteúdo-da-aula)
+    - [Cidadania no Brasil: Um Longo Caminho](#cidadania-no-brasil-um-longo-caminho)
+    - [O **CONCEITO DE CIDADÃO** entre 1822 à 1889](#o-conceito-de-cidadão-entre-1822-à-1889)
+    - [O **CONCEITO DE CIDADÃO** entre 1889 à 1930](#o-conceito-de-cidadão-entre-1889-à-1930)
+    - [Os anos 30 no Brasil](#os-anos-30-no-brasil)
+  - [3.Tópicos A Serem Abordados Na Próxima Aula](#3tópicos-a-serem-abordados-na-próxima-aula)
+  - [4.Anotações Relevantes Feitas Durante a Aula](#4anotações-relevantes-feitas-durante-a-aula)
+  - [5.Avisos / Observações](#5avisos--observações)
+    - [AVISO 1: Data em que NÃO HAVERÁ AULA](#aviso-1-data-em-que-não-haverá-aula)
+    - [AVISO 2:Atividade Relacionada com o ITEM "Conceito de Cidadão"](#aviso-2atividade-relacionada-com-o-item-conceito-de-cidadão)
+    - [AVISO 3: Formas de Avaliação nesta Disciplina](#aviso-3-formas-de-avaliação-nesta-disciplina)
+    - [AVISO 4: Visita Institucional](#aviso-4-visita-institucional)
+  - [6.Referências Bibliográficas](#6referências-bibliográficas)
+    - [Utilizadas Durante a Aula](#utilizadas-durante-a-aula)
+  - [7.Material Disponibilizado pelo Professor](#7material-disponibilizado-pelo-professor)
 
 <!-- /TOC -->
 

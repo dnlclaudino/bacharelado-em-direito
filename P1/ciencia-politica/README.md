@@ -10,11 +10,33 @@
  </p>
 </div>
 
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="../README.md">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # Ciência Política e TGE
 
 - **Prof.:** Jean Patrício
 
+## Notas de Aula
+
+|#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
+|:---:|:---:|:---|:---|
+|1|[Notas de aula de 20/02/2024](./notas-de-aulas/notas-de-aula-2024-02-20.md)|-|-|
+|2|[Notas de aula de 05/03/2024](./notas-de-aulas/notas-de-aula-2024-03-05.md)|-|-|
+|3|[Notas de aula de 26/03/2024](./notas-de-aulas/notas-de-aula-2024-03-26.md)|-|-|
+
+## Trabalhos e Atividades
+
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
-|1|[Notas de Aula](./notas-de-aulas/README.md)|-|
-|2|[Trabalhos e Atividades](./trabalhos-e-atividades/README.md)|-|
+|1|[Trabalhos e Atividades](./trabalhos-e-atividades/atividade-2024-03-12.md)|-|
