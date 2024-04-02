@@ -29,10 +29,18 @@
 
 - **Prof.:** Mariane
 
-|  #  | Item                                                         | Observações / Anotações |
-| :-: | :----------------------------------------------------------- | :---------------------- |
-|  1  | [Notas de Aula](./notas-de-aulas/README.md)                  | -                       |
-|  2  | [Trabalhos e Atividades](./trabalhos-e-atividades/README.md) | -                       |
+## Notas de Aulas
 
+|#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
+|:---:|:---:|:---|:---|
+|1|[Notas de aula de 22/02/2024](./notas-de-aulas/notas-de-aula-2024-02-22.md)|-|-|
+|2|[Notas de aula de 29/02/2024](./notas-de-aulas/notas-de-aula-2024-02-29.md)|-|-|
+|3|[Notas de aula de 07/03/2024](./notas-de-aulas/notas-de-aula-2024-03-07.md)|-|-|
+|4|[Notas de aula de 14/03/2024](./notas-de-aulas/notas-de-aula-2024-03-14.md)|-|-|
+|5|[Notas de aula de 21/03/2024](./notas-de-aulas/notas-de-aula-2024-03-21.md)|-|-|
 
-## Avisos / Observações / Anotações
+# Trabalhos e Atividades
+
+|#|Tipo|Descrcição Trabalho / Atividade|Data para Entrega| Observações / Anotações |
+|:---:|:---:|:---|:---|:---|
+|1|Atividade|[Resenha Crítica do Documentário: Holocausto Brasileiro](./trabalhos-e-atividades/2024-03-07-atividade-resenha-critica-a-luz-dudh.md)|Em 07/03/2024<br>(quinta-feira)|- Atividade valendo até 1,0 ponto<br> - A professora Mariana, em 29/03/2024, passou esse trabalho para entregar na próxima aula;|
