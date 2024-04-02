@@ -16,12 +16,12 @@
 <table align="right" border="0">
   <tr>
     <td align="center" valign="top">
-      <a href="../README.md">
+      <a href="../../README.md">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="./README.md">
+      <a href="../README.md">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
       </a>
     </td>
