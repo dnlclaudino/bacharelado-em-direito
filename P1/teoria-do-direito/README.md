@@ -43,3 +43,9 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|Trabalho feito oralmente em sala sobre a "Definição do Direito"|A apresentação foi oral, mas o professor fez anotações no quadro que estão nas [Notas de aula de 04/03/2024](./notas-de-aula/notas-de-aula-2024-03-04.md) e [Notas de aula de 11/03/2024](./notas-de-aula/notas-de-aula-2024-03-11.md).
+
+## Resumos
+
+|#|Item|Observações / Anotações|
+|:---:|:---|:---|
+|1|[Resumo para 1º Prova em 08/04/2024](./resumos/resumo-para-prova-em-2024-04-08.md)|- Conteúdo programático da prova disponível no dia 08/04/2024, na [🗓️Agenda da Turma🗓️](https://dxh1.short.gy/2Z84Ys).|
