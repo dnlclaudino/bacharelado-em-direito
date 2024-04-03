@@ -42,7 +42,7 @@ Conteúdo programático da prova está disponível no dia 08/04/2024, na [🗓�
 - Conceito de Ciência do Direito;
 - Positivismo Jurídico de Kelsen (até ordenamento jurídico);
 
-## Conceito de Direito
+## <span style="background-color:lightgreen">1. Conceito de Direito</span>
 
 ### Conceito do Professor Marcel
 
@@ -56,7 +56,7 @@ O Direito é uma prática social que se estrutura como um conjunto de normas, is
   - Slide nº 11
     - "O Direito é uma prática social com fundamentos próprios, que se manifesta como conjunto de regras de caráter permanente(atenção, permanência não quer dizer imutabilidade), obrigatório, geral e impessoal que se destina a regulamentar a vida em sociedade com vistas ao bem comum."
 
-## Direito Positivo e Direito Natural
+## <span style="background-color:lightgreen">2. Direito Positivo e Direito Natural</span>
 
 ### Notas de Aula 26/02/2024
 
@@ -126,7 +126,7 @@ O Direito é uma prática social que se estrutura como um conjunto de normas, is
   - <span style="background-color:lightgreen">**CORRENTE JUSNATURALISTA**</span>:
     - Afirma que <span style="background-color:lightgreen">**o Direito**</span> deve procurar ser <span style="background-color:yellow">**JUSTO**</span>;
 
-## Relação entre Direito e Moral
+## <span style="background-color:lightgreen">3. Relação entre Direito e Moral</span>
 
 ### Notas de Aula de 25/03/2024
 
@@ -160,3 +160,34 @@ O Direito é uma prática social que se estrutura como um conjunto de normas, is
 #### Fotos do Quadro
 
 <img src="../quadro/2024-03-25-quadro-1-de-X-teoria-do-direito.jpeg" height="450" align="center">
+
+## <span style="background-color:lightgreen">4. Conceito de Ciência do Direito</span>
+
+- Não foi tratado em nunhuma NOTA DE AULA.
+- Pode estar nos textos dos artigos que o professor disponibilizou
+- Verificar na área do aluno para ver se encontra algo
+
+## <span style="background-color:lightgreen">5. Positivismo Jurídico de Kelsen (até ordenamento jurídico)</span>
+
+### Notas de Aula de 25/03/2024
+
+#### HANS KELSEN
+
+- Lidera o movimento de **POSITIVISMO JURÍDICO** que vem sob influência do positivismo de Comte, mas frise-se que o **POSITIVISMO JURÍDICO** se percebe como um **movimento autônomo**;
+- Sua **PRINCIPAL CARACTERÍSTICA** é tratar o Direito como um **FENÔMENO SOCIAL** que poderia ser <b><u>observado</u></b> e <b><u>analisado</u></b> cientificamente, tendo como **OBJETO** a **NORMA JURÍDICA**;
+
+### Notas de Aula de 01/04/2024
+
+#### Teoria do Ordenamento Jurídico
+
+- É o **conjunto de NORMAS JURÍDICAS** de forma **hierárquica** e **coerente**. O conjunto é **composto de regras** que formam um "**vocabulário normativo**", bem como por **instrumentos de calibração** que revelam **como o conjunto funciona**.
+- Dessa maneira este sistema **tem a capacidade de manter-se funcional** perante a sociedade que regulamenta, sendo **autônomo**, mas **socialmente** e **politicamente** conectado;
+- A verticalidade das normas é uma característica chamada de ESCALONAMENTO DAS NORMAS JURÍDICAS;
+
+#### Normas Supralegais
+
+- São as **NORMAS** que tratam sobre **Direitos Humanos** oriundas de TRATADOS INTERNACIONAIS dos quais o Brasil é signatário.
+
+#### Pirâmide de "KELSEN" (Adolf Merkl)
+
+<img src="../figuras/quadro-2024-04-01-piramide-de-kelsen.png" height="350" align="center">
