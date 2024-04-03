@@ -60,7 +60,7 @@
     - Caracteristica DUAL DA NORMA JURÍDICA: Toda NORMA JURÍDICA é criadora e criatura;
       - Relação com a **mitologia romana**: CABEÇA DE JANO (deus romano)
 - A verticalidade das normas é uma característica chamada de ESCALONAMENTO DAS NORMAS JURÍDICAS;
-  - ADOLF MERKAL
+  - Adolf Merkl
     - ALUNO DE KELSEN
     - TEORIA DO ESCALONAMENTO DO ORDENAMENTO JURÍDICO
 
