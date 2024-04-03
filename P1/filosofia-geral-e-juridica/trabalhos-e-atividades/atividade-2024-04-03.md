@@ -16,9 +16,9 @@
 
 - <b>Resposta</b>:
 
-Segundo Nader (2012, p. 35), em seu objetivo de interpretar o Direito, o jurista é influenciado por vários fatores. Um deles, com toda a certeza, são suas convicções.
+Segundo Nader (2012, p. 35)[^NADER-2012], em seu objetivo de interpretar o Direito, o jurista é influenciado por vários fatores. Um deles, com toda a certeza, são suas convicções.
 
-O fenômeno jurídico é algo que transcende a norma jurídica. Nas palavras de Tércio Sampaio Ferraz Júnior (2018, p. 96), item 1.3,  a investigação do fenômeno jurídico pode ser vista sob dois enfoques que se complementam: O enfoque Zetético e o enfoque Dogmático. Sob o enfoque dogmático, o jurista parte da norma como premissa inquestionável, buscando dá-la aplicação em resposta a pressão de solução a que os fatos cotidianos exigem. Sob o enfoque zetético, o jurista pode questionar as premissão que embasam a norma, buscando confirmá-la ou negá-la ou alterá-la em seus pressupostos e premissas que constituem seu fundamento e razão de ser. 
+O fenômeno jurídico é algo que transcende a norma jurídica. Nas palavras de Tércio Sampaio Ferraz Júnior (2018, p. 96)[^FERRAZ-JR-2018], item 1.3,  a investigação do fenômeno jurídico pode ser vista sob dois enfoques que se complementam: O enfoque Zetético e o enfoque Dogmático. Sob o enfoque dogmático, o jurista parte da norma como premissa inquestionável, buscando dá-la aplicação em resposta a pressão de solução a que os fatos cotidianos exigem. Sob o enfoque zetético, o jurista pode questionar as premissão que embasam a norma, buscando confirmá-la ou negá-la ou alterá-la em seus pressupostos e premissas que constituem seu fundamento e razão de ser. 
 
 Toda as normas jurídicas precisam não apenas de aplicação concreta, mas também de que esteja em correspondências com os valores, práticas e anseios da sociedade.
 
@@ -36,7 +36,7 @@ Para que os jurístas consigam ser concisos e claros em suas argumentações é 
 
 - <b>Resposta</b>:
 
-Acostando-se ao entendimento de Nader (2012, p. 2), os filósofos do Direito associam os conhecimentos das correntes filosóficas à noção das **categorias lógicas** da Ciência do Direito, **objetivando o rigor lógico dos conceitos jurídicos e a adequação do Direito Positivo aos valores humanos fundamentais.**
+Acostando-se ao entendimento de Nader (2012, p. 2)[^NADER-2012], os filósofos do Direito associam os conhecimentos das correntes filosóficas à noção das **categorias lógicas** da Ciência do Direito, **objetivando o rigor lógico dos conceitos jurídicos e a adequação do Direito Positivo aos valores humanos fundamentais.**
 
 ### 4. Como você entende a finalidade da Filosofia Jurídica ? 
 
