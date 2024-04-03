@@ -30,13 +30,13 @@
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
 |:---:|:---:|:---|:---|
-|1|[Notas de aula de 19/02/2024](./notas-de-aula/notas-de-aula-2024-02-19.md)|-|-|
-|2|[Notas de aula de 26/02/2024](./notas-de-aula/notas-de-aula-2024-02-26.md)|-|-|
-|3|[Notas de aula de 04/03/2024](./notas-de-aula/notas-de-aula-2024-03-04.md)|-|-|
-|4|[Notas de aula de 11/03/2024](./notas-de-aula/notas-de-aula-2024-03-11.md)|-|-|
-|5|[Notas de aula de 18/03/2024](./notas-de-aula/notas-de-aula-2024-03-18.md)|-|-|
-|6|[Notas de aula de 25/03/2024](./notas-de-aula/notas-de-aula-2024-03-25.md)|-|-|
-|7|[Notas de aula de 01/04/2024](./notas-de-aula/notas-de-aula-2024-04-01.md)|-|-|
+|1|[Notas de aula de 19/02/2024](./notas-de-aulas/notas-de-aula-2024-02-19.md)|-|-|
+|2|[Notas de aula de 26/02/2024](./notas-de-aulas/notas-de-aula-2024-02-26.md)|-|-|
+|3|[Notas de aula de 04/03/2024](./notas-de-aulas/notas-de-aula-2024-03-04.md)|-|-|
+|4|[Notas de aula de 11/03/2024](./notas-de-aulas/notas-de-aula-2024-03-11.md)|-|-|
+|5|[Notas de aula de 18/03/2024](./notas-de-aulas/notas-de-aula-2024-03-18.md)|-|-|
+|6|[Notas de aula de 25/03/2024](./notas-de-aulas/notas-de-aula-2024-03-25.md)|-|-|
+|7|[Notas de aula de 01/04/2024](./notas-de-aulas/notas-de-aula-2024-04-01.md)|-|-|
 
 ## Trabalhos e Atividades
 
