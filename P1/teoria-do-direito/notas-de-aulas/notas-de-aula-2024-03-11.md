@@ -34,6 +34,12 @@
 
 ## 1. Conteúdo da Aula
 
+### Conceito de Direito
+
+- No início da aula, o professor pediu que anotássemos a seguinte <span style="background-color:lightgreen">definição do "**Direito**"</span>:
+  - <span style="background-color:lightgreen">O **Direito**</span> é uma **prática social** que se estrutura como um conjunto de normas, isto é, regras, princípios e padronizações implementado pelo Estado, com vistas a regular as <span style="background-color:yellow">**relações sociais jurídicas**</span>.
+- Em seguida, o professor deu continuidade na apresentação dos grupos sobre os conceitos de Direito.
+
 ### 5º Grupo - Immanuel Kant
 
 - Ética kantiana;
