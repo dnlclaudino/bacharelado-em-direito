@@ -10,13 +10,30 @@
  </p>
 </div>
 
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="../../README.md">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # Sociologia Geral e Jurídica
 
 - **Prof.:** Jean Patrício
 
-|#|Item|Observações / Anotações|
-|:---:|:---|:---|
-|1|[Notas de Aula](./notas-de-aulas/README.md)|-|
+
+|#|Data|Tópicos Abordados na Aula|Observação/Anotação|
+|:---:|:---:|:---|:---|
+|1|[Notas de aula de 20/02/2024](./notas-de-aula/notas-de-aula-2024-02-20.md)|-|-|
+|2|[Notas de aula de 27/02/2024](./notas-de-aula/notas-de-aula-2024-02-27.md)|-|-|
+|3|[Notas de aula de 05/03/2024](./notas-de-aula/notas-de-aula-2024-03-05.md)|-|-|
+|4|[Notas de aula de 12/03/2024](./notas-de-aula/notas-de-aula-2024-03-12.md)|-|-|
 
 ## Trabalhos e Atividades
 

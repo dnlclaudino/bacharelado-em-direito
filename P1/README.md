@@ -9,11 +9,24 @@
  </p>
 </div>
 
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="../README.md">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # Disciplinas do Primeiro Período
 
 |#|Disciplina|
 |:---:|:---|
-|1|[Teoria Geral do Direito/Introdução ao Estudo do Direito](./introducao-ao-estudo-do-direito/README.md)|
+|1|[Teoria Geral do Direito<br>(Introdução ao Estudo do Direito)](./teoria-do-direito/README.md)|
 |2|[Sociologia Geral e Jurídica](./sociologia-geral-e-juridica/README.md)|
 |3|[Filosofia Geral e Jurídica](./filosofia-geral-e-juridica/README.md)|
 |4|[Ciência Política e Teoria Geral do Estado](./ciencia-politica/README.md)|
