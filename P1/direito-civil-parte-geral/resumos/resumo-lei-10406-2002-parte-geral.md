@@ -42,6 +42,144 @@
 
 ### CAPÍTULO I - DA PERSONALIDADE E DA CAPACIDADE
 
+#### Artigo 1º
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? CAPACIDADE CIVIL"
+
+  subgraph Na Ordem Civil
+
+  TP["Toda Pessoa"]-->C["CAPAZ"]-->D["Direitos"]
+  C-->DV["Deveres"]
+
+  end
+
+end
+```
+
+#### Artigo 2º
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? PERSONALIDADE CIVIL DA PESSOA NATURAL"
+
+  subgraph "INÍCIO (COMEÇO)"
+
+  NV["Com o Nascimento com Vida"]-->OB1["Obs1: Não importando<br>a VIABILIDADE"]
+  NV-->OB2["Obs2: Não importando<br>a FORMA HUMANA"]
+
+  end
+  subgraph "A LEI põe a salvo:"
+
+  N["O NASCITURO"]-->C["Desde a CONCEPÇÃO"]
+
+  end
+
+end
+```
+
+#### Artigo 3º
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? CAPACIDADE CIVIL DA PESSOA NATURAL"
+
+  subgraph "INCAPACIDADE ABSOLUTA: EXERCER PESSOALMENTE ATOS DA VIDA CIVIL"
+
+  IA["INCAPACIDADE<br>ABSOLUTA"]-->M16["MENORES DE 16 ANOS"]
+
+  end
+
+end
+```
+
+#### Artigo 4º
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? CAPACIDADE CIVIL DA PESSOA NATURAL"
+
+  subgraph "INCAPACIDADE RELATIVA: (1) CERTOS ATOS OU (2) A MANEIRA DE EXERCER CERTOS ATOS DA VIDA CIVIL"
+
+    IA["INCAPACIDADE<br>RELATIVA"]
+    IA-->I["MAIORES DE 16 ANOS E MENORES DE 18 ANOS"]
+    IA-->II1["EBRIOS HABITUAIS"]
+    IA-->II2["VICIADOS EM TÓXICOS"]
+    IA-->III["AQUELES QUE NÃO PUDEREM"]-->EV["Exprimir sua VONTADE"]
+    EV-->CT["CAUSA TEMPORÁRIA"]
+    EV-->CP["CAUSA PERMANENTE"]
+    IA-->P["PRÓDIGOS"]
+
+  end
+
+end
+```
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? CAPACIDADE CIVIL DA PESSOA NATURAL"
+
+  subgraph "INCAPACIDADE RELATIVA: (1) CERTOS ATOS OU (2) A MANEIRA DE EXERCER CERTOS ATOS DA VIDA CIVIL"
+
+    IA["INCAPACIDADE<br>RELATIVA"]
+    IA-->I["INDÍGENAS"]
+    I--Regulada por-->LE["Legislação ESPECIAL<br>(Lei 6.001/73<br>Estatudo do Índio<br>Arts. 7º ao 11)"]
+
+  end
+
+end
+```
+
+#### Artigo 5º
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? MAIORIDADE CIVIL DA PESSOA NATURAL: CAPACIDADE DE DIREITO + CAPACIDADE DE FATO/DE EXERCÍCIO"
+
+  M18["IDADE IGUAL OU SUPERIOR A 18 ANOS"]--A pessoa fica habilitada-->P["Prática de TODOS<br>os ATOS DA VIDA CIVIL"]
+
+end
+```
+
+```mermaid
+flowchart LR
+
+subgraph "O QUE ? CASOS DE CESSAÇÃO DA MENORIDADE (A PARTIR DOS 16 ANOS COMPLETOS)"
+
+  subgraph "Através da EMANCIPAÇÃO"
+
+   subgraph "EMANCIPAÇÃO VOLUNTÁRIA"
+    V["VOLUNTÁRIA"]--feita pelos-->P1["Pais"]
+    V--mediante-->IP["Instrumento Público"]
+    V--independente-->HJ["Homologação JUDICIAL"]
+   end
+
+  subgraph "EMANCIPAÇÃO JUDICIAL"
+   J["JUDICIAL"]-- feita pelo -->T["Tutor"]
+   J--Através de-->SJ["Sentença do JUIZ"]
+  end
+  
+   subgraph "EMANCIPAÇÃO LEGAL"
+    L["EMANCIPAÇÃO LEGAL"]--Pelo-->C["Casamento"]
+    L--Pelo-->E["Exercício de<br>EMPREGO <u>PÚBLICO</u><br>EFETIVO"]
+    L--Pela-->CG["Colação de GRAU<br>em CURSO SUPERIOR"]
+    L--Pelo-->EST["Estabelecimento"]-->CIV["Civil"]
+    EST-->COM["Comercial"]
+   end
+
+  end
+
+end
+
+```
+
 ### CAPÍTULO II - DOS DIREITOS DA PERSONALIDADE
 
 ### CAPÍTULO III - DA AUSÊNCIA
