@@ -34,8 +34,9 @@
 
 - Nesta da data, o professor organizou a sala em grupos, formados para apresentação de várias definições do Direito **a partir do material disponibilizado por ele no Portal do Aluno do UNIESP** na disciplina **TEORIA DO DIREITO**.
   - Link para o Material
-    - [Texto 1]()
-    - [Texto 2]()
+    - [1. ATIVIDADE - LER PARA DEBATER EM SALA - 18.03.2024 - ARTIGO - TEORIA PURA DO DIREITO E POSITIVISMO JURÍDICO](https://drive.google.com/file/d/1-SeAowd11IKjxmpHnsNjSkY4Cfu6jdRu/view?usp=drive_link)
+    - [2. MATERIAL DE APOIO - LER - EM 18.03.2024 - Filosofia juridica e democracia](https://drive.google.com/file/d/1-RDqmdWscUdPPHaDf2Orj3G3u8VmA8KE/view?usp=drive_link)
+    - [3. MATERIAL DE APOIO - LER - EM 18.03.2024 - SLIDES DA AULA](https://docs.google.com/presentation/d/1-NODeb2eqEt6dUPMpqACg-Yx711d1ezx)
 
 ## 1. Conteúdo da Aula
 

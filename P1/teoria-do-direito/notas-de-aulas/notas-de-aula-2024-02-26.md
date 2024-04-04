@@ -82,7 +82,7 @@
      <b>Conceito</b>
   </td>
   <td valign="top">
-<p style="text-align:center"><b>Conceito de DIREITO POSITIVO</b></p>
+<p style="text-align:center"><b>Conceito de DIREITO NATURAL</b></p>
     <p style="text-align:justify">
      É o Direito oriundo de como determinado povo percebe a "<b>ordem natural das coisas</b>", em determinado tempo e espaço. Todas as culturas imaginam-se ETERNAS.
     </p>
