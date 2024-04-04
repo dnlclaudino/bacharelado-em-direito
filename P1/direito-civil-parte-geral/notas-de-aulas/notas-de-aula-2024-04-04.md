@@ -77,13 +77,18 @@
 
 ## 2. Tópicos a serem abordados na próxima aula
 
-- Nenhuma, nesta data 🗓.
+- Nenhum foi relatado, nesta data 🗓.
 
 ## 3. Anotações Relevantes Feitas Durante a Aula
 
+Nenhuma, nesta data 🗓.
+
 ## 4. Avisos / Observações
 
-- Nenhum, nesta data 🗓.
+- [Código Civil - Lei 10.406 de 2002](https://drive.google.com/file/d/1V9EsTv3i04ygSbuGEq0Fc7dp1yc_b7vR/view?usp=drive_link)
+  - Gentilmente, elaborado e cedido por nossa colega Kah Lucena;
+  - ATENÇÃO COLEGAS: Imprima e leve para a prova, pois poderá ser consultado e será necessário para realizar a prova;
+  - ATENÇÃO: Só pode levar para prova a "lei seca", sem comentários;
 
 ## 5. Material Disponibilizado na Área do Aluno
 
