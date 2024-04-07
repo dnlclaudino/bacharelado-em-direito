@@ -36,12 +36,12 @@
 
 RAMIRO, Caio Henrique Lopes; HERRERA, Luiz Henrique Martim. Hans Kelsen: Filosofia jurídica e democracia. **Revista de Informação Legislativa**, [S.l.], v. 52, n. 205, p. 235-260, jan. / mar. 2015. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/509951/001033130.pdf?sequence=1&isAllowed=y Acesso em: 07 abr. 2024
 
-
 - **Objetivo**: Investigar as possibilidades do pensamento de Hans Kelsen, especialmente sua filosofia jurídica relacionada à Teoria Pura do Direito e suas implicações políticas.
 - **Metodologia**: Análise hermenêutica das obras de Kelsen, revisão bibliográfica considerando as fontes históricas e teóricas, e diálogo crítico com interlocutores de Kelsen.
 
 O artigo "Filosofia Jurídica e Democracia" de Caio Henrique Lopes Ramiro e Luiz Henrique Martim Herrera aborda o pensamento de Hans Kelsen e sua relevância para o entendimento da filosofia jurídica em relação à democracia. O texto é dividido em seções que exploram diferentes aspectos da teoria de Kelsen, sua metodologia, e suas implicações para a democracia e o direito. Abaixo, segue um resumo dos principais pontos abordados em cada seção do artigo:
-Introdução
+
+## Introdução
 
 O objetivo do trabalho é investigar o pensamento de Hans Kelsen, focando em sua filosofia jurídica e política. Utiliza-se uma metodologia hermenêutica para analisar textos de Kelsen, considerando o contexto histórico e o diálogo crítico com seus interlocutores. A introdução estabelece a importância de Kelsen para a filosofia jurídica e a teoria do direito.
 
@@ -54,6 +54,34 @@ As principais ideias abordadas nesta seção foram:
 - **Contexto Histórico**: Kelsen propôs a Teoria Pura do Direito no início do século XX, buscando delimitar o conhecimento jurídico a uma descrição objetiva do sistema normativo, estabelecendo assim o positivismo jurídico normativista.
 - **Positivismo Jurídico vs. Filosófico**: Diferenciação entre positivismo jurídico, focado na ciência do Direito e sua metodologia própria, e o positivismo filosófico, com origem em Augusto Comte, que visa uma caracterização precisa do direito tal como ele é.
 - **Princípio Metodológico**: Kelsen estabelece que o conhecimento do Direito deve se basear exclusivamente no Direito Positivo, excluindo influências ideológicas ou metafísicas, promovendo uma ciência jurídica autônoma.
+
+#### As principais partes do texto <span style="background-color:yellow">**ressaltadas pelo professor**</span> foram:
+
+- No início do século XX, Hans Kelsen denunciava que a prática judiciária, pela jurisprudência, valia-se de critérios múltiplos para definir o que é o Direito;
+- Diante dessa multiplicidade de horizontes metodológicos, propôs o que chamou de **Teoria Pura do Direito**, numa manifesta pretensão de delimitar a esfera do conhecimento jurídico à possibilidade descritiva e de conhecimento do sistema normativo;
+- Assim, proclamava a instauração de **uma metodologia própria** para a **ciência do Direito**;
+- A partir dessa dimensão normativa, o Direito posto (norma) seria o **objeto científico**;
+- <span style="background-color:lightgreen">**A esse modo de ver o Direito**</span> é que se denomina <span style="background-color:yellow">**positivismo jurídico normativista**</span>;
+- A origem da expressão positivismo jurídico está na ideia de que somente ao Estado pertence o poder de estabelecer o Direito;
+- O Direito - e as normas jurídicas – seria o instrumento que o Estado tem para dar ordem à realidade social;
+- Por esses parâmetros, Hans Kelsen concebe a ciência jurídica livre das influências metafísicas e idealistas sobre a natureza do Direito.
+  - O Direito, a partir de então, não seria outro que não o Direito Positivo;
+  - Seu projeto de uma Teoria Pura do Direito se justifica como uma **proposta de epistemologia jurídica**;
+- Os objetivos de **Hans Kelsen** quando da formulação de sua **Teoria Pura do Direito**:
+  - “Há mais de duas décadas que empreendi desenvolver uma teoria jurídica pura, isto é, purificada de toda ideologia política e de todos os elementos de ciência natural, uma teoria jurídica consciente da sua especificidade porque consciente da legalidade específica de seu objeto. Logo, desde o começo foi meu intento elevar a jurisprudência, que – aberta ou veladamente – se esgotava quase por completo em raciocínios de política jurídica, à altura de uma genuína ciência, de uma ciência do espírito."
+  - "Importava explicar, não as suas tendências endereçadas à formação do Direito, mas as suas tendências exclusivamente dirigidas ao estudo do Direito, e aproximar tanto quanto possível os seus resultados do ideal de toda a ciência: objetividade e exatidão”
+- Essa visão separatista proposta por Kelsen considera que o estudo e a compreensão do Direito não incluem sua avaliação moral (substância), e o reconhecimento da validade de um sistema jurídico (ou de uma norma) não depende de sua conformidade a critérios sobre o justo e o correto; depende apenas da formalidade, isto é, de o conteúdo estar inserido em determinado ordenamento jurídico (independentemente de seu teor).
+  - “Todo e qualquer conteúdo pode ser Direito.";
+  - "Não há qualquer conduta humana que, como tal, por força do seu conteúdo, esteja excluída de ser conteúdo de uma norma jurídica."; 
+  - "A validade desta não está negada pelo fato de seu conteúdo contrariar o de uma outra norma que não pertença à ordem jurídica cuja norma fundamental é o fundamento de validade da norma em questão.”;
+- Nesse panorama, verifica-se que sua proposta de tornar o Direito uma ciência constitui-se da mais rigorosa lógica, na medida em que concebe o Direito como um sistema fechado, competindo ao intérprete (adotando uma postura cognitiva6) optar por uma solução do caso concreto (concreção) a partir de alternativas situadas dentro da “moldura” do texto normativo;
+- Cristaliza-se, com isso, um Direito justo, fundado no subjetivismo e no arbítrio (dever-ser), reduzindo-se todo o Direito Natural ao Direito Positivo (legalidade como valor-fim).
+  - Resultado: retiram-se as “impurezas” valorativas da categoria jurídica; 
+- Em suma, Hans Kelsen considerou o Direito como um especial sistema de normas, cujo fundamento de validade não estava em outros sistemas normativos, como a religião ou a moral; mas também não estava na ordem dos fatos, como numa política;
+  - Ou seja, uma norma jurídica não teria vigência por ser moral ou útil,mas apenas porque é norma jurídica.
+  - Assim, passa a ser obrigatória em virtude do comando de uma norma superior. 
+  - Daí por que o Direito se assemelha a uma “pirâmide normativa”, no topo da qual se encontra a Constituição.
+  - Mas, como a própria Constituição carece de um fundamento jurídico, a rigorosa construção lógica de sua teoria o obrigou a pressupor uma “norma fundamental”, que valida a Constituição.
 
 ## 2. A gênese do pensamento de Hans Kelsen e a formação do conhecimento jurídico: o positivismo jurídico caricaturado
 
