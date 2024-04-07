@@ -30,18 +30,30 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Resumo do Artigo: Filosofia Jurídica e Democracia
+<h1> Resumo do Artigo: Filosofia Jurídica e Democracia</h1>
+
+<!-- TOC -->
+
+- [Introdução](#introdução)
+- [1. Hans Kelsen: a afirmação do positivismo jurídico normativista](#1-hans-kelsen-a-afirmação-do-positivismo-jurídico-normativista)
+    - [As principais partes do texto **ressaltadas pelo professor** foram:](#as-principais-partes-do-texto-ressaltadas-pelo-professor-foram)
+- [2. A gênese do pensamento de Hans Kelsen e a formação do conhecimento jurídico: o positivismo jurídico caricaturado](#2-a-gênese-do-pensamento-de-hans-kelsen-e-a-formação-do-conhecimento-jurídico-o-positivismo-jurídico-caricaturado)
+- [3. Com o positivismo jurídico em defesa da democracia: considerações sobre o reductio ad Hitlerum](#3-com-o-positivismo-jurídico-em-defesa-da-democracia-considerações-sobre-o-reductio-ad-hitlerum)
+- [Considerações Finais](#considerações-finais)
+- [Principais Conceitos e Definições](#principais-conceitos-e-definições)
+
+<!-- /TOC -->
 
 **Referência Bibliográfica**:
 
 RAMIRO, Caio Henrique Lopes; HERRERA, Luiz Henrique Martim. Hans Kelsen: Filosofia jurídica e democracia. **Revista de Informação Legislativa**, [S.l.], v. 52, n. 205, p. 235-260, jan. / mar. 2015. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/509951/001033130.pdf?sequence=1&isAllowed=y Acesso em: 07 abr. 2024
 
+## Introdução
+
 - **Objetivo**: Investigar as possibilidades do pensamento de Hans Kelsen, especialmente sua filosofia jurídica relacionada à Teoria Pura do Direito e suas implicações políticas.
 - **Metodologia**: Análise hermenêutica das obras de Kelsen, revisão bibliográfica considerando as fontes históricas e teóricas, e diálogo crítico com interlocutores de Kelsen.
 
 O artigo "Filosofia Jurídica e Democracia" de Caio Henrique Lopes Ramiro e Luiz Henrique Martim Herrera aborda o pensamento de Hans Kelsen e sua relevância para o entendimento da filosofia jurídica em relação à democracia. O texto é dividido em seções que exploram diferentes aspectos da teoria de Kelsen, sua metodologia, e suas implicações para a democracia e o direito. Abaixo, segue um resumo dos principais pontos abordados em cada seção do artigo:
-
-## Introdução
 
 O objetivo do trabalho é investigar o pensamento de Hans Kelsen, focando em sua filosofia jurídica e política. Utiliza-se uma metodologia hermenêutica para analisar textos de Kelsen, considerando o contexto histórico e o diálogo crítico com seus interlocutores. A introdução estabelece a importância de Kelsen para a filosofia jurídica e a teoria do direito.
 

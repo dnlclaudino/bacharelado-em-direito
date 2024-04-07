@@ -35,7 +35,27 @@
   </tr>
 </table>
 
+<!-- TOC ignore:true -->
+
 # Resumo dos Slides da Aula em 11/03/2024 e 18/03/2024
+
+<!-- TOC -->
+
+- [Resumo dos Slides da Aula em 11/03/2024 e 18/03/2024](#resumo-dos-slides-da-aula-em-11032024-e-18032024)
+  - [Slides 01 até 06](#slides-01-até-06)
+    - [O que é o Direito?](#o-que-é-o-direito)
+  - [Slides 07 até 09](#slides-07-até-09)
+    - [NORMATIZAÇÃO SOCIAL: 2. NORMAS COTIDIANAS SOCIAIS](#normatização-social-2-normas-cotidianas-sociais)
+  - [Slides 10 até 11](#slides-10-até-11)
+    - [NORMATIZAÇÃO SOCIAL: O DIREITO](#normatização-social-o-direito)
+  - [Slides 12 até 14](#slides-12-até-14)
+    - [Caracterizando o Direito](#caracterizando-o-direito)
+  - [Slides 15 até 23](#slides-15-até-23)
+    - [DIREITO NATURAL X DIREITO POSITIVO](#direito-natural-x-direito-positivo)
+  - [Slides 24 A 25](#slides-24-a-25)
+    - [POSITIVAÇÃO DO DIREITO NATURAL](#positivação-do-direito-natural)
+
+<!-- /TOC -->
 
 ## Slides 01 até 06
 
@@ -50,8 +70,6 @@
   - Necessidade de regulamentação da individualidade em relação ao Bem Maior almejado pela coletividade, de maneira a prevenir conflitos de interesses e otimizar a contribuição de cada indivíduo à vida em Sociedade.
 
 ## Slides 07 até 09
-
-### NORMATIZAÇÃO SOCIAL: NORMAS COTIDIANAS
 
 1. TÉCNICAS OU CIENTÍFICAS;
      - Invariáveis no tempo e espaço;

@@ -27,7 +27,16 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Introdução ao Estudo do Direito
+<h1> Introdução ao Estudo do Direito</h1>
+
+<!-- TOC updateonsave:false -->
+
+- [Notas de Aula](#notas-de-aula)
+- [Trabalhos e Atividades](#trabalhos-e-atividades)
+- [Resumos](#resumos)
+
+<!-- /TOC -->
+
 
 ## Notas de Aula
 

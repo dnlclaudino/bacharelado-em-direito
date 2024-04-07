@@ -30,12 +30,30 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Resumo do Artigo: Teoria Pura do Direito e Positivismo Jurídico: A Influência do Normativismo em Hans Kelsen e Seus Impactos
+<h1>Resumo do Artigo: Teoria Pura do Direito e Positivismo Jurídico: A Influência do Normativismo em Hans Kelsen e Seus Impactos</h1>
 
 **Referência Bibliográfica**:
 
 GRUBBA, Leilane Serratine; SILVEIRA, Alexandre Marques. Teoria Pura do Direito e Positivismo Jurídico: A Influência do Normativismo em Hans Kelsen e Seus Impactos. **Revista Jurídica Cesumar**, v. 21, n. 2, p.451-465, maio/agosto 2021.
 
+<!-- TOC -->
+
+- [1. Introdução](#1-introdução)
+- [2. Hans Kelsen e a Ciência do Direito](#2-hans-kelsen-e-a-ciência-do-direito)
+- [3. A Questão da Forma do Direito na Concepção Positivista Clássica](#3-a-questão-da-forma-do-direito-na-concepção-positivista-clássica)
+- [4. O Positivismo Kelseniano: Uma Questão de Normativismo](#4-o-positivismo-kelseniano-uma-questão-de-normativismo)
+- [5. O Problema de Pesquisa: O Fundamento de Validade Filosófico da Teoria Pura e a Norma Básica](#5-o-problema-de-pesquisa-o-fundamento-de-validade-filosófico-da-teoria-pura-e-a-norma-básica)
+- [Os principais conceitos e definições](#os-principais-conceitos-e-definições)
+  - [Teoria Pura do Direito](#teoria-pura-do-direito)
+  - [Positivismo Jurídico](#positivismo-jurídico)
+  - [Normativismo](#normativismo)
+  - [Norma Fundamental](#norma-fundamental)
+  - [Ciência do Direito](#ciência-do-direito)
+  - [Direito Positivo vs. Direito Natural](#direito-positivo-vs-direito-natural)
+  - [Validade das Normas Jurídicas](#validade-das-normas-jurídicas)
+- [Considerações Finais](#considerações-finais)
+
+<!-- /TOC -->
 ## 1. Introdução
 
 A seção de introdução contextualiza a relevância da obra de Hans Kelsen, "Teoria Pura do Direito", na ciência jurídica, destacando sua tentativa de estabelecer uma ciência do direito purificada de influências externas como a moral, a política e a religião. Kelsen é apresentado como um dos principais teóricos para compreender o direito como ciência, buscando uma base teórica e científica própria para o Direito, fundamentada no ideal positivista.

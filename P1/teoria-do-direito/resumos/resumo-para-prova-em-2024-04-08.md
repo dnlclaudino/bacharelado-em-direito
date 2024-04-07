@@ -12,7 +12,7 @@
  </p>
 </div>
 
-<table align="right" border="0">
+<table align="center" border="0">
   <tr>
     <td align="center" valign="top">
       <a href="../../../README.md">
@@ -28,30 +28,39 @@
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
     </td>
   </tr>
-</table><br><br><br><br><br>
+</table>
 
-# Resumo para Prova de Teoria do Direito em 08/04/2024
+<h1>Resumo para Prova de Teoria do Direito em 08/04/2024</h1>
 
-## CONTEÚDO PROGRAMÁTICO PARA DA PROVA
+<!-- TOC -->
+
+- [1.CONTEÚDO PROGRAMÁTICO PARA DA PROVA](#1conteúdo-programático-para-da-prova)
+- [2. Direito Positivo e Direito Natural](#2-direito-positivo-e-direito-natural)
+  - [Notas de Aula 26/02/2024](#notas-de-aula-26022024)
+    - [Direito Positivo](#direito-positivo)
+    - [Direito Natural](#direito-natural)
+- [3. Relação entre Direito e Moral](#3-relação-entre-direito-e-moral)
+  - [Notas de Aula de 25/03/2024](#notas-de-aula-de-25032024)
+    - [TEORIAS SOBRE O DIREITO E A MORAL](#teorias-sobre-o-direito-e-a-moral)
+    - [Teoria dos Círculos Concêntricos](#teoria-dos-círculos-concêntricos)
+    - [Teoria dos Círculos Independentes (Visão Kelseniana)](#teoria-dos-círculos-independentes-visão-kelseniana)
+    - [Teoria dos Círculos Secantes](#teoria-dos-círculos-secantes)
+    - [Teoria do Mínimo Ético](#teoria-do-mínimo-ético)
+    - [Fotos do Quadro](#fotos-do-quadro)
+- [4. Conceito de Ciência do Direito](#4-conceito-de-ciência-do-direito)
+- [5. Positivismo Jurídico de Kelsen (até ordenamento jurídico)](#5-positivismo-jurídico-de-kelsen-até-ordenamento-jurídico)
+  - [Notas de Aula de 25/03/2024](#notas-de-aula-de-25032024-1)
+    - [HANS KELSEN](#hans-kelsen)
+  - [Notas de Aula de 01/04/2024](#notas-de-aula-de-01042024)
+    - [Teoria do Ordenamento Jurídico](#teoria-do-ordenamento-jurídico)
+    - [Normas Supralegais](#normas-supralegais)
+    - [Pirâmide de "KELSEN" (Adolf Merkl)](#pirâmide-de-kelsen-adolf-merkl)
+
+<!-- /TOC -->
+
+## 1.CONTEÚDO PROGRAMÁTICO PARA DA PROVA
 
 Conteúdo programático da prova está disponível no dia 08/04/2024, na [🗓️Agenda da Turma🗓️](https://dxh1.short.gy/2Z84Ys).
-
-- Conceito de Direito;
-- Direito Positivo e Direito Natural;
-- Relação entre Direito e Moral;
-- Conceito de Ciência do Direito;
-- Positivismo Jurídico de Kelsen (até ordenamento jurídico);
-
-## <span style="background-color:lightgreen">1. Conceito de Direito</span>
-
-### Conceito do Professor Marcel
-
-O Direito é uma prática social que se estrutura como um conjunto de normas, isto é, regras, princípios e padronizações implementado pelo Estado, com vistas a regular as relações sociais jurídicas.
-
-### Conceito Contido nos Slides de Aula
-
-- Link: [3. MATERIAL DE APOIO - LER - EM 18.03.2024 - SLIDES DA AULA](https://docs.google.com/presentation/d/1-NODeb2eqEt6dUPMpqACg-Yx711d1ezx)
-  - Slide nº 10
     - Para Kant, “Direito é o conjunto de condições pelas quais o arbítrio de um pode conciliar-se com o arbítrio do outro, segundo uma lei geral de liberdade”.
   - Slide nº 11
     - "O Direito é uma prática social com fundamentos próprios, que se manifesta como conjunto de regras de caráter permanente(atenção, permanência não quer dizer imutabilidade), obrigatório, geral e impessoal que se destina a regulamentar a vida em sociedade com vistas ao bem comum."
