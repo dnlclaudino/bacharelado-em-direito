@@ -133,7 +133,7 @@
     - A Constituição de 1937;
     - Francisco Campos e o Estado Nacional;
     - Principais características.
-    - DIFERENÇAS ENTRE REGIMES TOTALITÁRIOS E REGIMES AUORITÁRIOS
+    - **DIFERENÇAS ENTRE REGIMES TOTALITÁRIOS E REGIMES AUTORITÁRIOS**:
       - Os regimes autoritários, embora possuindo as características gerais das autocracias, diferentemente dos modelos totalitários, não se baseiam no primado de uma ideologia e podem admitir certa esfera de liberdade ao cidadão para escolhas no âmbito privado (podemos citar, a título de exemplo, no domínio das crenças religiosas, ou mesmo no âmbito econômico)
 
 ### Para mais detalhes sobre REGIMES TOTALITÁRIOS
