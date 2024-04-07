@@ -18,6 +18,10 @@
       </a>
     </td>
     <td align="center" valign="top">
+        <a href="https://drive.google.com/file/d/1-BaHggT-Vwgy2aleMPyxDHT1r2Kw-V8Z/view?usp=drive_link">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-atividades-relogio.png?raw=true" heigh="60" width="60"><br>Ementa da<br> Disciplina</a>
+    </td>
+    <td align="center" valign="top">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
     </td>
   </tr>
@@ -27,16 +31,15 @@
 
 ## Notas de Aula
 
-
-|#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
-|:---:|:---:|:---|:---|
-|1|[Notas de aula de 19/02/2024](./notas-de-aulas/notas-de-aula-2024-02-19.md)|-|-|
-|2|[Notas de aula de 26/02/2024](./notas-de-aulas/notas-de-aula-2024-02-26.md)|-|-|
-|3|[Notas de aula de 04/03/2024](./notas-de-aulas/notas-de-aula-2024-03-04.md)|-|-|
-|4|[Notas de aula de 11/03/2024](./notas-de-aulas/notas-de-aula-2024-03-11.md)|-|-|
-|5|[Notas de aula de 18/03/2024](./notas-de-aulas/notas-de-aula-2024-03-18.md)|-|-|
-|6|[Notas de aula de 25/03/2024](./notas-de-aulas/notas-de-aula-2024-03-25.md)|-|-|
-|7|[Notas de aula de 01/04/2024](./notas-de-aulas/notas-de-aula-2024-04-01.md)|-|-|
+|#|Notas de Aula|Tópicos Abordados na Aula|Material Disponibilizado|Observação/Anotação|
+|:---:|:---:|:---|:---|:---|
+|1|[Notas de aula de 19/02/2024](./notas-de-aulas/notas-de-aula-2024-02-19.md)|-|-|-|
+|2|[Notas de aula de 26/02/2024](./notas-de-aulas/notas-de-aula-2024-02-26.md)|-|- [Livro: A Trilogia Tebana](https://drive.google.com/file/d/1-ApnyncDAGNHosxmp17y8_XrdZzpD3Kp/view?usp=drive_link)<br>- [Texto 1: Conceito de Direito](https://drive.google.com/file/d/1-9fqituSPA_1CiH0VW6BP_U6qNh-Uxgg/view?usp=drive_link)<br>- [Texto 2: Conceito de Direito](https://drive.google.com/file/d/1---x-8ouHL-XyBLmCKCprGOECjzZWN6c/view?usp=drive_link)|-|
+|3|[Notas de aula de 04/03/2024](./notas-de-aulas/notas-de-aula-2024-03-04.md)|-|-|-|
+|4|[Notas de aula de 11/03/2024](./notas-de-aulas/notas-de-aula-2024-03-11.md)|-|-|-|
+|5|[Notas de aula de 18/03/2024](./notas-de-aulas/notas-de-aula-2024-03-18.md)|-|- [Artigo: Teoria Pura do Direito e Positivismo Jurídico](https://drive.google.com/file/d/1-SeAowd11IKjxmpHnsNjSkY4Cfu6jdRu/view?usp=drive_link)<br>- [Artigo: Filosofia Jurídica e Democracia](https://drive.google.com/file/d/1-RDqmdWscUdPPHaDf2Orj3G3u8VmA8KE/view?usp=drive_link)<br>- [SLIDES da aula](https://docs.google.com/presentation/d/1-NODeb2eqEt6dUPMpqACg-Yx711d1ezx/edit?usp=drive_link&ouid=111932077361451535905&rtpof=true&sd=true)|-|
+|6|[Notas de aula de 25/03/2024](./notas-de-aulas/notas-de-aula-2024-03-25.md)|-|-|-|
+|7|[Notas de aula de 01/04/2024](./notas-de-aulas/notas-de-aula-2024-04-01.md)|-|-|-|
 
 ## Trabalhos e Atividades
 
