@@ -338,11 +338,11 @@ Esses tópicos sintetizam a análise profunda de José Murilo de Carvalho sobre 
 
 [^NOTAS-DE-AULA-2024-02-27]: [Notas de Aula de 27/02/2024](../notas-de-aulas/notas-de-aula-2024-02-27.md) de Sociologia Geral e Jurídica.
 
-[^APRESENTACAO-EM-SLIDES-2024-03-19a]: Apresentação de Slides: "**SOCIOLOGIA CONCEITO E EVOLUÇÃO HISTÓRICA**". Disciplina Sociologia Geral e Jurídica. Disponibilizada na sala em 19/03/2024.
+[^APRESENTACAO-EM-SLIDES-2024-03-19a]: Apresentação de Slides: "**SOCIOLOGIA CONCEITO E EVOLUÇÃO HISTÓRICA**". Professor JEAN. Disciplina Sociologia Geral e Jurídica. UNIESP. Disponibilizada na sala em 19/03/2024.
 
-[^APRESENTACAO-EM-SLIDES-2024-03-19b]: Apresentação de Slides: "**CIDADANIA NO BRASIL**". Disciplina Sociologia Geral e Jurídica. Disponibilizada na sala em 19/03/2024.
+[^APRESENTACAO-EM-SLIDES-2024-03-19b]: Apresentação de Slides: "**CIDADANIA NO BRASIL**". Professor JEAN. Disciplina Sociologia Geral e Jurídica. UNIESP. Disponibilizada na sala em 19/03/2024.
 
-[^TRABALHO-APRESENTADO-2024-03-19]: Trabalho/Atividade: "**CONCEITO DE FATO SOCIAL**". Disciplina Sociologia Geral e Jurídica. Realizado em sala de aula em 19/03/2024.
+[^TRABALHO-APRESENTADO-2024-03-19]: Trabalho/Atividade: "**CONCEITO DE FATO SOCIAL**". Disciplina Sociologia Geral e Jurídica. Grupo (Daniel Lima; Miguel J.;Gabriel J.). Realizado em sala de aula em 19/03/2024.
 
 [^CARVALHO-2021]:CARVALHO, José Murilo de. [Cidadania no Brasil: O longo caminho](https://www.amazon.com.br/Cidadania-no-Brasil-longo-caminho/dp/6558020424). 27. ed. Rio de Janeiro: Civilização Brasileira, 2021
 
