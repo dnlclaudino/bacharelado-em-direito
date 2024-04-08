@@ -1,5 +1,5 @@
 <!-- TOC ignore:true -->
-<h1> A Sociologia Científica de Émile Durkheim: Coesão, Solidariedade, Consciência Coletiva, Morfologia Social e Anomia</h1>
+<h1>A Sociologia Científica de Émile Durkheim: Coesão, Solidariedade, Consciência Coletiva, Morfologia Social e Anomia</h1>
 
 <center><b>Daniel de Lima Claudino</b> <sup>1</sup><br>Aluno do 1º período / Bacharelado em Direito<br><sub><sup>1</sup> UNIESP - Sociedade de Ensino Superior da Paraíba</sub>
 
