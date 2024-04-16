@@ -49,6 +49,7 @@
 |5|[Notas de aula de 18/03/2024](./notas-de-aulas/notas-de-aula-2024-03-18.md)|-|- [Artigo: Teoria Pura do Direito e Positivismo Jurídico](https://drive.google.com/file/d/1-SeAowd11IKjxmpHnsNjSkY4Cfu6jdRu/view?usp=drive_link)<br>- [Artigo: Filosofia Jurídica e Democracia](https://drive.google.com/file/d/1-RDqmdWscUdPPHaDf2Orj3G3u8VmA8KE/view?usp=drive_link)<br>- [SLIDES da aula](https://docs.google.com/presentation/d/1-NODeb2eqEt6dUPMpqACg-Yx711d1ezx/edit?usp=drive_link&ouid=111932077361451535905&rtpof=true&sd=true)|-|
 |6|[Notas de aula de 25/03/2024](./notas-de-aulas/notas-de-aula-2024-03-25.md)|-|-|-|
 |7|[Notas de aula de 01/04/2024](./notas-de-aulas/notas-de-aula-2024-04-01.md)|-|-|-|
+|8|[Notas de aula de 15/04/2024](./notas-de-aulas/notas-de-aula-2024-04-15.md)|-|-|-|
 
 ## Trabalhos e Atividades
 
