@@ -30,7 +30,7 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Notas de Aula da Disciplina Teoria do Direito
+# Notas de Aula
 
 ## 1. Conteúdo da Aula
 

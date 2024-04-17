@@ -1,15 +1,14 @@
-
 <div align="center">
 
 <p align="center"><img height="120" src="../../../figuras/LOGO_UNIESP.png"> </p>
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: NOME-DA-DISCIPLINA<br>
-<b>Professor</b>: NOME-DO-PROFESSOR<br>
-<b>Data</b>: XX de XXXX de 20XX, XXX-Feira<br>
+<b>Disciplina</b>: Teoria do Direito (Introdução ao Estudo do Direito)<br>
+<b>Professor</b>: MARCEL<br>
+<b>Data</b>: 01 de abril de 2024, segunda-feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
-<b>Aluno</b>: Daniel Lima Claudino / XXº período<br>
+<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
 </div>
 
@@ -35,7 +34,7 @@
 
 ## 1. Conteúdo da Aula
 
-- Nenhum, nesta data 🗓.
+### Hermenêutica: Antonomia
 
 ## 2. Tópicos a serem abordados na próxima aula
 

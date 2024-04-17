@@ -39,8 +39,10 @@
 |:---:|:---:|:---|:---|
 |1|[Notas de aula de 20/02/2024](./notas-de-aulas/notas-de-aula-2024-02-20.md)|-|-|
 |2|[Notas de aula de 05/03/2024](./notas-de-aulas/notas-de-aula-2024-03-05.md)|-|-|
-|2|[Notas de aula de 12/03/2024](./notas-de-aulas/notas-de-aula-2024-03-12.md)|- [SLIDES: Ciência Política - Introdução](https://docs.google.com/presentation/d/1zpyAT78gz6Bh1K8A7G-wCxm9FuS1yN5c/edit?usp=sharing&ouid=111932077361451535905&rtpof=true&sd=true)|-|
-|3|[Notas de aula de 26/03/2024](./notas-de-aulas/notas-de-aula-2024-03-26.md)|-|-|
+|3|[Notas de aula de 12/03/2024](./notas-de-aulas/notas-de-aula-2024-03-12.md)|- [SLIDES: Ciência Política - Introdução](https://docs.google.com/presentation/d/1zpyAT78gz6Bh1K8A7G-wCxm9FuS1yN5c/edit?usp=sharing&ouid=111932077361451535905&rtpof=true&sd=true)|-|
+|4|[Notas de aula de 26/03/2024](./notas-de-aulas/notas-de-aula-2024-03-26.md)|-|-|
+|5|[Notas de aula de 02/04/2024](./notas-de-aulas/notas-de-aula-2024-04-02.md)|-|-|
+|6|[Notas de aula de 16/04/2024](./notas-de-aulas/notas-de-aula-2024-04-16.md)|-|-|
 
 ## Trabalhos e Atividades
 
