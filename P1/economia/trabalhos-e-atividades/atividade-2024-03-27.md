@@ -7,6 +7,7 @@
 <b>Professor</b>: ODILON CARREIRO DE ALMEIDA NETO<br>
 <b>Data</b>: 27 de março de 2024, Quarta-Feira<br>
 <b>Turno:</b> MATUTINO / 1º período<br>
+<b>Matrícula:</b> 2024110230057 <b>Aluno:</b>Daniel Lima Claudino<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
  </p>
 </div>
