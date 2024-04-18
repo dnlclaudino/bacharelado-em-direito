@@ -51,3 +51,9 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|[Resumo da PARTE GERAL da Lei 10.406 de 2002](./resumos/resumo-lei-10406-2002-parte-geral.md)| Trata-se de uma resumo da lei seca;<br>- Trata-se de uma Visão Geral da Lei|
+
+## Artigos Acadêmicos
+
+|#|Situação|Item|Observações / Anotações|
+|:---:|:---|:---|:---|
+|1|Minuta|[Tutela e Curatela: Conceito, aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade](./artigos/parte-geral-capacidade-civil-tutela-e-curatela.md)| Trata-se de artigo que trata dos institutos da TUTELA e CURATELA sob vários aspectos: aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade|
