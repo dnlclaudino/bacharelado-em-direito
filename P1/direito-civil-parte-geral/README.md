@@ -46,7 +46,7 @@
 |:---:|:---:|:---|:---|:---|
 |1|Atividade|[Resenha Crítica do Documentário: Holocausto Brasileiro](./trabalhos-e-atividades/2024-03-07-atividade-resenha-critica-a-luz-dudh.md)|Em 07/03/2024<br>(quinta-feira)|- Atividade valendo até 1,0 ponto<br> - A professora Mariana, em 29/03/2024, passou esse trabalho para entregar na próxima aula;|
 
-## Resumos
+## Resumos e Resenhas
 
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
