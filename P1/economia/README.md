@@ -40,3 +40,11 @@
 |#|Item|Observações / Anotações|
 |:---:|:---|:---|
 |1|[Atividade de 27/03/2024](./trabalhos-e-atividades/atividade-2024-03-27.md)|-|
+
+## Resumos e Resenhas
+
+|#|Tipo|Autor(es)|Material|Descrição|Referência Bibliográfica|
+|:---:|:---|:---|:---|:---|:---|
+|1|Resenha|**MARCO ANTÔNIO SANDOVAL VASCONCELOS<br><br>MANUEL ENRIQUEZ GARCIA**|LIVRO FUNDAMENTOS DE ECONOMIA|[Capítulo 01 - Introdução à Economia](https://github.com/dnlclaudino/economia/blob/master/livro-VASCONCELOS-GARCIA-2012-fundamentos-de-economia/capitulo-01-introducao-a-aconomia.md)|VASCONCELOS, Marcos Antônio S.;GARCIA, Manuel E. **Introdução à Economia**. São Paulo : Saraiva, 2012.|
+|2|Resenha|**MARCO ANTÔNIO SANDOVAL VASCONCELOS<br><br>MANUEL ENRIQUEZ GARCIA**|LIVRO FUNDAMENTOS DE ECONOMIA|[Capítulo 04 - Introdução à Macroeconomia](https://github.com/dnlclaudino/economia/blob/master/livro-VASCONCELOS-GARCIA-2012-fundamentos-de-economia/capitulo-04-introducao-a-macroeconomia.md)|VASCONCELOS, Marcos Antônio S.;GARCIA, Manuel E. **Introdução à Economia**. São Paulo : Saraiva, 2012.|
+|3|Resenha|**MARCO ANTÔNIO SANDOVAL VASCONCELOS<br><br>MANUEL ENRIQUEZ GARCIA**|LIVRO FUNDAMENTOS DE ECONOMIA|[Capítulo 05 - Demanda, Oferta e Equilíbrio de Mercado](https://github.com/dnlclaudino/economia/blob/master/livro-VASCONCELOS-GARCIA-2012-fundamentos-de-economia/capitulo-05-demanda-oferta-equilibrio-de-mercado.md)|VASCONCELOS, Marcos Antônio S.;GARCIA, Manuel E. **Introdução à Economia**. São Paulo : Saraiva, 2012.|
