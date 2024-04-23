@@ -56,4 +56,4 @@
 
 |#|Situação|Item|Observações / Anotações|
 |:---:|:---|:---|:---|
-|1|Minuta|[Tutela e Curatela: Conceito, aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade](./artigos/parte-geral-capacidade-civil-tutela-e-curatela.md)| Trata-se de artigo que trata dos institutos da TUTELA e CURATELA sob vários aspectos: aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade|
+|1|Minuta|[Representação, Tutela e Curatela: Conceito, aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade](./artigos/artigo-2024-04-18-parte-geral-capacidade-civil-tutela-e-curatela.md)| Trata-se de artigo que trata dos institutos da REPRESENTAÇÃO, TUTELA e CURATELA sob vários aspectos: aplicabilidade, natureza jurídica, causas de instauração, procedimentos legais e finalidade|
