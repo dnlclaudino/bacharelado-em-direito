@@ -56,8 +56,6 @@
 </tr>
 </table>
 
-- Todas as empresas 
-
 - A palavra **domicílio** provém do latim _domus_ = casa
 
 #### Observação
@@ -69,12 +67,27 @@
 
 ## 2) Mudança de Domicílio
 
+- Nos termos do art. 74 e seu parágrafo único do CC/2002:
+  - MUDA-SE DE DOMICÍLIO quando:
+    - OCORRE transferência da residência
+    - COM a manifestação de INTENÇÃO DE MUDAR-SE
+      - Essa inteção de mudar-se pode manifesta-se 
+        - Pelo que eu declaro às municipalidades
+          - Pagamento de obrigações reais pendentes;
+          - Atualizações cadastrais;
+        - Pela própria mudança e suas circunstâncias 
+          - Remoção de bens de bens móveis;
+          - Atualizações cadastrais;
+
 ## 3) Espécies de Domicílio
 
 - Necessário
 - De eleição ou de foro
 
 ### a) Incapazes 
+
+- Conforme art. 76 CC/2002:
+  - É o domicílio do seu REPRESENTANTE ou ASSISTENTE
 
 ### b) Funcionários Públicos
 
