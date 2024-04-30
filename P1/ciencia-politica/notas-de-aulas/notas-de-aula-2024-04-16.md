@@ -69,7 +69,6 @@
 
 #### Bill of Rights na Inglaterra (1689)
 
-
 - A "Bill of Rights" de 1689 da Inglaterra é um documento histórico fundamental que estabeleceu princípios significativos sobre o governo e os direitos dos cidadãos na Inglaterra. Este documento foi uma resposta direta aos abusos de poder por parte de James II e uma das pedras angulares do que viria a ser o sistema constitucional britânico. A seguir, um resumo dos pontos principais contidos na "Bill of Rights" de 1689:
   - **Limitação do poder monárquico**: A "Bill of Rights" estabeleceu que o poder de governar deveria ser exercido dentro de certos limites legais, reduzindo assim o poder absoluto do monarca. Isso incluía proibições contra a suspensão das leis ou a execução das leis sem o consentimento do Parlamento.
   - **Direitos do Parlamento**: O documento confirmou e estendeu o direito de o Parlamento se reunir regularmente, limitando o poder do monarca de interferir nas eleições parlamentares e nos debates. Estabeleceu que o Parlamento deveria ter a liberdade de expressão dentro de seu recinto, uma cláusula fundamental para a funcionalidade democrática do governo.

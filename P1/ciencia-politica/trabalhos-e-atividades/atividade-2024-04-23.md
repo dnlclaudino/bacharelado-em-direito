@@ -28,15 +28,18 @@
   </tr>
 </table><br><br><br><br><br>
 
-# ATIVIDADE DE CONSTITUCIONALISMO
+# ATIVIDADE DE CONSTITUCIONALISMO: Poder constituinte Originário
 
 ### Grupo
 
-|Matrícula|Aluno|
-|:---:|:---:|
-|Matrícula 2024110230057|Daniel Lima Claudino|
-|Matrícula 2024110230122|Ana Lívia Marques Silva|
-|Matrícula 2024110230123||
+||
+|:---:|
+|Ana Lívia Marques Silva|
+|Giordane Oliveira de Sales|
+|Maria Kelida Alves de Araújo|
+|Kalina Gabriele de Lucena Gomes|
+|Genura Braga Matos de Almeida|
+|Daniel Lima Claudino|
 
 ### Diretrizes para participação
 
@@ -46,23 +49,32 @@
 
 ## 1. Apresentação
 
-O poder constituinte originário é um conceito fundamental na ciência política e no direito constitucional, referindo-se à autoridade legal e política responsável por estabelecer uma nova Constituição, marcando a fundação legal de um Estado. Este poder é caracterizado pela sua natureza ilimitada e incondicionada, pois não está submetido a qualquer ordenamento jurídico anterior.
+O poder constituinte originário é um conceito fundamental na ciência política e no direito constitucional. Para apresentar uma síntese sobre o tema, estruturamos nossa apresentação em conceito, finalidade, poderes, formas de surgimento e encerramento dos trabalhos do poder constituinte originário.
 
 ## 2. Conceito
 
-O poder constituinte originário é a força que cria uma nova ordem constitucional, não derivando sua autoridade de nenhuma outra fonte legal pré-existente. É a expressão soberana da vontade política de um povo.
+O poder constituinte originário é a capacidade que uma entidade política possui para criar uma nova ordem jurídica fundamental, estabelecendo uma Constituição para um Estado, rompendo por completo com a ordem jurídica precedente. É responsável pela criação integral de uma nova Constituição. Desse modo, é considerado o poder mais elevado e autônomo dentro do ordenamento jurídico de um país, pois é a fonte de toda a autoridade do Estado.
 
 ## 3.Finalidade
 
-A principal finalidade deste poder é a elaboração de uma nova Constituição, estabelecendo os princípios fundamentais do Estado, a organização dos poderes públicos, e os direitos e garantias dos cidadãos. Ele é essencial para iniciar um novo regime político ou para reconstruir o sistema legal e político após eventos como revoluções, independências ou grandes reformas sociais.
+A finalidade do poder constituinte originário é criar um novo Estado, diverso do que vigorava em decorrência da manifestação do poder constitucional pretendente. Estabelece as bases fundamentais de um Estado, criando uma nova constituição que organize o sistema político, estabeleça os direitos e deveres dos cidadãos e defina as instituições do governo, de acordo com as necessidades e aspirações da sociedade. O exercício desse poder gera alteração no regime jurídico de todo o país. Essa mudança é chamada de transconstitucionalização.
 
 ## 4. Poderes
 
 O poder constituinte originário possui poderes quase absolutos para configurar a estrutura do Estado e seu funcionamento legal. Ele pode decidir sobre a forma de governo, o sistema político, e os direitos fundamentais que serão garantidos pela nova Constituição.
 
-## Formas de surgimento
+São características desses poderes: 
 
-Esse poder pode emergir em momentos de ruptura significativa com a ordem anterior, como revoluções, conflitos, independências ou a partir de um consenso amplo para reformas profundas. Geralmente, é manifestado através de uma assembleia constituinte, eleita para este propósito, ou por meio de um líder ou grupo que assume o poder em circunstâncias extraordinárias.
+- Ser Inicial
+- Ser Autônomo
+- Ser Incondicionado e soberano
+- Ser um Poder de fato (se autolegitima) e poder político (existência e ação independente de previsão do direito)
+- Permanente (não se esgota com a promulgação)
+- Ilimitado juridicamente (não se legitima a partir de norma jurídica anterior)
+
+## 5. Formas de surgimento
+
+O poder constituinte originário, exercido por meio de uma Assembleia Nacional Constituinte, é o poder de criar uma nova constituição ou reformar uma existente, sem estar sujeito às limitações da ordem constitucional anterior. Esse processo democrático, que pode envolver eleição de representantes ou plebiscitos, é crucial para estabelecer os fundamentos da governança de um país. Exemplos históricos notáveis desse poder incluem a redação da Constituição dos Estados Unidos em 1787 e a elaboração da Constituição brasileira de 1988 após o período ditatorial, marcando momentos de mudança significativa e criação de novos princípios políticos.
 
 ## 6. Encerramento dos trabalhos
 
