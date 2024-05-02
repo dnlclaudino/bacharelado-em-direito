@@ -111,22 +111,6 @@
 
 ### 10) Desconsideração da Personalidade Jurídica
 
-### 11) Dos Fatos Jurídicos e Negócios
-
-#### a) Conceitos
-
-#### b) Capacidade e Identificação das partes
-
-#### Observação: O problema do agente incapaz (fraudes e estelionato)
-
-#### c) Interpretação da vontade
-
-#### d) Concenso e razoabilidade no contrato
-
-#### Observação: Elementos básicos do contrato
-
-### 12) 
-
 ## 2. Tópicos a serem abordados na próxima aula
 
 - Nenhuma, nesta data 🗓.
