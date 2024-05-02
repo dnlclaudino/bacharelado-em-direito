@@ -78,11 +78,11 @@
 
 #### h) Bens públicos e privados
 
-- Bens públicos
-  - Conceito
+- **BENS PÚBLICOS**
+  - **Conceito**
     - São bens de **domínio nacional** pertencentes às **pessoas jurídicas de Direito Público interno**
     - NÃO são comercializáveis
-  - Classificação
+  - **Classificação**
     - **Bens públicos de uso comum**
       - São os rios, mares, estradas, ruas e praças;
       - O **uso dos bens públicos** pode ser
@@ -93,18 +93,21 @@
       - São objetos de direito pessoal ou real dessas entidades
     - **Bens públicos de uso especial**
       - São **edifícios** e **terrenos** destinados ao **serviço** ou ao **estabelecimento** da administração (federal, estadual, territorial, municipal e autarquias)
+- **BENS PRIVADOS**
+  - **Conceito**
+    - São TODOS OS DEMAIS BENS QUE NÃO SE CLASSIFICAM como de **domínio nacional** pertencentes às **pessoas jurídicas de Direito Público interno**
 
-#### j) Bens "_incommercium_" e "_Extracommercium_"
+#### j) Bens "_in commercium_" e "_Extra commercium_"
 
-- Bens "_incommercium_":
-  - Bens privados
-- Bens "_Extracommercium_":
-  - Bens públicos
+- Bens "_in commercium_":
+  - Bens privados;
+- Bens "_Extra commercium_":
+  - Bens públicos;
+  - Bens subjudices (penhorados inclusive)
 
 #### Observação
 
 - Poderão ocorrer exceções na comercialização de bens públicos quando o Estado decide se desfazer do bem ou quando bens particulares estão _subjudice_;
-- 
 
 ### 10) Desconsideração da Personalidade Jurídica
 
