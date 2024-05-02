@@ -36,6 +36,14 @@
 
 ## Fatos e Negócios Jurídicos
 
+### Fatos Jurídicos
+
+- Conceito: São acontecimentos que geram consequência jurídicas entre as partes de uma relação jurídicas;
+
+### Negócios jurídicos
+
+- Conceito: São acordos que fazemos no sentido contratual do Direito;
+
 ### 11) Dos Fatos Jurídicos e Negócios
 
 #### a) Conceitos

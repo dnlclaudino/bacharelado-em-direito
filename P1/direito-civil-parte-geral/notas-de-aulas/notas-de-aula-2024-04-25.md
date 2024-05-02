@@ -111,6 +111,14 @@
 
 ### 10) Desconsideração da Personalidade Jurídica
 
+- Legislação:
+  - Lei 11.105/2005: Lei de falências
+  - Lei 13.874/2019: Lei da liberdade econômica
+- Ordem de cobrança das obrigações:
+  - Trabalhistas
+  - Fiscais
+  - Créditos
+
 ## 2. Tópicos a serem abordados na próxima aula
 
 - Nenhuma, nesta data 🗓.
