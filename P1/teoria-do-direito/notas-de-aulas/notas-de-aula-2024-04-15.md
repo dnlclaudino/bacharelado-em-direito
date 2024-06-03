@@ -6,7 +6,7 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Teoria do Direito (Introdução ao Estudo do Direito)<br>
 <b>Professor</b>: MARCEL<br>
-<b>Data</b>: 01 de abril de 2024, segunda-feira<br>
+<b>Data</b>: 15 de abril de 2024, segunda-feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
  </p>
