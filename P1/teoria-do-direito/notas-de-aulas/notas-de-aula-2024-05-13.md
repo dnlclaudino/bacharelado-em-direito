@@ -34,6 +34,12 @@
 
 ## 1. Conteúdo da Aula
 
+### Conceito Preliminar de Norma Jurídica
+
+- A norma jurídica é uma regra de conduta prescrita pelo ordenamento jurídico, destinada a regular o comportamento humano em sociedade.
+  - Ela é caracterizada pela sua coercibilidade, ou seja, a possibilidade de ser imposta mediante a força pelo Estado.
+- As normas jurídicas estabelecem direitos e deveres, criando expectativas de comportamento e servindo como parâmetro para a solução de conflitos.
+
 ### Princípios do Direito
 
 - Os três autores:
@@ -51,8 +57,8 @@ H["Hart"]-->D["Dworkin"]-->A["Alexey"]
   - Princípios
 - Dentro da **perspectiva da INTERPRETAÇÃO DAS NORMAS JURÍDICAS**, as diferências entre Ronald Dworkin x Hebert Hart consistem em:
   - Para **Hebert Hart**:
-    - Hart adere ao positivismo e a escola de Kelsen;
-    - Para ele **só existe REGRAS** (não existem princípios);
+    - Hart adere ao **POSITIVISMO** e a **ESCOLA DE KELSEN**;
+    - Para ele **só existem REGRAS** (não existem princípios);
     - Na possível omissão da lei, **A DISCRICIONARIEDADE** <b><u>do juiz</u></b> pode resolver a lacuna;
   - Para **Ronald Dworkin**:
     - O ordenamento jurídico **NÃO ADMITE** <b><u>lacunas</u></b> que, em última instância, **não possam ser resolvidas** <b><u>pelo juíz</u></b> dentro do próprio ordenamento, <b><u>SEM A DISCRICIONARIEDADE</u></b>;
@@ -63,6 +69,20 @@ H["Hart"]-->D["Dworkin"]-->A["Alexey"]
     - Os PRINCÍPIOS
       - Possuem <b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>;
       - Operam pela lógica da **POSSIBILIDADE**;
+
+```mermaid
+flowchart LR;
+NJ["Normas Jurídicas"]-->R["Regras"]
+NJ-->P["Princípios"]
+
+R-->BGA["<b><u>BAIXO</u> GRAU DE ABSTRAÇÃO</b>;"]
+R-->LTN["Lógica do TUDO ou NADA;"]
+R-->MD["MANDADOS DEFINITIVOS.<br>(Robert Alexey)"]
+
+P-->AGA["<b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>"]
+P-->LP["Lógica da POSSIBILIDADE"]
+P-->MO["MANDADOS DE OTIMIZAÇÃO.<br>(Robert Alexey)"]
+```
 
 #### Robert Alexey
 
@@ -84,7 +104,7 @@ H["Hart"]-->D["Dworkin"]-->A["Alexey"]
 
 - Princípios podem ser **ESCRITOS** e **NÃO ESCRITOS**;
 - Principios são revelados a partir da **INTERPRETAÇÃO** dos juristas sobre o ordenamento jurídico;
-- Princípios, a partir da INTERPRETAÇÃO, são revelados de maneira que permeia o conjunto normativo, influenciado a **criação**, **interpretação** e **aplicação** das regras;
+- Princípios, a partir da INTERPRETAÇÃO, são revelados de maneira que permeia o conjunto normativo, influenciando a **criação**, **interpretação** e **aplicação** das regras;
 - Segundo a clássica definição de **Celso Antônio Bandeira de Mello**:
   - "O **princípio** é um mandamento nuclear de um sistema, verdadeiro alicerce dele, disposição fundamental que se irradia sobre diferentes normas compondo-lhes o espírito e servindo de critério para a sua exata compreensão e inteligência, exatamente para definir a lógica e racionalidade do sistema normativo, no que lhe confere a tônica de lhe dá sentido harmônico"[^MELLO-2004].
 
