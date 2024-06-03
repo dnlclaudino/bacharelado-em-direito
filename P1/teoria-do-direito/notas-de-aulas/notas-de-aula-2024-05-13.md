@@ -36,32 +36,45 @@
 
 ### Princípios do Direito
 
-#### Ronald Dworkin x Hebert Hart
+- Os três autores:
+
+```mermaid
+flowchart LR;
+H["Hart"]-->D["Dworkin"]-->A["Alexey"]
+
+```
+
+#### Hebert Hart x Ronald Dworkin
 
 - Norma jurídica enquanto gênero que comporta duas espécies:
   - Regras;
-  - Pruncípios
+  - Princípios
 - Dentro da **perspectiva da INTERPRETAÇÃO DAS NORMAS JURÍDICAS**, as diferências entre Ronald Dworkin x Hebert Hart consistem em:
-  - Para Hebert Hart:
+  - Para **Hebert Hart**:
     - Hart adere ao positivismo e a escola de Kelsen;
-    - Para ele só existe regras (não existem princípios);
-    - Na possível omissão da lei, a discricionariedade do juiz pode resolver a lacuna;
+    - Para ele **só existe REGRAS** (não existem princípios);
+    - Na possível omissão da lei, **A DISCRICIONARIEDADE** <b><u>do juiz</u></b> pode resolver a lacuna;
   - Para **Ronald Dworkin**:
-    - O ordenamento jurídico não admite lacunas que, em última instância, não possam ser resolvidas pelo juíz dentro do próprio ordenamento, **sem a discricionariedade**;
-    - Para resolver os casos práticos pode-se utilizar **princípios** constantes dentro do próprio ordenamento jurídico;
-    - Todas as questões A possibilidade de 
+    - O ordenamento jurídico **NÃO ADMITE** <b><u>lacunas</u></b> que, em última instância, **não possam ser resolvidas** <b><u>pelo juíz</u></b> dentro do próprio ordenamento, <b><u>SEM A DISCRICIONARIEDADE</u></b>;
+    - Para resolver os **CASOS PRÁTICOS** pode-se utilizar **PRINCÍPIOS** constantes dentro do próprio ordenamento jurídico;
+    - As REGRAS
+      - Possuem <b><u>BAIXO</u> GRAU DE ABSTRAÇÃO</b>;
+      - Operam pela lógica do **TUDO** ou **NADA**;
+    - Os PRINCÍPIOS
+      - Possuem <b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>;
+      - Operam pela lógica da **POSSIBILIDADE**;
 
 #### Robert Alexey
 
 - Contribui para a teoria de Dworkin;
-- Regras
-  - Operam pela lógica do tudo ou nada;
-  - Correlacionam-se por subsunção;
-  - São mandados definitivos
-- Princípios
-  - Operam em gradação;
-  - Correlacionam-se por ponderação;
-  - São mandados de otimização;
+- As REGRAS:
+  - Operam pela lógica do **TUDO ou NADA**;
+  - Correlacionam-se por **SUBSUNÇÃO**;
+  - São **MANDADOS DEFINITIVOS**
+- Os PRINCÍPIOS
+  - Operam em **GRADAÇÃO**;
+  - Correlacionam-se por **PONDERAÇÃO**;
+  - São **MANDADOS DE OTIMIZAÇÃO**;
 
 #### As Regras
 
