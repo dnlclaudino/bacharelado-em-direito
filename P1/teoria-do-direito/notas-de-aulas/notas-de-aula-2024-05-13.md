@@ -40,6 +40,14 @@
   - Ela é caracterizada pela sua coercibilidade, ou seja, a possibilidade de ser imposta mediante a força pelo Estado.
 - As normas jurídicas estabelecem direitos e deveres, criando expectativas de comportamento e servindo como parâmetro para a solução de conflitos.
 
+Segundo **Nader (2016, p. 86)**, as CATEGORIAS MAIS GERAIS de NORMAS JURÍDICAS possuem as seguintes CARACTERÍSTICAS:
+
+- Bilateralidade;
+- Generalidade;
+- Abstratividade;
+- Imperatividade;
+- Coercibilidade;
+
 ### Princípios do Direito
 
 - Os três autores:
@@ -91,7 +99,7 @@ P-->MO["MANDADOS DE OTIMIZAÇÃO.<br>(Robert Alexey)"]
   - Operam pela lógica do **TUDO ou NADA**;
   - Correlacionam-se por **SUBSUNÇÃO**;
   - São **MANDADOS DEFINITIVOS**
-- Os PRINCÍPIOS
+- Os PRINCÍPIOS:
   - Operam em **GRADAÇÃO**;
   - Correlacionam-se por **PONDERAÇÃO**;
   - São **MANDADOS DE OTIMIZAÇÃO**;
