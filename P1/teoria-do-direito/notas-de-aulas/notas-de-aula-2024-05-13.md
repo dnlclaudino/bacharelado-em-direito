@@ -78,20 +78,6 @@ H["Hart"]-->D["Dworkin"]-->A["Alexey"]
       - Possuem <b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>;
       - Operam pela lógica da **POSSIBILIDADE**;
 
-```mermaid
-flowchart LR;
-NJ["Normas Jurídicas"]-->R["Regras"]
-NJ-->P["Princípios"]
-
-R-->BGA["<b><u>BAIXO</u> GRAU DE ABSTRAÇÃO</b>;"]
-R-->LTN["Lógica do TUDO ou NADA;"]
-R-->MD["MANDADOS DEFINITIVOS.<br>(Robert Alexey)"]
-
-P-->AGA["<b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>"]
-P-->LP["Lógica da POSSIBILIDADE"]
-P-->MO["MANDADOS DE OTIMIZAÇÃO.<br>(Robert Alexey)"]
-```
-
 #### Robert Alexey
 
 - Contribui para a teoria de Dworkin;
@@ -103,6 +89,22 @@ P-->MO["MANDADOS DE OTIMIZAÇÃO.<br>(Robert Alexey)"]
   - Operam em **GRADAÇÃO**;
   - Correlacionam-se por **PONDERAÇÃO**;
   - São **MANDADOS DE OTIMIZAÇÃO**;
+
+```mermaid
+flowchart LR;
+NJ["Normas Jurídicas"]-->R["Regras"]
+NJ-->P["Princípios"]
+
+R-->BGA["<b><u>BAIXO</u> GRAU DE ABSTRAÇÃO</b>;"]
+R-->LTN["COMO OPERA:<br>Lógica do TUDO ou NADA;"]
+R-->MD["SÃO MANDADOS DEFINITIVOS.<br>(Robert Alexey)"]
+R-->CS["Correlacionam-se por SUBSUNÇÃO<br>(Robert Alexey)"]
+
+P-->AGA["<b><u>ALTO</u> GRAU DE ABSTRAÇÃO</b>"]
+P-->LP["COMO OPERA:<br>Lógica da POSSIBILIDADE"]
+P-->MO["SÃO MANDADOS DE OTIMIZAÇÃO.<br>(Robert Alexey)"]
+P-->CP["Correlacionam-se por PONDERAÇÃO<br>(Robert Alexey)"]
+```
 
 #### As Regras
 
