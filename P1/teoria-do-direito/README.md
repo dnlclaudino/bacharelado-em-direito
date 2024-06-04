@@ -37,7 +37,6 @@
 
 <!-- /TOC -->
 
-
 ## Notas de Aula
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Material Disponibilizado|Observação/Anotação|
@@ -50,6 +49,8 @@
 |6|[Notas de aula de 25/03/2024](./notas-de-aulas/notas-de-aula-2024-03-25.md)|-|-|-|
 |7|[Notas de aula de 01/04/2024](./notas-de-aulas/notas-de-aula-2024-04-01.md)|-|-|-|
 |8|[Notas de aula de 15/04/2024](./notas-de-aulas/notas-de-aula-2024-04-15.md)|-|-|-|
+|9|[Notas de aula de 13/05/2024](./notas-de-aulas/notas-de-aula-2024-05-13.md)|-|-|-|
+|10|[Notas de aula de 20/05/2024](./notas-de-aulas/notas-de-aula-2024-05-20.md)|-|-|-|
 
 ## Trabalhos e Atividades
 
