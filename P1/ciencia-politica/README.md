@@ -43,6 +43,8 @@
 |4|[Notas de aula de 26/03/2024](./notas-de-aulas/notas-de-aula-2024-03-26.md)|-|-|
 |5|[Notas de aula de 02/04/2024](./notas-de-aulas/notas-de-aula-2024-04-02.md)|-|-|
 |6|[Notas de aula de 16/04/2024](./notas-de-aulas/notas-de-aula-2024-04-16.md)|-|-|
+|7|[Notas de aula de 23/04/2024](./notas-de-aulas/notas-de-aula-2024-04-23.md)|-|-|
+|8|[Notas de aula de 21/05/2024](./notas-de-aulas/notas-de-aula-2024-05-21.md)|-|-|
 
 ## Trabalhos e Atividades
 
