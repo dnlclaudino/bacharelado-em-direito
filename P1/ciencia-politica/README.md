@@ -57,3 +57,4 @@
 |#|Data|Item|Observações / Anotações|
 |:---:|:---:|:---|:---|
 |1|12/03/2024|[Resumo para 1º Prova em 09/04/2024](./resumos/resumo-para-prova-em-2024-04-09.md)|- Conteúdo programático da prova disponível no dia 09/04/2024, na [🗓️Agenda da Turma🗓️](https://dxh1.short.gy/2Z84Ys).|
+|2|04/06/2024|[Resumo - Ação Social Segundo Max Weber](./resumos/max-weber-acao-social.md)|-|
