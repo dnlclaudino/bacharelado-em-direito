@@ -60,16 +60,19 @@
            - modelo-de-orientacao.md
            - modelo-placas-de-identificacao.md
   - Não recomendo mudar essa estrutura, inicialmente estabelecida;
-2. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   1. Nenhuma.
+2. Incluir uma seção com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
+ 
+#### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
+
+1. Incluir uma seção com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
 
 ### Em relação à estrutura e arquivos utilizados em cada PERÍODO (P"X")
 
-1. A estrutura inicialmente proposta ficou bem definida;
+1. A estrutura de pastas e arquivos, inicialmente proposta, ficou bem definida;
      - Duas seções foram inicialmente criadas:
-       - Disciplinas do Primeiro Período
-         - Contendo uma tabela com a relação das disciplinas
-       - Grupos de Estudo
+       - **Disciplinas do Primeiro Período**
+         - Contendo uma tabela com a relação das disciplinas cursadas no período;
+       - **Grupos de Estudo**
          - Contendo o material para grupos de estudo;
          - PONTOS POSITIVOS:
            - A organização e o tempo investidos, contudo, agregaram conhecimento, experiência e demonstração de competência nesse sentido;
@@ -82,9 +85,11 @@
      - Ela inicia-se com o <b><u>arquivo README.md</u></b> na pasta "P**X**"
      - Cada disciplina do período terá uma pasta com seu nome;
        - Todos os arquivos das disciplinas estarão nas respectivas pastas;
-3. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   1. Criar a pasta "P2" para o 2º período com a estrutura básica e arquivos
-   2. Remover a seção "Grupos de Estudos" do README.md da pasta P2;
+
+#### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
+
+1. Criar a pasta "P2" para o 2º período com a estrutura básica e arquivos, considerando as lições aprendidas nessa seção e repetindo a estrutura da pasta "P1";
+2. Remover a seção "Grupos de Estudos" do README.md da pasta P2;
 
 ### Em relação à estrutura e arquivos de cada DISCIPLINA
 
@@ -100,13 +105,36 @@
          - Contendo referências para outros repositórios e fontes com resumos e resenhas da minha gestão do conhecimento (fonte: P1/economia);
          - Contendo resumos para a prova (compilação de notas de aula, outras anotações e registros);
        - [**RESUMOS**](https://github.com/dnlclaudino/bacharelado-em-direito/blob/master/P1/sociologia-geral-e-juridica/README.md#resumos)
-         - Deve ser substituído por "resumos e resenhas", para padronizar as seções de cada disciplina (fonte: P1/sociologia-geral-e-juridica)
+         - <b><u><span style="background-color:tomato">Deve ser substituído por "**RESUMOS E RESENHAS**"</span></u></b>, para padronizar as seções de cada disciplina (fonte: P1/sociologia-geral-e-juridica)
+       - **QUADRO**
+         - Deve existir uma seção e pasta para armazenar arquivos contendo fotos do quadro NA SALA DE AULA;
+         - Os nomes de arquivos devem seguir o formato explicitado nos exemplos abaixo:
+           - 2024.03.20-AULA-ECONOMIA-QUADRO-1-DE-3.jpg
+           - 2024.03.20-AULA-ECONOMIA-QUADRO-2-DE-3.jpg
+           - 2024.03.20-AULA-ECONOMIA-QUADRO-3-DE-3.jpg
+           - 2024.03.20-AULA-ECONOMIA-QUADRO-VISAO-GERAL.jpg
+       - **IMAGENS**
+         - Deve existir uma seção e pasta para armazenar arquivos contendo imagens, figuras e fotos relacionadas com a disciplina (fotos do quadro devem ficar armazenados na pasta "QUADRO")
        - **ARTIGOS ACADÊMICOS**
          - Contendo arquivos com minutas de artigos acadêmicos para futura publicação em revistas e outros periódicos
          - A estrutura/conteúdo de cada arquivo deve seguir as seguintes normas:
            - [ABNT 6022/2022 - Elementos de artigo em publicação periódica científica impressa](https://1drv.ms/b/s!Au-CrfNP6c0brCoYNPHie7iOtMfA?e=24qOjt)
            - [ABNT 6023/2018 - Referências Bibliográficas](https://1drv.ms/b/s!Au-CrfNP6c0bg8cI71_JqXVjOjeyWQ?e=dXdIYY)
            - [ABNT 10520/2001 - Citações em Documentos](https://1drv.ms/b/s!Au-CrfNP6c0brC6Skw7jpQY61obl?e=HbOkye) 
-3. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   1. Criar arquivo modelo (de template) para README.md de cada disciplina;
-   2. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+    - No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula o que prejudicou a inserção desse TOC na tabela do README.md da disciplina (veja seção anterior)
+
+#### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>)
+
+1. Criar arquivo modelo (de template) para README.md de cada disciplina considerando as lições aprendidas nessa seção, criando as **SEÇÕES** identificadas como necessárias nesta seção;
+2. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+3. Adicionar TOC de cada nota de aula na tabela contendo notas de aula de cada disciplina;
+
+### Em relação à estrutura/seções do modelo(template) NOTAS DE AULA
+
+- Localizado em "/modelos/modelo-de-notas-de-aula.md";
+- No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula o que prejudicou a inserção desse TOC na tabela do README.md da disciplina (veja seção anterior);
+
+#### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>)
+
+1. Adicionar TOC (Table os Contents) no modelo (template) de nota de aula;
+2. A estrutura/seções inicialmente estabelecida mostrou-se satisfatória, contudo demostrou-se necessário renomear e condensar as seções para deixá-las mais claras e objetivas;

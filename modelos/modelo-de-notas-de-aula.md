@@ -33,31 +33,31 @@
 
 # Notas de Aula
 
-## 1. Conteúdo da Aula
+## 1. Conteúdo da aula
 
 - Nenhum, nesta data 🗓.
 
-## 2. Tópicos a serem abordados na próxima aula
+## 2. Tópicos para próxima aula
 
 - Nenhuma, nesta data 🗓.
 
-## 3. Anotações Relevantes Feitas Durante a Aula
+## 3. Anotações relevantes
 
 - Nenhuma, nesta data 🗓.
 
-## 4. Avisos / Observações
+## 4. Avisos / observações
 
 - Nenhum, nesta data 🗓.
 
-## 5. Material Disponibilizado na Área do Aluno
+## 5. Material disponibilizado (Área do Aluno)
 
 - Link para Seção de Arquivos da Área do Aluno: https://portaltotvs.iesp.edu.br:60443/FrameHTML/web/app/edu/PortalEducacional/#/arquivos;
 - Nenhum, nesta data 🗓.
 
-## 6. Atividades / Trabalhos em Sala (Valendo Nota)
+## 6. Atividades / trabalhos
 
 - Nenhuma, nesta data 🗓.
 
-## 7. Referências Bibliográficas
+## 7. Referências bibliográficas
 
 - Nenhuma, nesta data 🗓.

@@ -45,3 +45,9 @@
 |4|27/03/2024|Sim|- Ler o material abaixo e realizar o que se pede como atividade no documento.<br><b>Texto:</b> [Justiça e Direito em Platão, Aristóteles e Hobbes](https://docs.google.com/document/d/1-Yqa_hCfyl8zdDyESgD2qGHd31t-SMgT)|[Atividade de 27/03/2024](./trabalhos-e-atividades/atividade-2024-03-27.md) entregue.|
 |5|03/04/2024|Sim|- Ler o material abaixo e responder as 05 questões propostas.<br><b>Texto:</b> [05 QUESTÕES SOBRE FILOSOFIA DO DIREITO](https://docs.google.com/document/d/1wQXSJlwG77scgH31YNcn_GsWPBvm5U-O/edit?usp=drive_link&ouid=111932077361451535905&rtpof=true&sd=true)|[Atividade de 03/04/2024](./trabalhos-e-atividades/atividade-2024-04-03.md) entregue.|
 |6|24/04/2024|Sim|- Links para os textos (vários), no próprio documento<br>|[Atividade de 24/04/2024](./trabalhos-e-atividades/atividade-2024-04-17.md) entregue.|
+
+## Resumos
+
+|#|Data|Item|Observações / Anotações|
+|:---:|:---:|:---|:---|
+|1|26/06/2024|[Diferença entre CONCEITO e DEFINIÇÃO, segundo a Filosofia](./resumos/resumo-diferenca-conceito-definicao.md)|-|
