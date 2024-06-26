@@ -4,7 +4,7 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: CIÊNCIA POLÍTICA<br>
+<b>Disciplina</b>: SOCIOLOGIA GERAL E JURÍDICA<br>
 <b>Professor</b>: JEAN PATRÍCIO DA SILVA<br>
 <b>Data</b>: 07 de abril de 2024, Quarta-Feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
@@ -35,13 +35,13 @@
 <h2>Sumário</h2>
 <!-- TOC -->
 
-- [A importância do conceito](#a-importância-do-conceito)
-- [Conceito de Ação Social](#conceito-de-ação-social)
-- [Tipos de Ação social](#tipos-de-ação-social)
+- [A importância da definição](#a-importância-da-definição)
+- [A definição de AÇÃO SOCIAL](#a-definição-de-ação-social)
+- [Tipos de **AÇÃO SOCIAL**](#tipos-de-ação-social)
 
 <!-- /TOC -->
 
-## A importância do conceito
+## A importância da definição
 
 - Em nossa vida em sociedade percebemos as **AÇÕES DE INDIVÍDUOS**;
 - Existe um **TIPO DETERMINADO DE AÇÃO** que, segundo **MAX WEBER** é chamado de **AÇÃO SOCIAL**;
@@ -54,13 +54,29 @@
     - Motivações
     - Comportamentos
 
-## Conceito de Ação Social
+## A definição de AÇÃO SOCIAL
 
-- **AÇÃO SOCIAL**, segundo Max Weber:
-  - É uma ação que transcende a mera <u>resposta à estímulos</u>;
-  - É <b><u>qualquer ação</u></b> orientada pela <b><u>ação dos outros</u></b>, em que o indivíduo ao agir <b><u>está ciente</u></b> da(s) <b><u>consequência(s) de sua ação</u></b>;
+<table border="1" id="quadro-definicao-acao-social">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+   <b>Definição</b>
+  </td>
+  <td valign="top">
+  <p style="text-align:justify">
+    <span style="background-color:lightgreen"><b>AÇÃO SOCIAL</b></span>, segundo Max Weber:.
+  </p>
+   <ul>
+     <ul>
+     <li>É uma ação que transcende a mera <u>resposta à estímulos</u>;</li>
+     <li>É <b><u>qualquer ação</u></b> orientada pela <b><u>ação dos outros</u></b>, em que o indivíduo ao agir <b><u>está ciente</u></b> da(s) <b><u>consequência(s) de sua ação</u></b>;</li>
+     </ul>
+   </ul>
+   </td>
+</tr>
+</table>
 
-## Tipos de Ação social
+## Tipos de **AÇÃO SOCIAL**
 
 1. Ação Social **RACIONAL**
      - Com relação **AOS FINS**
