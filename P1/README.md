@@ -65,7 +65,7 @@
 
 ### Em relação à estrutura e arquivos utilizados em cada PERÍODO (P"X")
 
-1. A estrutura inicialmente proposta ficou bem definida;
+1. A estrutura de pastas e arquivos, inicialmente proposta, ficou bem definida;
      - Duas seções foram inicialmente criadas:
        - Disciplinas do Primeiro Período
          - Contendo uma tabela com a relação das disciplinas
@@ -83,7 +83,7 @@
      - Cada disciplina do período terá uma pasta com seu nome;
        - Todos os arquivos das disciplinas estarão nas respectivas pastas;
 3. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   1. Criar a pasta "P2" para o 2º período com a estrutura básica e arquivos
+   1. Criar a pasta "P2" para o 2º período com a estrutura básica e arquivos, considerando as lições aprendidas nessa seção;
    2. Remover a seção "Grupos de Estudos" do README.md da pasta P2;
 
 ### Em relação à estrutura e arquivos de cada DISCIPLINA
@@ -108,5 +108,11 @@
            - [ABNT 6023/2018 - Referências Bibliográficas](https://1drv.ms/b/s!Au-CrfNP6c0bg8cI71_JqXVjOjeyWQ?e=dXdIYY)
            - [ABNT 10520/2001 - Citações em Documentos](https://1drv.ms/b/s!Au-CrfNP6c0brC6Skw7jpQY61obl?e=HbOkye) 
 3. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   1. Criar arquivo modelo (de template) para README.md de cada disciplina;
-   2. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+   2. Criar arquivo modelo (de template) para README.md de cada disciplina considerando as lições aprendidas nessa seção;
+   3. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+
+### Em relação à estrutura/seções do modelo(template) NOTAS DE AULA
+
+- Localizado em "/modelos/modelo-de-notas-de-aula.md"
+1. Atividades a serem realizadas (<b><u>DE PRONTO, JÁ FEITO !!!</u></b>):
+   - A estrutura/seções inicialmente estabelecida mostrou-se satisfatória, contudo demostrou-se necessário renomear e condensar as seções para deixá-las mais claras e objetivas;
