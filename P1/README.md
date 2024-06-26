@@ -107,12 +107,17 @@
            - [ABNT 6022/2022 - Elementos de artigo em publicação periódica científica impressa](https://1drv.ms/b/s!Au-CrfNP6c0brCoYNPHie7iOtMfA?e=24qOjt)
            - [ABNT 6023/2018 - Referências Bibliográficas](https://1drv.ms/b/s!Au-CrfNP6c0bg8cI71_JqXVjOjeyWQ?e=dXdIYY)
            - [ABNT 10520/2001 - Citações em Documentos](https://1drv.ms/b/s!Au-CrfNP6c0brC6Skw7jpQY61obl?e=HbOkye) 
+    - No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula o que prejudicou a inserção desse TOC na tabela do README.md da disciplina (veja seção anterior)
 3. Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
-   2. Criar arquivo modelo (de template) para README.md de cada disciplina considerando as lições aprendidas nessa seção;
-   3. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+   1. Criar arquivo modelo (de template) para README.md de cada disciplina considerando as lições aprendidas nessa seção;
+   2. Criar arquivos e subpastas, na pasta "P2" para o 2º período, contendo a estrutura básica e padrão;
+   3. Adicionar TOC de cada nota de aula na tabela contendo notas de aula de cada disciplina;
 
 ### Em relação à estrutura/seções do modelo(template) NOTAS DE AULA
 
-- Localizado em "/modelos/modelo-de-notas-de-aula.md"
-1. Atividades a serem realizadas (<b><u>DE PRONTO, JÁ FEITO !!!</u></b>):
-   - A estrutura/seções inicialmente estabelecida mostrou-se satisfatória, contudo demostrou-se necessário renomear e condensar as seções para deixá-las mais claras e objetivas;
+- Localizado em "/modelos/modelo-de-notas-de-aula.md";
+- No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula o que prejudicou a inserção desse TOC na tabela do README.md da disciplina (veja seção anterior);
+1. Atividades a serem realizadas
+   - Adicionar TOC (Table os Contents) no modelo (template) de nota de aula;
+   - <b><u>DE PRONTO, JÁ FEITO !!!</u></b>:
+     - A estrutura/seções inicialmente estabelecida mostrou-se satisfatória, contudo demostrou-se necessário renomear e condensar as seções para deixá-las mais claras e objetivas;
