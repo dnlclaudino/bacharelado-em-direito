@@ -30,13 +30,14 @@
   </tr>
 </table>
 
-<h1>RAção Social segundo Max Weber</h1>
+<h1>Ação Social segundo Max Weber</h1>
 
 <h2>Sumário</h2>
 <!-- TOC -->
 
 - [A importância do conceito](#a-importância-do-conceito)
 - [Conceito de Ação Social](#conceito-de-ação-social)
+- [Tipos de Ação social](#tipos-de-ação-social)
 
 <!-- /TOC -->
 
@@ -55,4 +56,28 @@
 
 ## Conceito de Ação Social
 
-- AÇÃO SOCIAL, segundo Max Weber, 
+- **AÇÃO SOCIAL**, segundo Max Weber:
+  - É uma ação que transcende a mera <u>resposta à estímulos</u>;
+  - É <b><u>qualquer ação</u></b> orientada pela <b><u>ação dos outros</u></b>, em que o indivíduo ao agir <b><u>está ciente</u></b> da(s) <b><u>consequência(s) de sua ação</u></b>;
+
+## Tipos de Ação social
+
+1. Ação Social **RACIONAL**
+     - Com relação **AOS FINS**
+       - É uma <b>ação <u>deliberada</u></b>;
+       - É uma ação consciente dirigida a <b><u>alcançar objetivos</u></b>
+     - Com relação **AOS VALORES**
+       - É uma <b>ação <u>deliberada</u></b>;
+       - É uma ação que **tem por motivação <u>convicções</u>** (éticas, políticas, religiosas, ideológicas ou filosóficas)
+2. Ação Social **AFETIVA**
+     - É uma <b>guiada pela <u>EMOÇÃO</u></b>;
+     - É uma <b>guiada pelos <u>SENTIMENTOS INDIVIDUAIS</u></b>;
+       - P. ex:
+         - Raiva;
+         - Felicidade;
+         - Tristeza;
+         - Amor;
+         - etc.
+3. Ação Social **TRADICIONAL**
+     - É uma ação guiada pelos <b><u>COSTUMES</u></b>;
+     - É uma ação guiada pelos <b><u>HÁBITOS</u></b>;
