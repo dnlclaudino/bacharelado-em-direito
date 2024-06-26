@@ -54,7 +54,7 @@
 - Link para Seção de Arquivos da Área do Aluno: https://portaltotvs.iesp.edu.br:60443/FrameHTML/web/app/edu/PortalEducacional/#/arquivos;
 - Nenhum, nesta data 🗓.
 
-## 6. Atividades / Trabalhos em Sala (Valendo Nota)
+## 6. Atividades / Trabalhos
 
 - Nenhuma, nesta data 🗓.
 
