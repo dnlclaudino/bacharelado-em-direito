@@ -31,7 +31,7 @@
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
 |:---:|:---:|:---|:---|
-|1|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|1|[Notas de aula de 13/08/2024](./notas-de-aulas/notas-de-aula-2024-08-13.md)|-|-|
 |2|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
 |3|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
 |4|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
