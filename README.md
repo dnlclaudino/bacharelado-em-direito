@@ -38,6 +38,7 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 
 | Período | Disciplinas | Anotações / Observações |
 |:---:|:---|:---|
+|[2º período](./P2/README.md)|- Teoria do Delito (Direito Penal I)<br>- Fundamentos Constitucionais (Direito Constitucional I)<br>- Direito Civil (Obrigações)<br>- Antropologia e Psicologia Jurídica<br>- Metodologia do Trabalho Científico|-|
 |[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
 
 ## Agenda do Curso
@@ -48,43 +49,41 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 
 ## Metodologia Adotada para Meus Estudos
 
-- Para conseguir realizar ao máximo meus objetivos, irei estudar seguindo uma **metodologia própria**;
-- Essa metodologia é constituída dos seguintes passos, a serem executados em toda Sprint (semana):
-  - Observar as Diretrizes;
-  - Observar o Dimensionamento do Tempo para Estudo;
-  - Planejar o estudo para uma Sprint(uma semana);
-  - Executar o planejamento;
-  - Monitorar e controlar o que foi planejado na **quarta-feira** (por 30 minutos, no máximo / Atualizar o planejamento e monitoramento nesta data);
+- Para conseguir realizar ao máximo meus objetivos, será adotada uma **metodologia própria**;
+- Essa metodologia é constituída dos seguintes passos, a serem executados em ciclos de 6 dias (Sprint/semana):
+  - Observar as DIRETRIZES;
+  - Observar o DIMENSIONAMENTO DO TEMPO PARA ESTUDO;
+  - Planejar o estudo para uma Sprint no dia de sábado de cada semana;
+  - Executar o planejamento durante a semana;
+  - Monitorar e controlar o que foi planejado na **quarta-feira** (por 30 minutos, no máximo, atualizando o planejamento e o andamento da execução nesta data);
   - Encerrar a Sprint da semana e planejar a próxima Sprint no **domingo**;
 
 ## Dimensionamento do Tempo para Estudo
 
 - As primeiras necessidades a serem atendidas são:
-  - Saber quanto tempo disponível eu tenho para estudar;
-  - Saber quais momentos eu tenho para estudar;
-  - Observação: Eu não conseguiria realizar um bom planejamento sem ter essas informações essenciais;
+  - Saber quanto **tempo disponível** eu tenho para estudar;
+  - Saber **quais momentos** eu tenho para estudar;
+- Observação: Eu não conseguiria realizar um bom planejamento sem ter essas informações essenciais;
 - Vamos aos dados:
 
 ### De Segunda a Sexta
 
-|Período #|Turno|Horário|Segunda|Terça|Quarta|Quinta|Sexta|Observações / Anotações|
-|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|
-|1|Manhã|06:15 às 06:55|0:40h|0:40h|0:40h|0:40h|0:40h|- Horário que eu vou deixar a esposa no trabalho e meu filho na faculdade<br> - Posso ouvir as aulas do granconcursos no carro no percurso de ida e volta;|
-|2|Manhã|07:00 às 08:00|1h|1h|1h|1h|1h|-|
-|3|Manhã|07:00 às 08:30 |-|-|-|-|1:30h|-|
-|4|Manhã|10:40 às 11:40|1h|1h|1h|1h|1h|-|
-|5|Tarde|12:30 às 13:30|1h|1h|1h|1h|-|-|
+|Período #|Turno|Horário|Segunda|Terça|Quarta|Quinta|Sexta|Minutos de Estudo<br>por Semana|Observações / Anotações|
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+|1|Manhã|06:05 às 06:55|0:50h|0:50h|0:50h|0:50h|0:50h|250 minutos|- Horário que eu vou deixar a esposa no trabalho e meu filho na faculdade<br> - Posso ouvir as aulas do **GRANCONCURSOS** relacionadas com as disciplinas do meu período atual no carro, no percurso de ida e volta;|
+|2|Manhã|07:20 às 08:00|0:40h|0:40h|0:40h|0:40h|0:40h|200 minutos|Ao chegar na faculdade UNIESP posso ficar estudando na sala de aula até o professor chegar|
+|3|Manhã|08:00 às 10:45|2:45h|2:45h|2:45h|2:45h|2:45h|885 minutos|Estudo as disciplinas da faculdade, fazendo notas de aula, glosando e anotando em capítulos de meus livros relacionados com a disciplina do dia|
 
-- Toda semana (segunda a sexta), temos então 17:30h disponíveis para estudo;
+- Toda semana (segunda a sexta), temos então 1335 minutos ou 22:15h disponíveis para estudo.
 
 ### Sábado e Domingo
 
 |Período #|Turno|Horário|Sábado|Domingo|Observações / Anotações|
-|:---:|:---:|:---|:---:|:---:|:---|
-|1|Manhã|06:00 às 10:00|4h|2h|-|
-|2|Tarde|16:00 às 17:30|-|1:30h| <center><b>PLANEJAMENTO</b></center><br>1. Verificar o trabalho que não pode ser realizado na SPRINT atual e porquê;<br>2. Priorizar o trabalho que não pode ser concluído na SPRINT atual para incluí-los na PRÓXIMA SPRINT;<br>3. Realizar o Planejamento da próxima SPRINT (semana)|
+|:---:|:---:|:---:|:---:|:---:|:---|
+|1|Manhã|-|-|-|-|
+|2|Tarde|16:00 às 17:30|-|1:30h|- Tempo para fazer EXERCÍCIOS|
 
-- Todo fim de semana (segunda a sexta), temos então 17:30h disponíveis para estudo;
+- Todo fim de semana (segunda a sexta), temos então 1:30h disponíveis para FAZER EXERCÍCIOS;
 
 ## Diretrizes
 
@@ -92,12 +91,11 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 
 |  #  | Diretriz                                    |
 | :-: | :-------------------------------------------- |
-|  1  | Estudar **LINGUÍSTICA** (Português), pelo menos, <b><u>3 horas por semana</u></b>; |
-|  2  | Estudar **MATERIAL DA FACULDADE** (notas de aula) por, pelo menos, <b><u>20 minutos</u></b>, <b><u> todos os dias, no dia da disciplina respectiva, antes da aula (revisar 02 aulas anteriores)</u></b>; |
-|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE**, pelo menos, <b><u>01 (uma) semana antes de serem entregues</u></b>; |
-|  4  | Ler **03 (três) CAPÍTULOS DE LIVROS** por semana; |
-|  5  | Estudar **04 (quatro) horas por semana** com o **MATERIAL DO GRANCONCURSOS**;|
-|  6  | Assistir **01 hora de aula por dia** do **GRANCONCURSOS**;|
+|  1  | Estudar **LINGUÍSTICA** (Português), pelo menos, <b><u>2 horas por semana</u></b>;<br>- Preferencialmente, estudar na SEXTA-FEIRA;|
+|  2  | Estudar **MATERIAL DA FACULDADE** (notas de aula/apostilas/resumos dos professores) ANTES DA AULA;|
+|  3  | Fazer os **TRABALHOS/ATIVIDADES DA FACULDADE** ASSIM QUE FOREM DISPONIBILIZADOS/INFORMADOS; |
+|  4  | Ler **02 (três) CAPÍTULOS DE LIVROS** por semana; |
+|  5  | Assistir, pelo menos, **04 (quatro) aulas por semana** com o **MATERIAL DO GRANCONCURSOS**;|
 
 ## Relação das Competências Desenvolvidas
 
