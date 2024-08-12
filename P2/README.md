@@ -27,9 +27,9 @@
 |#|Disciplina|
 |:---:|:---|
 |1|[Teoria Geral do Delito<br>(Direito Penal I)](./teoria-do-delito/README.md)|
-|2|[Direito Civil (Obrigações)](./direito-civil-obrigacoes/README.md)|
-|3|[Fundamentos Constitucionais (Direito Constitucional I)](./fundamentos-constitucionais/README.md)|
-|4|[Antropologia-e-psicologia-juridica](./antropologia-e-psicologia-juridica/README.md)|
+|2|[Fundamentos Constitucionais (Direito Constitucional I)](./fundamentos-constitucionais/README.md)|
+|3|[Direito Civil (Obrigações)](./direito-civil-obrigacoes/README.md)|
+|4|[Antropologia e Psicologia Jurídica](./antropologia-e-psicologia-juridica/README.md)|
 |5|[Metodologia do Trabalho Científico](./metodologia-do-trabalho-cientifico/README.md)|
 
 ## Grupos de Estudos
