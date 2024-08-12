@@ -60,11 +60,11 @@
            - modelo-de-orientacao.md
            - modelo-placas-de-identificacao.md
   - Não recomendo mudar essa estrutura, inicialmente estabelecida;
-2. Incluir uma seção com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
+2. Recomendo INCLUIR uma seção no arquivo README.md da RAIZ DO REPOSITÓRIO com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
  
 #### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>):
 
-1. Incluir uma seção com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
+1. seção no arquivo README.md da RAIZ DO REPOSITÓRIO com as médias obtidas e o CRE em cada semestre do P1 até o P10, juntamento com um gráfico mostrando a evolução;
 
 ### Em relação à estrutura e arquivos utilizados em cada PERÍODO (P"X")
 
