@@ -4,11 +4,11 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
-<b>Professora</b>: MARIANA TAVARES<br>
-<b>Data</b>: 20 de março de 2024, Quinta-Feira<br>
+<b>Disciplina</b>: TEORIA DO DELITO (Direito Penal I)<br>
+<b>Professora</b>: Gabriella Nobrega<br>
+<b>Data</b>: 12 de agosto de 2024, segunda-Feira<br>
 <img align="center" src="../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<b>Aluno</b>: Daniel Lima Claudino / 2º período<br>
  </p>
 </div>
 
@@ -26,8 +26,6 @@
 </table><br><br><br><br><br>
 
 # Teoria do Delito (Direito Penal I)
-
-- **Prof.:** Mariane
 
 ## Notas de Aulas
 
