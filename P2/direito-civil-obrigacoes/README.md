@@ -4,9 +4,9 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: TEORIA DO DELITO (Direito Penal I)<br>
-<b>Professora</b>: GABRIELLA HENRIQUES DA NOBREGA<br>
-<b>Data</b>: 12 de agosto de 2024, segunda-Feira<br>
+<b>Disciplina</b>: Direito Civil (Obrigações)<br>
+<b>Professora</b>: ANA VIRGINIA CARTAXO ALVES<br>
+<b>Data</b>: 14 de agosto de 2024, quarta-feira<br>
 <img align="center" src="../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 2º período<br>
  </p>
@@ -25,26 +25,26 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Teoria do Delito (Direito Penal I)
+# Direito Civil (Obrigações)
 
 ## Notas de Aulas
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
 |:---:|:---:|:---|:---|
-|1|[Notas de aula de 12/08/2024](./notas-de-aulas/notas-de-aula-2024-08-12.md)|-|-|
-|2|[Notas de aula de 19/08/2024](./notas-de-aulas/notas-de-aula-2024-08-19.md)|-|-|
-|3|[Notas de aula de 26/08/2024](./notas-de-aulas/notas-de-aula-2024-08-26.md)|-|-|
-|4|[Notas de aula de 02/09/2024](./notas-de-aulas/notas-de-aula-2024-09-02.md)|-|-|
-|5|[Notas de aula de 09/09/2024](./notas-de-aulas/notas-de-aula-2024-09-09.md)|-|-|
-|6|[Notas de aula de 16/09/2024](./notas-de-aulas/notas-de-aula-2024-09-16.md)|-|-|
+|1|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|2|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|3|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|4|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|5|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
+|6|[Notas de aula de dd/mm/aaaa](./notas-de-aulas/notas-de-aula-aaa-mm-aa.md)|-|-|
 
 ## Trabalhos e Atividades
 
 |#|Tipo|Descrcição Trabalho / Atividade|Data para Entrega| Observações / Anotações |
 |:---:|:---:|:---|:---|:---|
-|1|Atividade de Sala|[Atividade de sala 01](./atividades-e-trabalhos/2024-08-19-atividade-01-teoriado-delito.md)|Em 19/08/2024<br>(segunda-feira)|- Atividade valendo ponto<br> - O professor(a), em 19/08/2024, passou esse trabalho para entregar (QUANDO?);|
-|2|Atividade de Sala|[Atividade de sala 02](./atividades-e-trabalhos/2024-08-19-atividade-02-teoriado-delito.md)|Em 26/08/2024<br>(segunda-feira)|- Atividade valendo ponto<br> - O professor(a), em 19/08/2024, passou esse trabalho para entregar (QUANDO?);|
-|3|Atividade de Sala|[Atividade de sala 03](./atividades-e-trabalhos/2024-08-19-atividade-03-teoriado-delito.md)|Em 02/09/2024<br>(segunda-feira)|- Atividade valendo ponto<br> - O professor(a), em 19/08/2024, passou esse trabalho para entregar (QUANDO?);|
+|1|Atividade de Sala|[Atividade de sala 01](./atividades-e-trabalhos/2024-mm-dd-atividade-01.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
+|2|Atividade de Sala|[Atividade de sala 02](./atividades-e-trabalhos/2024-mm-dd-atividade-02.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
+|3|Atividade de Sala|[Atividade de sala 03](./atividades-e-trabalhos/2024-mm-dd-atividade-03.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
 
 ## Resumos e Resenhas
 
