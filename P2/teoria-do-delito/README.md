@@ -31,12 +31,12 @@
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
 |:---:|:---:|:---|:---|
-|1|[Notas de aula de 12/08/2024](./notas-de-aulas/notas-de-aula-2024-08-12.md)|-|-|
-|2|[Notas de aula de 19/08/2024](./notas-de-aulas/notas-de-aula-2024-08-19.md)|-|-|
-|3|[Notas de aula de 26/08/2024](./notas-de-aulas/notas-de-aula-2024-08-26.md)|-|-|
-|4|[Notas de aula de 02/09/2024](./notas-de-aulas/notas-de-aula-2024-09-02.md)|-|-|
-|5|[Notas de aula de 09/09/2024](./notas-de-aulas/notas-de-aula-2024-09-09.md)|-|-|
-|6|[Notas de aula de 16/09/2024](./notas-de-aulas/notas-de-aula-2024-09-16.md)|-|-|
+|1|[Notas de aula de 12/08/2024](./notas-de-aula/notas-de-aula-2024-08-12.md)|-|-|
+|2|[Notas de aula de 19/08/2024](./notas-de-aula/notas-de-aula-2024-08-19.md)|-|-|
+|3|[Notas de aula de 26/08/2024](./notas-de-aula/notas-de-aula-2024-08-26.md)|-|-|
+|4|[Notas de aula de 02/09/2024](./notas-de-aula/notas-de-aula-2024-09-02.md)|-|-|
+|5|[Notas de aula de 09/09/2024](./notas-de-aula/notas-de-aula-2024-09-09.md)|-|-|
+|6|[Notas de aula de 16/09/2024](./notas-de-aula/notas-de-aula-2024-09-16.md)|-|-|
 
 ## Trabalhos e Atividades
 
