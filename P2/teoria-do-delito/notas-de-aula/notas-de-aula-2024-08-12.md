@@ -110,7 +110,7 @@
 - Em razão da necessidade de SEGURANÇA JURÍDICA, o ordenamento jurídico brasileiro adotou o PRINCÍPIO DA LEGALIDADE PENAL
   - Do PRINCÍPIO DA LEGALIDADE PENAL advém os PRINCÍPIOS:
     - Da RESERVA LEGAL; e
-    - Da [PRINCÍPIO DA TAXATIVIDADE(#41-o-princípio-da-taxatividade-bitencourtcapezgrecomirabete)
+    - Da [4.1 O Princípio da TAXATIVIDADE \[^BITENCOURT\]\[^CAPEZ\]\[^GRECO\]\[^MIRABETE\]](#41-o-princípio-da-taxatividade-bitencourtcapezgrecomirabete)(#41-o-princípio-da-taxatividade-bitencourtcapezgrecomirabete)
       - Consiste na diretriz que orienta o interprete da NORMA PENAL;
       - Exige que as normas penais sejam claras, precisas e determinadas, de modo que qualquer pessoa possa compreender exatamente quais condutas são proibidas e quais penas são aplicáveis;
 
