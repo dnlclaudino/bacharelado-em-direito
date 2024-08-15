@@ -52,6 +52,12 @@
 |:---:|:---|:---|
 |1|[Resumo da PARTE GERAL da Lei 10.406 de 2002](./resumos/resumo-lei-10406-2002-parte-geral.md)| Trata-se de uma resumo da lei seca;<br>- Trata-se de uma Visão Geral da Lei|
 
+|#|Tipo de Material|Item|Descrição|Observações / Anotações|
+|:---:|:---:|:---|:---|:---|
+|1|Resumo Crítico/Resenha|[Direito Civil - Movimento constitucionalista, diretrizes, teorias e princípios](./resumos/resumo-direito-civil-movimento-diretrizes-teorias-principios.md)|-|-|
+|2|Resumo Indicativo/Descritivo|Resumo da PARTE GERAL da Lei 10.406 de 2002|-|-|
+|3|Resumo Informativo/Analítico|[Histórico do Direito Civil Brasileiro](./resumos/resumo-o-direito-civil-brasileiro-historico.md)|-|-|
+
 ## Artigos Acadêmicos
 
 |#|Situação|Item|Observações / Anotações|
