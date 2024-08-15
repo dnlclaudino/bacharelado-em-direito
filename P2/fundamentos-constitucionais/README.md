@@ -48,9 +48,12 @@
 
 ## Resumos e Resenhas
 
-|#|Item|Observações / Anotações|
-|:---:|:---|:---|
-|1|[Resumo/resenha XXXXXXXXXXX-NOME-LIVRO-MATERIAL-AUTOR-ANO]()|Trata-se de uma resumo (...))|
+|#|Tipo de Material|Item|Descrição|Observações / Anotações|
+|:---:|:---:|:---|:---|:---|
+|1|Resumo Indicativo/descritivo|[...](./)|-|-|
+|2|Resumo Informativo/Analítico|[...](./)|-|-|
+|3|Resumo Crítico/Resenha|[...](./)|-|-|
+
 
 ## Artigos Acadêmicos
 
