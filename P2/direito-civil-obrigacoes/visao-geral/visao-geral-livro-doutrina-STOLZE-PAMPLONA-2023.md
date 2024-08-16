@@ -4,11 +4,10 @@
 
 <p align="center"><b>CENTRO UNIVERSITÁRIO UNIESP</b><br>
 <b>Bacharelado em Direito</b><br>
-<b>Disciplina</b>: DIREITO CIVIL - (Parte Geral)<br>
-<b>Professora</b>: MARIANA TAVARES<br>
-<b>Data</b>: 10 de abril de 2024, Quarta-Feira<br>
+<b>Disciplina</b>: DIREITO PENAL - OBRIGAÇÕES<br>
+<b>Data</b>: 16 de agosto de 2024, sexta-feira<br>
 <img align="center" src="../../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
-<b>Aluno</b>: Daniel Lima Claudino / 1º período<br>
+<b>Aluno</b>: Daniel Lima Claudino / 2º período<br>
  </p>
 </div>
 
