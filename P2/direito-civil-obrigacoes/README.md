@@ -6,7 +6,6 @@
 <b>Bacharelado em Direito</b><br>
 <b>Disciplina</b>: Direito Civil (Obrigações)<br>
 <b>Professora</b>: ANA VIRGINIA CARTAXO ALVES<br>
-<b>Data</b>: 14 de agosto de 2024, quarta-feira<br>
 <img align="center" src="../../figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023.png" width="80"><br>
 <b>Aluno</b>: Daniel Lima Claudino / 2º período<br>
  </p>
@@ -43,8 +42,6 @@
 |#|Tipo|Descrcição Trabalho / Atividade|Data para Entrega| Observações / Anotações |
 |:---:|:---:|:---|:---|:---|
 |1|Atividade de Sala|[Atividade de sala 01](./atividades-e-trabalhos/2024-mm-dd-atividade-01.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
-|2|Atividade de Sala|[Atividade de sala 02](./atividades-e-trabalhos/2024-mm-dd-atividade-02.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
-|3|Atividade de Sala|[Atividade de sala 03](./atividades-e-trabalhos/2024-mm-dd-atividade-03.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
 
 ## Resumos e Resenhas
 
@@ -52,10 +49,17 @@
 |:---:|:---|:---|
 |1|[Resumo/resenha XXXXXXXXXXX-NOME-LIVRO-MATERIAL-AUTOR-ANO]()|Trata-se de uma resumo (...))|
 
+## Visão Geral
+
+|#|Item|Tipo|Observações / Anotações|
+|:---:|:---|:---|:---|
+|1|DOUTRINA|[Visão Geral do LIVRO "Novo curso de direito civil: obrigações](./visao-geral/visao-geral-lei-10406-2002-parte-especial-livro-i-obrigacoes.md)|GAGLIANO, Pablo Stolze; PAMPLONA FILHO, Rodolfo. **Novo curso de direito civil: obrigações**. São Paulo: Saraiva, v. 2.|
+|2|NORMA JURÍDICA|[Visão Geral do DIREITO DAS OBRIGAÇÕES (arts 233 a 420 do Código Civil 2002 - Direito das Obrigações)](./visao-geral/visao-geral-lei-10406-2002-parte-especial-livro-i-obrigacoes.md)|Trata-se de uma visão geral da NORMA JURÍDICA contida no Livro I da Parte Especial do Código Civil (Direito das Obrigações)|
+
 ## Artigos Acadêmicos
 
 |#|Situação|Item|Observações / Anotações|
 |:---:|:---|:---|:---|
-|1|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo que trata (...)|
-|2|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo que trata (...)|
-|3|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo que trata (...)|
+|1|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo (...)|
+|2|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo (...)|
+|3|Minuta|[-](./artigos/artigo-2024-mm-dd-xxxxxxx.md)|Trata-se de artigo (...)|
