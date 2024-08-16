@@ -30,11 +30,40 @@
   </tr>
 </table>
 
-# DIREITO CIVIL - MOVIMENTO, DIRETRIZES TEÓRICAS, TEORIAS E PRINCÍPIOS
+<h1>DIREITO CIVIL - MOVIMENTO, DIRETRIZES TEÓRICAS, TEORIAS E PRINCÍPIOS</h1>
 
-## Referência bibliográfica
+<h2>Sumário</h2>
 
-GRAN CONCURSOS. Concurso do TRF5. Direito Civil - Parte Geral. Aula Noções Gerais I e II. Professor Carlos Elias, 2024
+<!-- TOC -->
+
+- [Movimento de constitucionalização do Direito Civil](#movimento-de-constitucionalização-do-direito-civil)
+  - [**Influência da Constituição nas Normas Civis**](#influência-da-constituição-nas-normas-civis)
+  - [**Revisão e Reformulação das Normas Civis**](#revisão-e-reformulação-das-normas-civis)
+  - [**Aplicação Judicial e Doutrinária**](#aplicação-judicial-e-doutrinária)
+  - [**Impacto Social e Jurídico**](#impacto-social-e-jurídico)
+- [Diretrizes teóricas na elaboração e para aplicação do Direito Civil](#diretrizes-teóricas-na-elaboração-e-para-aplicação-do-direito-civil)
+  - [OPERABILIDADE](#operabilidade)
+  - [SOCIABILIDADE](#sociabilidade)
+  - [ETICIDADE](#eticidade)
+    - [OS COROLÁRIOS DA BOA-FÉ OBJETIVA](#os-corolários-da-boa-fé-objetiva)
+      - [1. **Dever de Informação**](#1-dever-de-informação)
+      - [2. **Dever de Cooperação**](#2-dever-de-cooperação)
+      - [3. **Dever de Lealdade**](#3-dever-de-lealdade)
+      - [4. **Dever de Confidencialidade**](#4-dever-de-confidencialidade)
+      - [5. **Dever de Retificação**](#5-dever-de-retificação)
+      - [6. **Dever de Não Atuação Contrária ao Contrato**](#6-dever-de-não-atuação-contrária-ao-contrato)
+      - [7. **Dever de Respeito ao Propósito Econômico do Contrato**](#7-dever-de-respeito-ao-propósito-econômico-do-contrato)
+    - [A ETICIDADE NA ELABORAÇÃO E APLICAÇÃO DAS NORMAS](#a-eticidade-na-elaboração-e-aplicação-das-normas)
+- [Teorias orientadoras na elaboração e para aplicação do Direito Civil](#teorias-orientadoras-na-elaboração-e-para-aplicação-do-direito-civil)
+  - [Teoria do ADIMPLEMENTO SUBSTANCIAL ou ADIMPLEMENTO MÍNIMO](#teoria-do-adimplemento-substancial-ou-adimplemento-mínimo)
+- [Princípios orientadores na elaboração e para aplicação do Direito Civil](#princípios-orientadores-na-elaboração-e-para-aplicação-do-direito-civil)
+  - [Princípio do aviso prévio a sansão](#princípio-do-aviso-prévio-a-sansão)
+  - [Princípio da proteção Simplificada do Agraciado](#princípio-da-proteção-simplificada-do-agraciado)
+  - [Princípio da proteção simplificada do Luxo](#princípio-da-proteção-simplificada-do-luxo)
+  - [Princípio da NÃO RESOLUTIVIDADE DO CONTRATO em razão do cumprimento de parcela substancial da dívida](#princípio-da-não-resolutividade-do-contrato-em-razão-do-cumprimento-de-parcela-substancial-da-dívida)
+- [Referência bibliográfica](#referência-bibliográfica)
+
+<!-- /TOC -->
 
 ## Movimento de constitucionalização do Direito Civil
 
@@ -193,3 +222,7 @@ Em resumo, os corolários da boa-fé objetiva são **PRINCÍPIOS** que asseguram
 ### Princípio da proteção simplificada do Luxo
 
 ### Princípio da NÃO RESOLUTIVIDADE DO CONTRATO em razão do cumprimento de parcela substancial da dívida
+
+## Referência bibliográfica
+
+GRAN CONCURSOS. Concurso do TRF5. Direito Civil - Parte Geral. Aula Noções Gerais I e II. Professor Carlos Elias, 2024
