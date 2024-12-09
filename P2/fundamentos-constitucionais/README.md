@@ -50,7 +50,7 @@
 
 |#|Qual Prova?|Link|Descrição|Observações / Anotações|
 |:---:|:---:|:---|:---|:---|
-|1|DIREITO CONSTITUCIONAL / Reposição (P1)|[Revisão para Prova de Reposição (P1)](./revisao-para-prova/revisao-para-prova-de-reposicao-P1.md)|Revisão para prova de REPOSIÇÃO de DIREITO CONSTITUCIONAL que ocorrerá amanhã, dia 10/12/2024-|-|
+|1|DIREITO CONSTITUCIONAL / Reposição (P1)|[Revisão para Prova de Reposição (P1)](./revisao-para-prova/revisao-para-prova-de-reposicao-P1.md)|Revisão para prova de REPOSIÇÃO de DIREITO CONSTITUCIONAL que ocorrerá amanhã, dia 10/12/2024|-|
 
 ## Resumos e Resenhas
 
