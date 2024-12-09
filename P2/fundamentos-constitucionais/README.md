@@ -46,6 +46,12 @@
 |2|Atividade de Sala|[Atividade de sala 02](./atividades-e-trabalhos/2024-mm-dd-atividade-02.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
 |3|Atividade de Sala|[Atividade de sala 03](./atividades-e-trabalhos/2024-mm-dd-atividade-03.md)|Em dd/mm/aaaa<br>(xxxxxx-feira)|- Atividade valendo ponto<br> - O professor(a), em dd/mm/aaaa, passou esse trabalho para entregar (QUANDO?);|
 
+## Revisão para Prova
+
+|#|Qual Prova?|Link|Descrição|Observações / Anotações|
+|:---:|:---:|:---|:---|:---|
+|1|DIREITO CONSTITUCIONAL / Reposição (P1)|[Revisão para Prova de Reposição (P1)](./revisao-para-prova/revisao-para-prova-de-reposicao-P1.md)|Revisão para prova de REPOSIÇÃO de DIREITO CONSTITUCIONAL que ocorrerá amanhã, dia 10/12/2024-|-|
+
 ## Resumos e Resenhas
 
 |#|Tipo de Material|Item|Descrição|Observações / Anotações|
@@ -53,7 +59,6 @@
 |1|Resumo Indicativo/descritivo|[...](./)|-|-|
 |2|Resumo Informativo/Analítico|[...](./)|-|-|
 |3|Resumo Crítico/Resenha|[...](./)|-|-|
-
 
 ## Artigos Acadêmicos
 
