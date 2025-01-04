@@ -54,7 +54,7 @@
 |:---:|:---|:---|
 |1|Norma Jurídica|[Código Penal - Parte Geral](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral.md)|
 |2|Norma Jurídica|[Código Penal - Parte Geral - Título I - Da aplicação da pena](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral-titulo-i-aplicacao-da-pena.md)|
-|3|Norma Jurídica|[Código Penal - Parte Geral - Título II - Do Crime](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral-titulo-ii-da-pena.md)|
+|3|Norma Jurídica|[Código Penal - Parte Geral - Título II - Do crime](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral-titulo-ii-do-crime.md)|
 |4|Norma Jurídica|[Código Penal - Parte Geral - Título III - Da Imputabilidade Penal](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral-titulo-iii-da-imputabilidade-penal.md)|
 |5|Norma Jurídica|[Código Penal - Parte Geral - Título IV - Do Concurso de Pessoas](./visao-geral/vg-2025-01-04-codigo-penal-parte-geral-titulo-iv-do-concurso-de-pessoas.md)|
 |6|Norma Jurídica|[Código Penal - Parte Geral - Título V - ]()|
