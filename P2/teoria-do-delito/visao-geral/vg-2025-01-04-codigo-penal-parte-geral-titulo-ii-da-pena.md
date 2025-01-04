@@ -59,5 +59,7 @@ T19[Exclusão de ilicitude]
 T20[Excesso punível]
 T21[Estado de necessidade]
 T22[Legítima defesa]
+T23[Exercício regular de Direito]
+T24[Estrito cumprimento do dever legal]
 
 ```
