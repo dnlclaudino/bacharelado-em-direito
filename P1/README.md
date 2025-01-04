@@ -99,13 +99,17 @@
      - Essa seção é destinada a relacionar todas as notas realizadas durante uma aula
    - Durante o período:
      - Identificou-se a necessidade de <b><u>criação de mais seções</u></b>
-       - **TRABALHOS E ATIVIDADES**
-         - Contendo os trabalhos e atividades que o professor passa durante o período <b><u>para serem entregues</u></b> e que <b><u>valem nota</u></b>;
-       - **RESUMOS E RESENHAS**
-         - Contendo referências para outros repositórios e fontes com resumos e resenhas da minha gestão do conhecimento (fonte: P1/economia);
-         - Contendo resumos para a prova (compilação de notas de aula, outras anotações e registros);
-       - [**RESUMOS**](https://github.com/dnlclaudino/bacharelado-em-direito/blob/master/P1/sociologia-geral-e-juridica/README.md#resumos)
-         - <b><u><span style="background-color:tomato">Deve ser substituído por "**RESUMOS E RESENHAS**"</span></u></b>, para padronizar as seções de cada disciplina (fonte: P1/sociologia-geral-e-juridica)
+       - **ARTIGOS**
+         - Contendo arquivos com minutas de artigos acadêmicos para futura publicação em revistas e outros periódicos
+         - A estrutura/conteúdo de cada arquivo deve seguir as seguintes normas:
+           - [ABNT 6022/2022 - Elementos de artigo em publicação periódica científica impressa](https://1drv.ms/b/s!Au-CrfNP6c0brCoYNPHie7iOtMfA?e=24qOjt)
+           - [ABNT 6023/2018 - Referências Bibliográficas](https://1drv.ms/b/s!Au-CrfNP6c0bg8cI71_JqXVjOjeyWQ?e=dXdIYY)
+           - [ABNT 10520/2001 - Citações em Documentos](https://1drv.ms/b/s!Au-CrfNP6c0brC6Skw7jpQY61obl?e=HbOkye) 
+       - IMAGENS
+       - **IMAGENS**
+         - Deve existir uma seção e pasta para armazenar arquivos contendo imagens, figuras e fotos relacionadas com a disciplina (fotos do quadro devem ficar armazenados na pasta "QUADRO")
+       - MAPAS-MENTAIS
+       - NOTAS-DE-AULA
        - **QUADRO**
          - Deve existir uma seção e pasta para armazenar arquivos contendo fotos do quadro NA SALA DE AULA;
          - Os nomes de arquivos devem seguir o formato explicitado nos exemplos abaixo:
@@ -113,15 +117,13 @@
            - 2024.03.20-AULA-ECONOMIA-QUADRO-2-DE-3.jpg
            - 2024.03.20-AULA-ECONOMIA-QUADRO-3-DE-3.jpg
            - 2024.03.20-AULA-ECONOMIA-QUADRO-VISAO-GERAL.jpg
-       - **IMAGENS**
-         - Deve existir uma seção e pasta para armazenar arquivos contendo imagens, figuras e fotos relacionadas com a disciplina (fotos do quadro devem ficar armazenados na pasta "QUADRO")
-       - **ARTIGOS ACADÊMICOS**
-         - Contendo arquivos com minutas de artigos acadêmicos para futura publicação em revistas e outros periódicos
-         - A estrutura/conteúdo de cada arquivo deve seguir as seguintes normas:
-           - [ABNT 6022/2022 - Elementos de artigo em publicação periódica científica impressa](https://1drv.ms/b/s!Au-CrfNP6c0brCoYNPHie7iOtMfA?e=24qOjt)
-           - [ABNT 6023/2018 - Referências Bibliográficas](https://1drv.ms/b/s!Au-CrfNP6c0bg8cI71_JqXVjOjeyWQ?e=dXdIYY)
-           - [ABNT 10520/2001 - Citações em Documentos](https://1drv.ms/b/s!Au-CrfNP6c0brC6Skw7jpQY61obl?e=HbOkye) 
-    - No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula o que prejudicou a inserção desse TOC na tabela do README.md da disciplina (veja seção anterior)
+       - RESUMOS
+       - REVISAO-PARA-PROVA
+         - Contém as revisões para as provas para um estudo dirigido;
+       - **TRABALHOS E ATIVIDADES**
+         - Contendo os trabalhos e atividades que o professor passa durante o período <b><u>para serem entregues</u></b> e que <b><u>valem nota</u></b>;
+       - VISAO-GERAL
+    - No P1, não foi adicionado TOC (Table os Contents) em cada nota de aula. Isso prejudicou a organização e conhecimento do conteúdo de nota de aula;
 
 #### Atividades a serem realizadas (CRIAR <b><u>ISSUES</u></b>)
 
