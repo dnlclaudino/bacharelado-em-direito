@@ -65,14 +65,15 @@
   - [Conteúdo](#conteúdo)
   - [Estabilidade](#estabilidade)
 - [PODER CONSTITUINTE](#poder-constituinte)
-  - [Originário](#originário)
-  - [Derivado](#derivado)
-  - [Difuso](#difuso)
+  - [Poder Constituinte Originário](#poder-constituinte-originário)
+  - [Poder Constituinte Derivado](#poder-constituinte-derivado)
+  - [Poder Constituinte Difuso](#poder-constituinte-difuso)
   - [Supranacional](#supranacional)
 - [EFICÁCIA E APLICABILIDADE DAS NORMAS CONSTITUCIONAIS](#eficácia-e-aplicabilidade-das-normas-constitucionais)
-  - [Eficácia Plena](#eficácia-plena)
-  - [Eficácia Contida](#eficácia-contida)
-  - [Eficácia Limitada](#eficácia-limitada)
+  - [Normas de eficácia plena](#normas-de-eficácia-plena)
+  - [Normas de eficácia contida](#normas-de-eficácia-contida)
+  - [Normas de eficácia limitada](#normas-de-eficácia-limitada)
+  - [Características da aplicabilidade](#características-da-aplicabilidade)
 
 <!-- /TOC -->
 
@@ -160,16 +161,11 @@
 
 ## MECANISMOS DE PROTEÇÃO CONSTITUCIONAL
 
-```mermaid
-mindmap
-  root((MECANISMOS de PROTEÇÃO CONSTITUCIONAL))
-    1 - CONTROLE DE CONSTITUCIONALIDADE
-    2 - REMÉDIOS CONSTITUCIONAIS
-    3 - INTERVENÇÃO FEDERAL E INTERVENÇÃO ESTADUAL
-    4 - FUNÇÃO DO MINISTÉRIO PÚBLICO
-    5 - GARANTIAS INSTITUCIONAIS
-    6 - DEFESA DO ESTADO E DAS INSTITUIÇÕES DEMOCRÁTICAS
-```
+<div style="text-align:center">
+  <p><b>Figura</b>: Mecanismos de proteção constitucional</p>
+  <img height="250" src="../imagens/mapa-mental-mecanismos-de-protecao-constitucional.png" alt="">
+  <p><b>Fonte</b>: Elaborado pelo autor (mermaid) </p>
+</div>
 
 - São **MECANISMOS** de **PROTEÇÃO CONSTITUCIONAL**:
   - **CONTROLE DE CONSTITUCIONALIDADE**
@@ -324,25 +320,99 @@ mindmap
 ## CLASSIFICAÇÃO DAS CONSTITUIÇÕES
 
 ### Origem
+
+- **OUTORGADA**
+  - É imposta pelo governante ou por um grupo sem participação popular significativa.
+  - Surge, geralmente, em **CONTEXTOS AUTORITÁRIOS**.
+    - Por exemplo, a Constituição de 1937 no Brasil, criada no período do <b><u>Estado **Novo**</u></b>.
+- **PROMULGADA**
+  - É elaborada por uma assembleia constituinte ou outro órgão representativo, com ampla participação popular, refletindo a vontade coletiva.
+    - Exemplo: a Constituição Federal de 1988, conhecida como a "**CONSTITUIÇÃO CIDADÃ**".
+
 ### Forma
+
+- **ESCRITA**
+  - É sistematizada em um <b><u>documento único e formal</u></b>, organizado em artigos, capítulos e títulos.
+  - A maioria das constituições modernas adota esse formato, como a Constituição Federal de 1988.
+- **NÃO ESCRITA**
+  - É formada por costumes, convenções e jurisprudências acumulados ao longo do tempo, sem um documento único. Exemplo clássico: a **Constituição do Reino Unido**.
+
 ### Modo de Elaboração
+
+- **HISTÓRICA**
+  - Surge gradualmente ao longo do tempo, baseada em tradições e evoluções históricas.
+  - Exemplo: a Constituição britânica.
+- **DOGMÁTICA ou ANALÍTICA**
+  - É deliberadamente elaborada com base em princípios e valores previamente definidos, <b><u>geralmente</u></b> em um <b><u>momento de ruptura histórica</u></b>.
+    - Exemplo: a Constituição Federal de 1988, elaborada no **contexto de redemocratização do Brasil**.
+
 ### Extensão
+
+- **EXTENSIVA**
+  - Apresenta um texto detalhado, incluindo normas sobre diferentes aspectos da vida social, econômica e política. Exemplo: a Constituição Federal de 1988, que aborda temas como direitos fundamentais e organização do Estado.
+- **SINTÉTICA**
+  - É mais concisa, limitando-se aos princípios fundamentais e às bases estruturais do Estado. Exemplo: a Constituição dos Estados Unidos da América.
+
 ### Conteúdo
+
+- **FORMAL**
+  - Inclui todas as normas presentes no texto constitucional, independentemente de sua relevância material;
+  - Considera-se <b><u>FORMAL</u></b> <b><u>qualquer norma</u></b> inserida na Constituição.
+- **MATERIAL**
+  - Refere-se apenas às normas que tratam de assuntos essenciais para a organização e funcionamento do Estado, como os direitos fundamentais e a estrutura dos poderes.
+
 ### Estabilidade
+
+- **IMUTÁVEL**
+  - Não admite alterações em seu texto;
+  - Essa característica é incomum, pois impede adaptações às mudanças sociais e históricas.
+- **RÍGIDA**
+  - Requer um <b><u>processo especial e mais complexo para ser alterada, distinto do processo legislativo ordinário</u></b>. Exemplo: a Constituição Federal de 1988.
+- **FLEXÍVEL**
+  - Pode ser alterada pelo <b><u>mesmo processo legislativo utilizado para as leis ordinárias</u></b>, como ocorre em algumas constituições estaduais ou estatutos.
 
 ## PODER CONSTITUINTE
 
-### Originário
+- É o poder que CRIA, MODIFICA e REVOGA uma constituição, refletindo a organização jurídica, política e social de um povo.
 
-### Derivado
+### Poder Constituinte Originário
 
-- Decorrente
-- Revisor
-- Reformador
+- É o poder responsável pela <b><u>CRIAÇÃO DE UMA NOVA CONSTITUIÇÃO</u></b>, <b><u>rompendo</u></b> com a <b><u>ORDEM JURÍDICA ANTERIOR</u></b>;
+- Tem as seguintes características:
+  - Inicial: Não se subordina a normas anteriores, pois inaugura uma nova ordem jurídica.
+  - Ilimitado: Não tem restrições formais ou materiais, podendo regular quaisquer aspectos conforme a vontade do povo.
+  - Incondicionado: Não segue procedimentos preestabelecidos.
+  - Autônomo: É independente em sua manifestação e deliberações.
+- Exemplo no Brasil
+  - Poder constituinte que elaborou a Constituição Federal de 1988, convocado pela <b><u>Assembleia Nacional Constituinte</u></b>.
 
-### Difuso
+### Poder Constituinte Derivado
 
-- Seu OBJETIVO é alterar a constituição por meio de um PROCESSO INFORMAL, ou seja, modificando o SENTIDO INTERPRETATIVO DA NORMA e não o seu conteúdo;
+- É o poder que decorre do originário, limitado pelas normas da Constituição vigente;
+- Ele se subdivide em **TRÊS TIPOS PRINCIPAIS**:
+  - **REFORMADOR**
+    - Refere-se à capacidade de modificar partes da Constituição por meio do processo de emendas constitucionais, previsto no artigo 60 da Constituição Federal.
+      - Possui **LIMITES**:
+        - **FORMAIS**: Deve seguir o rito de tramitação estabelecido pela própria Constituição (propostas por 1/3 dos parlamentares ou pelo Presidente da República, por exemplo, e aprovação em dois turnos em cada Casa, com quórum de 3/5).
+        - **CIRCUNSTANCIAIS**: <b><u>Não pode ocorrer</u></b> durante:
+          - Estado de sítio;
+          - Estado de defesa; ou
+          - Intervenção federal.
+        - **MATERIAIS**: Cláusulas pétreas <b><u>não podem ser abolidas ou alteradas</u></b> em seu núcleo essencial (art. 60, §4º), como os <b><u>direitos fundamentais</u></b> e a <b><u>separação dos poderes</u></b>.
+  - **DECORRENTE**
+    - É a competência atribuída pela Constituição Federal aos Estados para elaborarem suas próprias Constituições Estaduais, respeitando os princípios estabelecidos na Constituição Federal (art. 25, CF).
+    - Não é ilimitado, pois deve observar os limites formais e materiais impostos pela Constituição Federal.
+  - **REVISOR**
+    - No Brasil, esse tipo de poder foi utilizado em caráter excepcional para permitir revisões constitucionais cinco anos após a promulgação da Constituição de 1988 (art. 3º do ADCT).
+    - As alterações realizadas pelo poder revisor têm menor complexidade de tramitação em comparação às emendas constitucionais.
+
+### Poder Constituinte Difuso
+
+- Seu OBJETIVO é alterar a constituição por meio de um PROCESSO INFORMAL, ou seja, <b><u>modificando o SENTIDO INTERPRETATIVO DA NORMA</u></b> e não o seu conteúdo;
+- Embora <b><u>não seja tradicionalmente classificado</u></b> como uma espécie formal, refere-se à capacidade de os <b><u>ÓRGÃOS DO PODER JUDICIÁRIO</u></b>, especialmente o Supremo Tribunal Federal (STF), **REINTERPRETAREM** e **ADAPTAREM** o texto constitucional às <b><u>novas demandas sociais e políticas</u></b>.
+- Essa função ocorre por meio:
+  - Do **CONTROLE DE CONSTITUCIONALIDADE**; e
+  - De **DECISÕES JURISPRUDENCIAIS** que moldam o sentido da Constituição.
 
 ### Supranacional
 
@@ -350,11 +420,40 @@ mindmap
   - CRIA uma CONSTITUIÇÃO;
   - O Estado cede uma parcela de sua SOBERANIA para que uma <b><u>CONSTITUIÇÃO COMUNITÁRIA SEJA CRIADA</u></b>.
     - Exemplo: **UNIÃO EUROPÉIA**
+- É um conceito que emerge no contexto de **INTEGRAÇÃO ENTRE ESTADOS**;
+- Esses Estados:
+  - Transferem ou compartilham competências soberanas com **ORGANIZAÇÕES SUPRANACIONAIS**;
+  - Criam um <b><u>ORDENAMENTO JURÍDICO SUPERIOR</u></b> ao dos Estados-membros;
+- Esse poder constitui a base jurídica e política para a formação de blocos ou entidades regionais, como a União Europeia, em que normas supranacionais possuem primazia sobre as legislações nacionais.
 
 ## EFICÁCIA E APLICABILIDADE DAS NORMAS CONSTITUCIONAIS
 
-### Eficácia Plena
+- Segundo <b><u>José Afonso da Silva</u></b>, as normas constitucionais são classificadas em **TRÊS CATEGORIAS** principais:
 
-### Eficácia Contida
+### Normas de eficácia plena
 
-### Eficácia Limitada
+- São aquelas que produzem <b><u>TODOS OS EFEITOS JURÍDICOS</u></b> **desde a promulgação da Constituição**, <b><u>sem necessidade</u></b> de **REGULAMENTAÇÃO** ou **COMPLEMENTAÇÃO** legislativa;
+- Têm <b><u>aplicabilidade DIRETA, IMEDIATA e INTEGRAL</u></b>.
+  - Exemplo: O art. 5º, IV, da Constituição Federal de 1988, que garante a <b><u>liberdade de manifestação do pensamento</u></b>.
+
+### Normas de eficácia contida
+
+- Têm aplicabilidade <b><u>DIRETA</u></b> e <b><u>IMEDIATA</u></b>, <b><u>mas não integral</u></b>;
+- Podem ser <b><u>RESTRINGIDAS POR LEGISLAÇÃO INFRACONSTITUCIONAL</u></b> ou por <b><u>OUTRAS NORMAS CONSTITUCIONAIS</u></b>;
+  - Exemplo: O art. 5º, XIII, que assegura o <b><u>livre exercício de qualquer trabalho, ofício ou profissão</u></b>, desde que atendidas as <b><u>qualificações legais exigidas</u></b>.
+
+### Normas de eficácia limitada
+
+- Dependem de <b><u>REGULAMENTAÇÃO LEGISLATIVA</u></b> para produzir todos os seus <b><u>EFEITOS JURÍDICOS</u></b>;
+- Têm <b><u>APLICABILIDADE MEDIATA E REDUZIDA</u></b>, funcionando como <b><u>um comando dirigido ao legislador</u></b> para que complemente a norma;
+- Subdividem-se em:
+  - **NORMAS DECLARATÓRIAS DE PRINCÍPIOS INSTITUTIVOS OU ORGANIZATIVOS**: Estabelecem princípios para estruturar instituições ou órgãos. Exemplo: O art. 18, §2º, que trata sobre a criação de municípios.
+    - **Art. 18. (...) § 2º** Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar.
+  - **NORMAS PROGRAMÁTICAS**: Definem <b><u>OBJETIVOS</u></b> ou <b><u>DIRETRIZES</u></b> que o Estado <b><u>deve buscar alcançar</u></b>.
+    - Exemplo: O art. 196, que reconhece <b><u>a saúde como direito de todos e dever do Estado</u></b>.
+
+### Características da aplicabilidade
+
+- **IMEDIATA**: Quando a norma é autoaplicável e <b><u>não depende</u></b> de **REGULAMENTAÇÃO**.
+- **MEDIATA OU DIFERIDA**: Quando a norma necessita de <b><u>REGULAMENTAÇÃO</u></b> para produzir efeitos plenos.
+- **CONDICIONADA**: Quando a norma exige um **EVENTO** ou **FATO FUTURO** para que <b><u>seus efeitos</u></b> se concretizem.
