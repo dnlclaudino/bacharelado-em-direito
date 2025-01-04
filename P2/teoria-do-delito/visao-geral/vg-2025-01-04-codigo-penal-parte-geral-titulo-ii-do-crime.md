@@ -33,7 +33,7 @@
 
 <h1>Visão Geral</h1>
 
-## Título II - Da pena
+## Título II - Do crime
 
 ```mermaid
 flowchart LR
