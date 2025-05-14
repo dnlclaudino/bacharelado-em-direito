@@ -38,6 +38,7 @@ Repositório para Gestão do Conhecimento do Curso de Bacharelado em Direito.
 
 | Período | Disciplinas | Anotações / Observações |
 |:---:|:---|:---|
+|[3º período](./P3/README.md)|- Direito Constitucional (Organização do Estado e Controle de Constitucionalidade)<br>- Direito Civil (Contratos)<br>- Direito Penal (Teoria Geral da Pena - TGP)<br>- Teoria Geral do Processo<br>- História do Direito|-|
 |[2º período](./P2/README.md)|- Teoria do Delito (Direito Penal I)<br>- Fundamentos Constitucionais (Direito Constitucional I)<br>- Direito Civil (Obrigações)<br>- Antropologia e Psicologia Jurídica<br>- Metodologia do Trabalho Científico|-|
 |[1º período](./P1/README.md)|- Introdução ao Estudo do Direito<br>- Sociologia Geral e Jurídica<br>- Ciência Política e TGE<br>- Filosofia Geral e Jurídica<br>- Direito Civil (Parte Geral)<br>- Economia |-|
 
