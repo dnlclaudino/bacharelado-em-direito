@@ -27,8 +27,6 @@
 
 # Direito Civil (Parte Geral)
 
-- **Prof.:** Mariane
-
 ## Notas de Aulas
 
 |#|Notas de Aula|Tópicos Abordados na Aula|Observação/Anotação|
