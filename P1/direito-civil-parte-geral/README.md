@@ -46,6 +46,12 @@
 |:---:|:---:|:---|:---|:---|
 |1|Atividade|[Resenha Crítica do Documentário: Holocausto Brasileiro](./trabalhos-e-atividades/2024-03-07-atividade-resenha-critica-a-luz-dudh.md)|Em 07/03/2024<br>(quinta-feira)|- Atividade valendo até 1,0 ponto<br> - A professora Mariana, em 29/03/2024, passou esse trabalho para entregar na próxima aula;|
 
+## Visão Geral
+
+|#|Tipo|Objeto|Descrição|Observações / Anotações|
+|:---:|:---|:---|:---|:---|
+|1|NORMA JURÍDICA|Lei 10.406/2002|[Visão geral da PARTE GERAL do Código Civil de 2002](./visao-geral/vg-lei-10406-2002.md)|-|
+
 ## Resumos e Resenhas
 
 |#|Item|Observações / Anotações|
